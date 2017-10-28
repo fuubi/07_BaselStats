@@ -14,7 +14,7 @@ public class SceneController : MonoBehaviour {
 
         // Read the svg file
 
-        SVGFileReader.readZones("C:/Programmierung/BaselInside/data/svg/test.svg");
+        SVGFileReader.readZones("C:/Programmierung/BaselInside/data/json/Bezirke.json");
         // Instantiate the zone 
         Instantiate(zonePrefab);
 		
