@@ -30,7 +30,11 @@ export class SearchService {
 
 
     removeQueriedItem(item: string) {
-        this.queriedItemsList.pop(item);
+        try {
+            this.queriedItemsList.pop(item);
+        } catch (e) {
+            console.log(e)
+        }
         this.queriedItems.next(this.queriedItemsList)
     }
 }
