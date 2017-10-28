@@ -1,3 +1,5 @@
+import { schema as indicator } from './indicator';
+
 const schema = {
   year: {
     type: "integer",
@@ -7,23 +9,26 @@ const schema = {
   count: {
     type:"scaled_float",
     scaling_factor: 100,
-    index:"not_analyzed"
   },
-  layer:{
-    type:"string",
+  // Wohnbezirk
+  wbe: {
+    type: "string",
     index: "not_analyzed"
   },
-
-  suggest: {
-    type : "completion",
-    analyzer : "simple",
-    search_analyzer : "simple",
-    payloads: true
+  // Wohnviertel
+  wvi: {
+    type: "string",
+    index: "not_analyzed"
+  },
+  indicator: {
+    ...indicator
   }
 };
 
 export default {
-  dataset: {
-    properties: schema
+  mappings: {
+    dataset: {
+      properties: schema
+    }
   }
 };
