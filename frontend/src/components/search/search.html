@@ -1,0 +1,7 @@
+<ion-searchbar
+        [(ngModel)]="autocomplete.query"
+        [showCancelButton]="true"
+        (ionInput)="updateSearch()"
+        (ionCancel)="onCancel($event)">
+</ion-searchbar>
+
