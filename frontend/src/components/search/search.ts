@@ -29,6 +29,7 @@ export class SearchComponent {
             this.autocompleteItems = [];
             return;
         }
+        this.autocompleteItems = [];
         this.searchService.getPredictions(this.autocomplete.query)
             .subscribe(prediction => {
                 this.autocompleteItems.push(prediction);
