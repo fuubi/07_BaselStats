@@ -6,7 +6,7 @@ import csv
 import os
 import pdb
 from elasticsearch import Elasticsearch
-
+import math
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
@@ -67,7 +67,6 @@ def generate_json_from_csv():
     for file in  os.listdir(CSV_FILE_DIRECTORY):
         csvfile = open('{}/{}'.format(CSV_FILE_DIRECTORY, file), 'r')
         logger.info("Read CSV File {}/{}".format(CSV_FILE_DIRECTORY, file))
-        jsonfile = open('{}/{}.'.format(JSON_FILE_DIRECTORY, file.replace('csv', 'json')), 'w')
 
         level = file.split('-')[-1].split('.')[0]
         logger.debug("level: {}".format(level))
@@ -92,18 +91,20 @@ def generate_json_from_csv():
                     areas_wov_id[row[level]] = search_area(row[level], areas)
                 
                 wov_id = areas_wov_id[row[level]]
-
+                count = float(row.get(key, "0"))
+                if math.isnan(count):
+                    count = None
                 data.append({
                     'key': key,
                     level: row[level],
                     'wov_id': wov_id,
                     'year': int(row['jahr']),
-                    'count': float(row.get(key, "0")),
+                    'count': count,
                     'indicator': meta_data[key]
                     })
             
             if data:
-                with open('{}/{}.'.format(JSON_FILE_DIRECTORY, file.replace('csv', 'json')), 'w') as json_file:
+                with open('{}/{}'.format(JSON_FILE_DIRECTORY, file.replace('csv', 'json')), 'w') as json_file:
                     json_file.write(json.dumps(data, indent=4))
         except TypeError as e:
             logger.error("Could not parse file {}", file)
@@ -117,12 +118,15 @@ def import_to_elastic():
         json_data = json.load(open('{}/{}'.format(JSON_FILE_DIRECTORY, file), 'r'))
         logger.info("process {}".format(file))
         for data in json_data:
-            es.index(index='baselHack', doc_type='dataset', id=idx, body=data)
+            req = es.index(index='baselhack', doc_type='dataset', id=idx, body=data)
+            if req['result'] != 'created':
+                logger.error("Could not save entry for {}".format(data))
+                continue
             idx += 1
 def main():
-    #get_csv_files()
-    generate_json_from_csv()
-    #import_to_elastic()
+    # get_csv_files()
+    # generate_json_from_csv()
+    import_to_elastic()
 
 
 if __name__ == "__main__":
