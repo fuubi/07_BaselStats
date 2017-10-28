@@ -8,6 +8,8 @@ import { QueriesBoxComponent } from './queries-box/queries-box';
 import { LineChartAComponent } from './line-chart-a/line-chart-a';
 import { ChartsModule } from 'ng2-charts';
 import { ChartService } from './line-chart-a/chart.service';
+import { NgxChartsModule } from '@swimlane/ngx-charts';
+import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 @NgModule({
     declarations: [
         SearchComponent,
@@ -17,7 +19,9 @@ import { ChartService } from './line-chart-a/chart.service';
     imports: [
         IonicModule,
         HttpModule,
-        ChartsModule
+        ChartsModule,
+        BrowserAnimationsModule,
+        NgxChartsModule
     ],
     exports: [
         SearchComponent,

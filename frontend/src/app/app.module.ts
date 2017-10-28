@@ -10,6 +10,8 @@ import { StatusBar } from '@ionic-native/status-bar';
 import { SplashScreen } from '@ionic-native/splash-screen';
 import { ComponentsModule } from '../components/components.module';
 import { ChartsModule } from 'ng2-charts';
+import { NgxChartsModule } from '@swimlane/ngx-charts';
+import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 
 @NgModule({
     declarations: [
@@ -21,7 +23,9 @@ import { ChartsModule } from 'ng2-charts';
         BrowserModule,
         IonicModule.forRoot(MyApp),
         ComponentsModule,
-        ChartsModule
+        ChartsModule,
+        BrowserAnimationsModule,
+        NgxChartsModule,
     ],
     bootstrap: [IonicApp],
     entryComponents: [

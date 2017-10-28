@@ -1,18 +1,16 @@
-<div *ngIf="lineChartData">
-    <div class="row">
-        <div class="col-md-6">
-            <div style="display: block;">
-                <canvas baseChart width="400" height="400"
-                        [datasets]="lineChartData"
-                        [labels]="lineChartLabels"
-                        [options]="lineChartOptions"
-                        [colors]="lineChartColors"
-                        [legend]="lineChartLegend"
-                        [chartType]="lineChartType"
-                        (chartHover)="chartHovered($event)"
-                        (chartClick)="chartClicked($event)"></canvas>
-            </div>
 
-        </div>
-    </div>
-</div>
+    <ngx-charts-line-chart
+            [view]="view"
+            [scheme]="colorScheme"
+            [results]="multi"
+            [gradient]="gradient"
+            [xAxis]="showXAxis"
+            [yAxis]="showYAxis"
+            [legend]="showLegend"
+            [showXAxisLabel]="showXAxisLabel"
+            [showYAxisLabel]="showYAxisLabel"
+            [xAxisLabel]="xAxisLabel"
+            [yAxisLabel]="yAxisLabel"
+            [autoScale]="autoScale"
+            (select)="onSelect($event)">
+    </ngx-charts-line-chart>

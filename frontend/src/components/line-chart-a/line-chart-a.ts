@@ -1,48 +1,42 @@
 import { Component } from '@angular/core';
 import { ChartService } from './chart.service';
-import { LineChartData } from './model';
+import { single, multi } from './data';
 
 @Component({
     selector: 'line-chart-a',
     templateUrl: 'line-chart-a.html'
 })
 export class LineChartAComponent {
-    public lineChartData: LineChartData[];
-    public lineChartLabels: string[];
+    single: any[]  = single;
+    multi: any[]  = multi;
 
-    public lineChartOptions: any = {responsive: true};
-    public lineChartColors: any[];
-    public lineChartLegend: boolean = true;
-    public lineChartType: string = 'line';
+    view: any[] = [700, 400];
+
+    // options
+    showXAxis = true;
+    showYAxis = true;
+    gradient = false;
+    showLegend = true;
+    showXAxisLabel = true;
+    xAxisLabel = 'Years';
+    showYAxisLabel = true;
+    yAxisLabel = 'Population';
+
+    colorScheme = {
+        domain: ['#5AA454', '#A10A28', '#C7B42C', '#AAAAAA']
+    };
+
+    // line, area
+    autoScale = true;
+
 
     constructor(private chartService: ChartService) {
-        chartService.getLineChartData()
-            .subscribe(d => {
-                this.lineChartData = d
-            });
-
-        chartService.getLabels()
-            .subscribe(l => {
-                    this.lineChartLabels = l
-                }
-            );
-
-        chartService.getChartColorShema()
-            .subscribe(cs => {
-                this.lineChartColors = cs;
-            });
-
 
 
     }
 
-
-    // events
-    public chartClicked(e: any): void {
-        console.log(e);
+    onSelect(event) {
+        console.log(event);
     }
 
-    public chartHovered(e: any): void {
-        console.log(e);
-    }
 }
