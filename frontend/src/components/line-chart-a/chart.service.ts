@@ -6,6 +6,7 @@ import { Observable } from 'rxjs';
 export class ChartService {
     private lineChartData: Observable<LineChartData[]>;
     private lineChartLabels: Observable<string[]>;
+    public lineChartColors: any[] = LINE_CHART_COLOR;
 
     constructor() {
         this.lineChartLabels =
@@ -28,6 +29,37 @@ export class ChartService {
         return this.lineChartLabels;
     }
 
+    public getChartColorShema() {
+        return this.lineChartColors;
+    }
 }
+
+
+let LINE_CHART_COLOR: Array<any> = [
+    { // grey
+        backgroundColor: 'rgba(148,159,177,0.2)',
+        borderColor: 'rgba(148,159,177,1)',
+        pointBackgroundColor: 'rgba(148,159,177,1)',
+        pointBorderColor: '#fff',
+        pointHoverBackgroundColor: '#fff',
+        pointHoverBorderColor: 'rgba(148,159,177,0.8)'
+    },
+    { // dark grey
+        backgroundColor: 'rgba(77,83,96,0.2)',
+        borderColor: 'rgba(77,83,96,1)',
+        pointBackgroundColor: 'rgba(77,83,96,1)',
+        pointBorderColor: '#fff',
+        pointHoverBackgroundColor: '#fff',
+        pointHoverBorderColor: 'rgba(77,83,96,1)'
+    },
+    { // grey
+        backgroundColor: 'rgba(148,159,177,0.2)',
+        borderColor: 'rgba(148,159,177,1)',
+        pointBackgroundColor: 'rgba(148,159,177,1)',
+        pointBorderColor: '#fff',
+        pointHoverBackgroundColor: '#fff',
+        pointHoverBorderColor: 'rgba(148,159,177,0.8)'
+    }
+];
 
 
