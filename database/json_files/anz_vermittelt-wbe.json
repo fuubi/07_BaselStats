@@ -1,0 +1,2776 @@
+[
+    {
+        "key": "anz_vermittelt",
+        "wbe": "021",
+        "wov_id": "02",
+        "year": 2014,
+        "count": 1.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "021",
+        "wov_id": "02",
+        "year": 2013,
+        "count": 1.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "031",
+        "wov_id": "03",
+        "year": 2013,
+        "count": 1.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "031",
+        "wov_id": "03",
+        "year": 2014,
+        "count": 2.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "032",
+        "wov_id": "03",
+        "year": 2013,
+        "count": 2.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "032",
+        "wov_id": "03",
+        "year": 2014,
+        "count": 2.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "033",
+        "wov_id": "03",
+        "year": 2014,
+        "count": 2.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "033",
+        "wov_id": "03",
+        "year": 2013,
+        "count": 2.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "034",
+        "wov_id": "03",
+        "year": 2013,
+        "count": 2.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "041",
+        "wov_id": "04",
+        "year": 2013,
+        "count": 3.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "042",
+        "wov_id": "04",
+        "year": 2014,
+        "count": 3.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "052",
+        "wov_id": "05",
+        "year": 2013,
+        "count": 2.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "053",
+        "wov_id": "05",
+        "year": 2014,
+        "count": 1.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "054",
+        "wov_id": "05",
+        "year": 2014,
+        "count": 1.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "055",
+        "wov_id": "05",
+        "year": 2014,
+        "count": 2.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "061",
+        "wov_id": "06",
+        "year": 2013,
+        "count": 3.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "061",
+        "wov_id": "06",
+        "year": 2014,
+        "count": 2.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "062",
+        "wov_id": "06",
+        "year": 2013,
+        "count": 4.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "062",
+        "wov_id": "06",
+        "year": 2014,
+        "count": 2.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "063",
+        "wov_id": "06",
+        "year": 2014,
+        "count": 6.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "063",
+        "wov_id": "06",
+        "year": 2013,
+        "count": 1.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "072",
+        "wov_id": "07",
+        "year": 2013,
+        "count": 1.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "081",
+        "wov_id": "08",
+        "year": 2013,
+        "count": 1.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "085",
+        "wov_id": "08",
+        "year": 2014,
+        "count": 1.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "091",
+        "wov_id": "09",
+        "year": 2014,
+        "count": 5.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "091",
+        "wov_id": "09",
+        "year": 2013,
+        "count": 3.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "092",
+        "wov_id": "09",
+        "year": 2014,
+        "count": 1.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "101",
+        "wov_id": "10",
+        "year": 2013,
+        "count": 7.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "101",
+        "wov_id": "10",
+        "year": 2014,
+        "count": 5.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "102",
+        "wov_id": "10",
+        "year": 2013,
+        "count": 2.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "102",
+        "wov_id": "10",
+        "year": 2014,
+        "count": 5.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "103",
+        "wov_id": "10",
+        "year": 2014,
+        "count": 6.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "103",
+        "wov_id": "10",
+        "year": 2013,
+        "count": 11.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "111",
+        "wov_id": "11",
+        "year": 2014,
+        "count": 2.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "111",
+        "wov_id": "11",
+        "year": 2013,
+        "count": 2.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "112",
+        "wov_id": "11",
+        "year": 2014,
+        "count": 1.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "113",
+        "wov_id": "11",
+        "year": 2013,
+        "count": 16.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "113",
+        "wov_id": "11",
+        "year": 2014,
+        "count": 7.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "114",
+        "wov_id": "11",
+        "year": 2013,
+        "count": 6.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "114",
+        "wov_id": "11",
+        "year": 2014,
+        "count": 5.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "115",
+        "wov_id": "11",
+        "year": 2013,
+        "count": 4.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "115",
+        "wov_id": "11",
+        "year": 2014,
+        "count": 2.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "121",
+        "wov_id": "12",
+        "year": 2013,
+        "count": 1.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "132",
+        "wov_id": "13",
+        "year": 2013,
+        "count": 2.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "132",
+        "wov_id": "13",
+        "year": 2014,
+        "count": 1.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "142",
+        "wov_id": "14",
+        "year": 2013,
+        "count": 1.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "142",
+        "wov_id": "14",
+        "year": 2014,
+        "count": 1.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "151",
+        "wov_id": "15",
+        "year": 2013,
+        "count": 1.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "153",
+        "wov_id": "15",
+        "year": 2013,
+        "count": 3.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "153",
+        "wov_id": "15",
+        "year": 2014,
+        "count": 2.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "161",
+        "wov_id": "16",
+        "year": 2014,
+        "count": 4.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "161",
+        "wov_id": "16",
+        "year": 2013,
+        "count": 4.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "162",
+        "wov_id": "16",
+        "year": 2014,
+        "count": 1.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "171",
+        "wov_id": "17",
+        "year": 2013,
+        "count": 1.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "172",
+        "wov_id": "17",
+        "year": 2013,
+        "count": 5.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "172",
+        "wov_id": "17",
+        "year": 2014,
+        "count": 2.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "173",
+        "wov_id": "17",
+        "year": 2014,
+        "count": 6.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "173",
+        "wov_id": "17",
+        "year": 2013,
+        "count": 2.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "174",
+        "wov_id": "17",
+        "year": 2013,
+        "count": 13.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "174",
+        "wov_id": "17",
+        "year": 2014,
+        "count": 13.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "180",
+        "wov_id": "18",
+        "year": 2013,
+        "count": 6.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "180",
+        "wov_id": "18",
+        "year": 2014,
+        "count": 13.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "190",
+        "wov_id": "19",
+        "year": 2013,
+        "count": 4.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "201",
+        "wov_id": "20",
+        "year": 2014,
+        "count": 1.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "201",
+        "wov_id": "20",
+        "year": 2013,
+        "count": 2.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "202",
+        "wov_id": "20",
+        "year": 2014,
+        "count": 2.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "202",
+        "wov_id": "20",
+        "year": 2013,
+        "count": 3.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "207",
+        "wov_id": "20",
+        "year": 2013,
+        "count": 1.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "022",
+        "wov_id": "02",
+        "year": 2015,
+        "count": 1.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "031",
+        "wov_id": "03",
+        "year": 2015,
+        "count": 1.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "033",
+        "wov_id": "03",
+        "year": 2015,
+        "count": 2.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "042",
+        "wov_id": "04",
+        "year": 2015,
+        "count": 7.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "053",
+        "wov_id": "05",
+        "year": 2015,
+        "count": 1.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "054",
+        "wov_id": "05",
+        "year": 2015,
+        "count": 1.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "061",
+        "wov_id": "06",
+        "year": 2015,
+        "count": 3.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "062",
+        "wov_id": "06",
+        "year": 2015,
+        "count": 5.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "063",
+        "wov_id": "06",
+        "year": 2015,
+        "count": 8.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "083",
+        "wov_id": "08",
+        "year": 2015,
+        "count": 2.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "085",
+        "wov_id": "08",
+        "year": 2015,
+        "count": 1.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "091",
+        "wov_id": "09",
+        "year": 2015,
+        "count": 3.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "092",
+        "wov_id": "09",
+        "year": 2015,
+        "count": 1.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "101",
+        "wov_id": "10",
+        "year": 2015,
+        "count": 3.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "102",
+        "wov_id": "10",
+        "year": 2015,
+        "count": 5.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "103",
+        "wov_id": "10",
+        "year": 2015,
+        "count": 10.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "111",
+        "wov_id": "11",
+        "year": 2015,
+        "count": 4.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "113",
+        "wov_id": "11",
+        "year": 2015,
+        "count": 5.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "114",
+        "wov_id": "11",
+        "year": 2015,
+        "count": 2.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "115",
+        "wov_id": "11",
+        "year": 2015,
+        "count": 3.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "131",
+        "wov_id": "13",
+        "year": 2015,
+        "count": 3.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "132",
+        "wov_id": "13",
+        "year": 2015,
+        "count": 2.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "141",
+        "wov_id": "14",
+        "year": 2015,
+        "count": 1.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "142",
+        "wov_id": "14",
+        "year": 2015,
+        "count": 1.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "153",
+        "wov_id": "15",
+        "year": 2015,
+        "count": 2.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "161",
+        "wov_id": "16",
+        "year": 2015,
+        "count": 3.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "171",
+        "wov_id": "17",
+        "year": 2015,
+        "count": 2.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "172",
+        "wov_id": "17",
+        "year": 2015,
+        "count": 1.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "173",
+        "wov_id": "17",
+        "year": 2015,
+        "count": 2.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "174",
+        "wov_id": "17",
+        "year": 2015,
+        "count": 9.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "180",
+        "wov_id": "18",
+        "year": 2015,
+        "count": 6.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "190",
+        "wov_id": "19",
+        "year": 2015,
+        "count": 4.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "202",
+        "wov_id": "20",
+        "year": 2015,
+        "count": 3.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "205",
+        "wov_id": "20",
+        "year": 2015,
+        "count": 1.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "207",
+        "wov_id": "20",
+        "year": 2015,
+        "count": 2.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "208",
+        "wov_id": "20",
+        "year": 2015,
+        "count": 1.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "022",
+        "wov_id": "02",
+        "year": 2016,
+        "count": 1.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "031",
+        "wov_id": "03",
+        "year": 2016,
+        "count": 2.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "032",
+        "wov_id": "03",
+        "year": 2016,
+        "count": 5.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "033",
+        "wov_id": "03",
+        "year": 2016,
+        "count": 1.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "034",
+        "wov_id": "03",
+        "year": 2016,
+        "count": 1.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "041",
+        "wov_id": "04",
+        "year": 2016,
+        "count": 1.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "042",
+        "wov_id": "04",
+        "year": 2016,
+        "count": 4.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "053",
+        "wov_id": "05",
+        "year": 2016,
+        "count": 1.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "054",
+        "wov_id": "05",
+        "year": 2016,
+        "count": 2.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "061",
+        "wov_id": "06",
+        "year": 2016,
+        "count": 4.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "062",
+        "wov_id": "06",
+        "year": 2016,
+        "count": 4.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "063",
+        "wov_id": "06",
+        "year": 2016,
+        "count": 5.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "071",
+        "wov_id": "07",
+        "year": 2016,
+        "count": 2.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "072",
+        "wov_id": "07",
+        "year": 2016,
+        "count": 1.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "073",
+        "wov_id": "07",
+        "year": 2016,
+        "count": 1.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "082",
+        "wov_id": "08",
+        "year": 2016,
+        "count": 1.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "083",
+        "wov_id": "08",
+        "year": 2016,
+        "count": 3.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "091",
+        "wov_id": "09",
+        "year": 2016,
+        "count": 3.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "101",
+        "wov_id": "10",
+        "year": 2016,
+        "count": 5.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "102",
+        "wov_id": "10",
+        "year": 2016,
+        "count": 5.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "103",
+        "wov_id": "10",
+        "year": 2016,
+        "count": 12.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "111",
+        "wov_id": "11",
+        "year": 2016,
+        "count": 2.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "113",
+        "wov_id": "11",
+        "year": 2016,
+        "count": 9.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "114",
+        "wov_id": "11",
+        "year": 2016,
+        "count": 3.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "115",
+        "wov_id": "11",
+        "year": 2016,
+        "count": 4.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "121",
+        "wov_id": "12",
+        "year": 2016,
+        "count": 1.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "131",
+        "wov_id": "13",
+        "year": 2016,
+        "count": 3.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "132",
+        "wov_id": "13",
+        "year": 2016,
+        "count": 3.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "152",
+        "wov_id": "15",
+        "year": 2016,
+        "count": 1.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "153",
+        "wov_id": "15",
+        "year": 2016,
+        "count": 2.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "161",
+        "wov_id": "16",
+        "year": 2016,
+        "count": 8.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "171",
+        "wov_id": "17",
+        "year": 2016,
+        "count": 1.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "172",
+        "wov_id": "17",
+        "year": 2016,
+        "count": 4.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "173",
+        "wov_id": "17",
+        "year": 2016,
+        "count": 6.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "174",
+        "wov_id": "17",
+        "year": 2016,
+        "count": 16.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "180",
+        "wov_id": "18",
+        "year": 2016,
+        "count": 28.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "190",
+        "wov_id": "19",
+        "year": 2016,
+        "count": 6.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "201",
+        "wov_id": "20",
+        "year": 2016,
+        "count": 1.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "202",
+        "wov_id": "20",
+        "year": 2016,
+        "count": 4.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "205",
+        "wov_id": "20",
+        "year": 2016,
+        "count": 2.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "207",
+        "wov_id": "20",
+        "year": 2016,
+        "count": 1.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    },
+    {
+        "key": "anz_vermittelt",
+        "wbe": "208",
+        "wov_id": "20",
+        "year": 2016,
+        "count": 1.0,
+        "indicator": {
+            "id": "anz_vermittelt",
+            "Thema": "soz_igwohnen",
+            "Indikator_Titel": "Anzahl vermittelte Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl vermittelte Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "IG Wohnen",
+            "Indikator_Beschrieb": "Anzahl Wohnungen, welche durch den Verein IG Wohnen in Basel-Stadt vermittelt wurden. Raumeinheiten mit weniger als 4 Wohnungen werden aus Datenschutzgr\u00fcnden nicht ausgewiesen.",
+            "Link_URL": "http://www.ig-wohnen.ch/",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014|2013"
+        }
+    }
+]

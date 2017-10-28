@@ -15,7 +15,7 @@ import { QueriesBoxComponent } from '../queries-box/queries-box';
 export class SearchComponent implements OnInit{
     autocompleteItems;
     autocomplete;
-    queriedItems; 
+    queriedItems;
    text: string;
 
 
