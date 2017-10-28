@@ -30,10 +30,9 @@ export class SearchService {
 
 
     removeQueriedItem(item: string) {
-        try {
-            this.queriedItemsList.pop(item);
-        } catch (e) {
-            console.log(e)
+        let idx = this.queriedItemsList.indexOf(item)
+        if (idx > -1) {
+            this.queriedItemsList.splice(idx, 1);
         }
         this.queriedItems.next(this.queriedItemsList)
     }
