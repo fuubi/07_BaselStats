@@ -1,0 +1,3935 @@
+[
+    {
+        "key": "anz_hunde",
+        "wbe": "011",
+        "wov_id": "01",
+        "year": 2016,
+        "count": 6.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "012",
+        "wov_id": "01",
+        "year": 2016,
+        "count": 7.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "013",
+        "wov_id": "01",
+        "year": 2016,
+        "count": 14.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "014",
+        "wov_id": "01",
+        "year": 2016,
+        "count": 17.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "021",
+        "wov_id": "02",
+        "year": 2016,
+        "count": 36.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "022",
+        "wov_id": "02",
+        "year": 2016,
+        "count": 10.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "023",
+        "wov_id": "02",
+        "year": 2016,
+        "count": 15.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "024",
+        "wov_id": "02",
+        "year": 2016,
+        "count": 14.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "025",
+        "wov_id": "02",
+        "year": 2016,
+        "count": 42.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "026",
+        "wov_id": "02",
+        "year": 2016,
+        "count": 5.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "031",
+        "wov_id": "03",
+        "year": 2016,
+        "count": 40.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "032",
+        "wov_id": "03",
+        "year": 2016,
+        "count": 97.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "033",
+        "wov_id": "03",
+        "year": 2016,
+        "count": 72.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "034",
+        "wov_id": "03",
+        "year": 2016,
+        "count": 6.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "041",
+        "wov_id": "04",
+        "year": 2016,
+        "count": 89.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "042",
+        "wov_id": "04",
+        "year": 2016,
+        "count": 140.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "051",
+        "wov_id": "05",
+        "year": 2016,
+        "count": 3.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "052",
+        "wov_id": "05",
+        "year": 2016,
+        "count": 21.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "053",
+        "wov_id": "05",
+        "year": 2016,
+        "count": 192.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "054",
+        "wov_id": "05",
+        "year": 2016,
+        "count": 51.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "055",
+        "wov_id": "05",
+        "year": 2016,
+        "count": 23.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "061",
+        "wov_id": "06",
+        "year": 2016,
+        "count": 92.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "062",
+        "wov_id": "06",
+        "year": 2016,
+        "count": 108.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "063",
+        "wov_id": "06",
+        "year": 2016,
+        "count": 87.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "071",
+        "wov_id": "07",
+        "year": 2016,
+        "count": 158.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "072",
+        "wov_id": "07",
+        "year": 2016,
+        "count": 131.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "073",
+        "wov_id": "07",
+        "year": 2016,
+        "count": 18.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "081",
+        "wov_id": "08",
+        "year": 2016,
+        "count": 65.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "082",
+        "wov_id": "08",
+        "year": 2016,
+        "count": 41.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "083",
+        "wov_id": "08",
+        "year": 2016,
+        "count": 41.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "084",
+        "wov_id": "08",
+        "year": 2016,
+        "count": 32.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "085",
+        "wov_id": "08",
+        "year": 2016,
+        "count": 163.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "091",
+        "wov_id": "09",
+        "year": 2016,
+        "count": 88.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "092",
+        "wov_id": "09",
+        "year": 2016,
+        "count": 63.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "101",
+        "wov_id": "10",
+        "year": 2016,
+        "count": 112.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "102",
+        "wov_id": "10",
+        "year": 2016,
+        "count": 96.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "103",
+        "wov_id": "10",
+        "year": 2016,
+        "count": 104.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "111",
+        "wov_id": "11",
+        "year": 2016,
+        "count": 77.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "112",
+        "wov_id": "11",
+        "year": 2016,
+        "count": 34.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "113",
+        "wov_id": "11",
+        "year": 2016,
+        "count": 113.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "114",
+        "wov_id": "11",
+        "year": 2016,
+        "count": 35.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "115",
+        "wov_id": "11",
+        "year": 2016,
+        "count": 119.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "121",
+        "wov_id": "12",
+        "year": 2016,
+        "count": 26.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "122",
+        "wov_id": "12",
+        "year": 2016,
+        "count": 20.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "131",
+        "wov_id": "13",
+        "year": 2016,
+        "count": 23.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "132",
+        "wov_id": "13",
+        "year": 2016,
+        "count": 50.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "141",
+        "wov_id": "14",
+        "year": 2016,
+        "count": 71.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "142",
+        "wov_id": "14",
+        "year": 2016,
+        "count": 75.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "151",
+        "wov_id": "15",
+        "year": 2016,
+        "count": 99.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "152",
+        "wov_id": "15",
+        "year": 2016,
+        "count": 89.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "153",
+        "wov_id": "15",
+        "year": 2016,
+        "count": 99.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "161",
+        "wov_id": "16",
+        "year": 2016,
+        "count": 95.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "162",
+        "wov_id": "16",
+        "year": 2016,
+        "count": 44.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "171",
+        "wov_id": "17",
+        "year": 2016,
+        "count": 16.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "172",
+        "wov_id": "17",
+        "year": 2016,
+        "count": 63.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "173",
+        "wov_id": "17",
+        "year": 2016,
+        "count": 54.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "174",
+        "wov_id": "17",
+        "year": 2016,
+        "count": 143.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "180",
+        "wov_id": "18",
+        "year": 2016,
+        "count": 178.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "190",
+        "wov_id": "19",
+        "year": 2016,
+        "count": 103.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "201",
+        "wov_id": "20",
+        "year": 2016,
+        "count": 127.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "202",
+        "wov_id": "20",
+        "year": 2016,
+        "count": 101.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "203",
+        "wov_id": "20",
+        "year": 2016,
+        "count": 58.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "204",
+        "wov_id": "20",
+        "year": 2016,
+        "count": 60.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "205",
+        "wov_id": "20",
+        "year": 2016,
+        "count": 123.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "206",
+        "wov_id": "20",
+        "year": 2016,
+        "count": 90.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "207",
+        "wov_id": "20",
+        "year": 2016,
+        "count": 175.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "208",
+        "wov_id": "20",
+        "year": 2016,
+        "count": 92.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "301",
+        "wov_id": "30",
+        "year": 2016,
+        "count": 47.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "302",
+        "wov_id": "30",
+        "year": 2016,
+        "count": 1.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "011",
+        "wov_id": "01",
+        "year": 2015,
+        "count": 9.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "012",
+        "wov_id": "01",
+        "year": 2015,
+        "count": 7.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "013",
+        "wov_id": "01",
+        "year": 2015,
+        "count": 18.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "014",
+        "wov_id": "01",
+        "year": 2015,
+        "count": 12.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "021",
+        "wov_id": "02",
+        "year": 2015,
+        "count": 36.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "022",
+        "wov_id": "02",
+        "year": 2015,
+        "count": 11.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "023",
+        "wov_id": "02",
+        "year": 2015,
+        "count": 14.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "024",
+        "wov_id": "02",
+        "year": 2015,
+        "count": 12.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "025",
+        "wov_id": "02",
+        "year": 2015,
+        "count": 40.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "026",
+        "wov_id": "02",
+        "year": 2015,
+        "count": 5.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "031",
+        "wov_id": "03",
+        "year": 2015,
+        "count": 47.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "032",
+        "wov_id": "03",
+        "year": 2015,
+        "count": 95.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "033",
+        "wov_id": "03",
+        "year": 2015,
+        "count": 77.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "034",
+        "wov_id": "03",
+        "year": 2015,
+        "count": 4.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "041",
+        "wov_id": "04",
+        "year": 2015,
+        "count": 97.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "042",
+        "wov_id": "04",
+        "year": 2015,
+        "count": 130.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "051",
+        "wov_id": "05",
+        "year": 2015,
+        "count": 3.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "052",
+        "wov_id": "05",
+        "year": 2015,
+        "count": 21.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "053",
+        "wov_id": "05",
+        "year": 2015,
+        "count": 197.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "054",
+        "wov_id": "05",
+        "year": 2015,
+        "count": 56.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "055",
+        "wov_id": "05",
+        "year": 2015,
+        "count": 25.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "061",
+        "wov_id": "06",
+        "year": 2015,
+        "count": 93.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "062",
+        "wov_id": "06",
+        "year": 2015,
+        "count": 109.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "063",
+        "wov_id": "06",
+        "year": 2015,
+        "count": 82.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "071",
+        "wov_id": "07",
+        "year": 2015,
+        "count": 157.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "072",
+        "wov_id": "07",
+        "year": 2015,
+        "count": 127.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "073",
+        "wov_id": "07",
+        "year": 2015,
+        "count": 18.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "081",
+        "wov_id": "08",
+        "year": 2015,
+        "count": 62.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "082",
+        "wov_id": "08",
+        "year": 2015,
+        "count": 40.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "083",
+        "wov_id": "08",
+        "year": 2015,
+        "count": 46.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "084",
+        "wov_id": "08",
+        "year": 2015,
+        "count": 31.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "085",
+        "wov_id": "08",
+        "year": 2015,
+        "count": 163.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "091",
+        "wov_id": "09",
+        "year": 2015,
+        "count": 81.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "092",
+        "wov_id": "09",
+        "year": 2015,
+        "count": 63.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "101",
+        "wov_id": "10",
+        "year": 2015,
+        "count": 124.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "102",
+        "wov_id": "10",
+        "year": 2015,
+        "count": 90.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "103",
+        "wov_id": "10",
+        "year": 2015,
+        "count": 95.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "111",
+        "wov_id": "11",
+        "year": 2015,
+        "count": 68.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "112",
+        "wov_id": "11",
+        "year": 2015,
+        "count": 32.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "113",
+        "wov_id": "11",
+        "year": 2015,
+        "count": 106.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "114",
+        "wov_id": "11",
+        "year": 2015,
+        "count": 34.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "115",
+        "wov_id": "11",
+        "year": 2015,
+        "count": 123.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "121",
+        "wov_id": "12",
+        "year": 2015,
+        "count": 31.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "122",
+        "wov_id": "12",
+        "year": 2015,
+        "count": 19.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "131",
+        "wov_id": "13",
+        "year": 2015,
+        "count": 24.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "132",
+        "wov_id": "13",
+        "year": 2015,
+        "count": 47.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "141",
+        "wov_id": "14",
+        "year": 2015,
+        "count": 64.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "142",
+        "wov_id": "14",
+        "year": 2015,
+        "count": 72.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "151",
+        "wov_id": "15",
+        "year": 2015,
+        "count": 95.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "152",
+        "wov_id": "15",
+        "year": 2015,
+        "count": 99.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "153",
+        "wov_id": "15",
+        "year": 2015,
+        "count": 101.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "161",
+        "wov_id": "16",
+        "year": 2015,
+        "count": 99.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "162",
+        "wov_id": "16",
+        "year": 2015,
+        "count": 21.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "171",
+        "wov_id": "17",
+        "year": 2015,
+        "count": 22.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "172",
+        "wov_id": "17",
+        "year": 2015,
+        "count": 61.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "173",
+        "wov_id": "17",
+        "year": 2015,
+        "count": 56.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "174",
+        "wov_id": "17",
+        "year": 2015,
+        "count": 149.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "180",
+        "wov_id": "18",
+        "year": 2015,
+        "count": 170.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "190",
+        "wov_id": "19",
+        "year": 2015,
+        "count": 101.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "201",
+        "wov_id": "20",
+        "year": 2015,
+        "count": 119.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "202",
+        "wov_id": "20",
+        "year": 2015,
+        "count": 104.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "203",
+        "wov_id": "20",
+        "year": 2015,
+        "count": 54.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "204",
+        "wov_id": "20",
+        "year": 2015,
+        "count": 58.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "205",
+        "wov_id": "20",
+        "year": 2015,
+        "count": 125.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "206",
+        "wov_id": "20",
+        "year": 2015,
+        "count": 90.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "207",
+        "wov_id": "20",
+        "year": 2015,
+        "count": 187.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "208",
+        "wov_id": "20",
+        "year": 2015,
+        "count": 90.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "301",
+        "wov_id": "30",
+        "year": 2015,
+        "count": 51.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "302",
+        "wov_id": "30",
+        "year": 2015,
+        "count": 1.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "011",
+        "wov_id": "01",
+        "year": 2014,
+        "count": 9.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "012",
+        "wov_id": "01",
+        "year": 2014,
+        "count": 10.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "013",
+        "wov_id": "01",
+        "year": 2014,
+        "count": 16.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "014",
+        "wov_id": "01",
+        "year": 2014,
+        "count": 18.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "021",
+        "wov_id": "02",
+        "year": 2014,
+        "count": 35.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "022",
+        "wov_id": "02",
+        "year": 2014,
+        "count": 12.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "023",
+        "wov_id": "02",
+        "year": 2014,
+        "count": 18.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "024",
+        "wov_id": "02",
+        "year": 2014,
+        "count": 14.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "025",
+        "wov_id": "02",
+        "year": 2014,
+        "count": 32.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "026",
+        "wov_id": "02",
+        "year": 2014,
+        "count": 7.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "031",
+        "wov_id": "03",
+        "year": 2014,
+        "count": 52.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "032",
+        "wov_id": "03",
+        "year": 2014,
+        "count": 98.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "033",
+        "wov_id": "03",
+        "year": 2014,
+        "count": 74.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "034",
+        "wov_id": "03",
+        "year": 2014,
+        "count": 3.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "041",
+        "wov_id": "04",
+        "year": 2014,
+        "count": 101.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "042",
+        "wov_id": "04",
+        "year": 2014,
+        "count": 119.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "051",
+        "wov_id": "05",
+        "year": 2014,
+        "count": 4.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "052",
+        "wov_id": "05",
+        "year": 2014,
+        "count": 19.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "053",
+        "wov_id": "05",
+        "year": 2014,
+        "count": 200.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "054",
+        "wov_id": "05",
+        "year": 2014,
+        "count": 51.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "055",
+        "wov_id": "05",
+        "year": 2014,
+        "count": 23.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "061",
+        "wov_id": "06",
+        "year": 2014,
+        "count": 94.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "062",
+        "wov_id": "06",
+        "year": 2014,
+        "count": 108.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "063",
+        "wov_id": "06",
+        "year": 2014,
+        "count": 91.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "071",
+        "wov_id": "07",
+        "year": 2014,
+        "count": 157.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "072",
+        "wov_id": "07",
+        "year": 2014,
+        "count": 133.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "073",
+        "wov_id": "07",
+        "year": 2014,
+        "count": 15.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "081",
+        "wov_id": "08",
+        "year": 2014,
+        "count": 57.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "082",
+        "wov_id": "08",
+        "year": 2014,
+        "count": 43.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "083",
+        "wov_id": "08",
+        "year": 2014,
+        "count": 40.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "084",
+        "wov_id": "08",
+        "year": 2014,
+        "count": 31.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "085",
+        "wov_id": "08",
+        "year": 2014,
+        "count": 173.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "091",
+        "wov_id": "09",
+        "year": 2014,
+        "count": 79.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "092",
+        "wov_id": "09",
+        "year": 2014,
+        "count": 64.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "101",
+        "wov_id": "10",
+        "year": 2014,
+        "count": 124.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "102",
+        "wov_id": "10",
+        "year": 2014,
+        "count": 87.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "103",
+        "wov_id": "10",
+        "year": 2014,
+        "count": 110.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "111",
+        "wov_id": "11",
+        "year": 2014,
+        "count": 78.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "112",
+        "wov_id": "11",
+        "year": 2014,
+        "count": 37.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "113",
+        "wov_id": "11",
+        "year": 2014,
+        "count": 101.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "114",
+        "wov_id": "11",
+        "year": 2014,
+        "count": 42.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "115",
+        "wov_id": "11",
+        "year": 2014,
+        "count": 117.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "121",
+        "wov_id": "12",
+        "year": 2014,
+        "count": 31.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "122",
+        "wov_id": "12",
+        "year": 2014,
+        "count": 26.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "131",
+        "wov_id": "13",
+        "year": 2014,
+        "count": 21.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "132",
+        "wov_id": "13",
+        "year": 2014,
+        "count": 56.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "141",
+        "wov_id": "14",
+        "year": 2014,
+        "count": 58.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "142",
+        "wov_id": "14",
+        "year": 2014,
+        "count": 67.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "151",
+        "wov_id": "15",
+        "year": 2014,
+        "count": 90.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "152",
+        "wov_id": "15",
+        "year": 2014,
+        "count": 95.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "153",
+        "wov_id": "15",
+        "year": 2014,
+        "count": 99.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "161",
+        "wov_id": "16",
+        "year": 2014,
+        "count": 102.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "162",
+        "wov_id": "16",
+        "year": 2014,
+        "count": 11.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "171",
+        "wov_id": "17",
+        "year": 2014,
+        "count": 25.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "172",
+        "wov_id": "17",
+        "year": 2014,
+        "count": 66.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "173",
+        "wov_id": "17",
+        "year": 2014,
+        "count": 62.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "174",
+        "wov_id": "17",
+        "year": 2014,
+        "count": 150.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "180",
+        "wov_id": "18",
+        "year": 2014,
+        "count": 182.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "190",
+        "wov_id": "19",
+        "year": 2014,
+        "count": 105.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "201",
+        "wov_id": "20",
+        "year": 2014,
+        "count": 122.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "202",
+        "wov_id": "20",
+        "year": 2014,
+        "count": 97.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "203",
+        "wov_id": "20",
+        "year": 2014,
+        "count": 54.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "204",
+        "wov_id": "20",
+        "year": 2014,
+        "count": 49.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "205",
+        "wov_id": "20",
+        "year": 2014,
+        "count": 129.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "206",
+        "wov_id": "20",
+        "year": 2014,
+        "count": 92.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "207",
+        "wov_id": "20",
+        "year": 2014,
+        "count": 186.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "208",
+        "wov_id": "20",
+        "year": 2014,
+        "count": 84.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "301",
+        "wov_id": "30",
+        "year": 2014,
+        "count": 44.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anz_hunde",
+        "wbe": "302",
+        "wov_id": "30",
+        "year": 2014,
+        "count": 1.0,
+        "indicator": {
+            "id": "anz_hunde",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde",
+            "Indikator_Titel_kurz": "Anzahl Hunde",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hundebestand per 1. April. Raumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    }
+]
