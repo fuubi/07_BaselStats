@@ -1,38 +1,42 @@
 import { Injectable } from '@angular/core';
 import { LineChartData, LineChartColors } from './model';
-import { Observable } from 'rxjs';
+import { Observable, Subject } from 'rxjs';
+import { SearchService } from '../search/search.service';
 
 @Injectable()
 export class ChartService {
-    private lineChartData: Observable<LineChartData[]>;
+    private lineChartData: Subject<LineChartData[]> = new Subject();
     private lineChartLabels: Observable<string[]>;
-    public lineChartColors: any[];
+    public lineChartColors: Subject<any[]> = new Subject();
+    public dataMock: any[] = [
+        {data: [65, 59, 80, 81, 56, 55, 40], label: 'Series A'},
+        {data: [28, 48, 40, 19, 86, 27, 90], label: 'Series B'},
+        {data: [18, 48, 77, 9, 100, 27, 40], label: 'Series C'}
+    ];
 
-    constructor() {
+    constructor(private searchService: SearchService) {
         this.lineChartLabels =
             Observable.of(
                 ['January', 'February', 'March', 'April', 'May', 'June', 'July']
             );
-        this.lineChartData =
-            Observable.of([
-                {data: [65, 59, 80, 81, 56, 55, 40], label: 'Series A'},
-                {data: [28, 48, 40, 19, 86, 27, 90], label: 'Series B'},
-                {data: [18, 48, 77, 9, 100, 27, 40], label: 'Series C'}
-            ]);
 
-        this.lineChartColors = this.getChartColor(3);
+        this.searchService.queriedItems.asObservable()
+            .subscribe(queriedItems => {
+                this.updateChart(queriedItems)
+            })
     }
 
     public getLineChartData() {
-        return this.lineChartData;
+        return this.lineChartData.asObservable();
     }
+
 
     public getLabels() {
         return this.lineChartLabels;
     }
 
     public getChartColorShema() {
-        return this.lineChartColors;
+        return this.lineChartColors.asObservable();
     }
 
     private getChartColor(count: Number) {
@@ -48,9 +52,19 @@ export class ChartService {
                 pointHoverBorderColor: 'hsla(' + h + ', 52%, 66%, 1)'
             };
 
-            lineChartColors.push(lineChartColors);
+            lineChartColors.push(lc);
         }
+        return lineChartColors
     }
+
+    private updateChart(queriedItems: string[]) {
+        console.log(queriedItems);
+        this.lineChartColors.next(this.getChartColor(queriedItems.length));
+        this.lineChartData.next(this.dataMock.slice(0,queriedItems.length));
+        console.log(this.lineChartData)
+
+    }
+
 }
 
 

@@ -18,7 +18,7 @@ export class LineChartAComponent {
     constructor(private chartService: ChartService) {
         chartService.getLineChartData()
             .subscribe(d => {
-                this.lineChartData = d;
+                this.lineChartData = d
             });
 
         chartService.getLabels()
@@ -27,7 +27,11 @@ export class LineChartAComponent {
                 }
             );
 
-        this.lineChartColors = chartService.getChartColorShema();
+        chartService.getChartColorShema()
+            .subscribe(cs => {
+                this.lineChartColors = cs;
+            });
+
 
 
     }
