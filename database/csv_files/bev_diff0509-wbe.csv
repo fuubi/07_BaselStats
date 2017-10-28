@@ -1,0 +1,1 @@
+<div class='bg_red'>Abfrage fehlgeschlagen: [SELECT wbe, , ROUND((jahr09-jahr05)/1, 0) as bev_diff0509 FROM s_wbe_bevent]<br><br>You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' ROUND((jahr09-jahr05)/1, 0) as bev_diff0509 FROM s_wbe_bevent' at line 1</div>

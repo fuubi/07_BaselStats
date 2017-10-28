@@ -1,0 +1,3935 @@
+[
+    {
+        "key": "anzahl_whg",
+        "wbe": "011",
+        "wov_id": "01",
+        "year": 2013,
+        "count": 166.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "011",
+        "wov_id": "01",
+        "year": 2014,
+        "count": 165.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "011",
+        "wov_id": "01",
+        "year": 2015,
+        "count": 166.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "012",
+        "wov_id": "01",
+        "year": 2013,
+        "count": 263.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "012",
+        "wov_id": "01",
+        "year": 2014,
+        "count": 272.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "012",
+        "wov_id": "01",
+        "year": 2015,
+        "count": 273.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "013",
+        "wov_id": "01",
+        "year": 2013,
+        "count": 403.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "013",
+        "wov_id": "01",
+        "year": 2014,
+        "count": 411.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "013",
+        "wov_id": "01",
+        "year": 2015,
+        "count": 415.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "014",
+        "wov_id": "01",
+        "year": 2013,
+        "count": 511.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "014",
+        "wov_id": "01",
+        "year": 2014,
+        "count": 517.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "014",
+        "wov_id": "01",
+        "year": 2015,
+        "count": 527.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "021",
+        "wov_id": "02",
+        "year": 2013,
+        "count": 860.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "021",
+        "wov_id": "02",
+        "year": 2014,
+        "count": 872.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "021",
+        "wov_id": "02",
+        "year": 2015,
+        "count": 877.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "022",
+        "wov_id": "02",
+        "year": 2013,
+        "count": 357.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "022",
+        "wov_id": "02",
+        "year": 2014,
+        "count": 361.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "022",
+        "wov_id": "02",
+        "year": 2015,
+        "count": 372.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "023",
+        "wov_id": "02",
+        "year": 2013,
+        "count": 661.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "023",
+        "wov_id": "02",
+        "year": 2014,
+        "count": 683.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "023",
+        "wov_id": "02",
+        "year": 2015,
+        "count": 709.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "024",
+        "wov_id": "02",
+        "year": 2013,
+        "count": 466.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "024",
+        "wov_id": "02",
+        "year": 2014,
+        "count": 487.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "024",
+        "wov_id": "02",
+        "year": 2015,
+        "count": 464.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "025",
+        "wov_id": "02",
+        "year": 2013,
+        "count": 704.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "025",
+        "wov_id": "02",
+        "year": 2014,
+        "count": 803.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "025",
+        "wov_id": "02",
+        "year": 2015,
+        "count": 807.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "026",
+        "wov_id": "02",
+        "year": 2013,
+        "count": 125.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "026",
+        "wov_id": "02",
+        "year": 2014,
+        "count": 126.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "026",
+        "wov_id": "02",
+        "year": 2015,
+        "count": 129.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "031",
+        "wov_id": "03",
+        "year": 2013,
+        "count": 1731.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "031",
+        "wov_id": "03",
+        "year": 2014,
+        "count": 1730.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "031",
+        "wov_id": "03",
+        "year": 2015,
+        "count": 1748.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "032",
+        "wov_id": "03",
+        "year": 2013,
+        "count": 2092.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "032",
+        "wov_id": "03",
+        "year": 2014,
+        "count": 2089.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "032",
+        "wov_id": "03",
+        "year": 2015,
+        "count": 2110.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "033",
+        "wov_id": "03",
+        "year": 2013,
+        "count": 2047.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "033",
+        "wov_id": "03",
+        "year": 2014,
+        "count": 2056.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "033",
+        "wov_id": "03",
+        "year": 2015,
+        "count": 2078.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "034",
+        "wov_id": "03",
+        "year": 2013,
+        "count": 206.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "034",
+        "wov_id": "03",
+        "year": 2014,
+        "count": 207.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "034",
+        "wov_id": "03",
+        "year": 2015,
+        "count": 207.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "041",
+        "wov_id": "04",
+        "year": 2013,
+        "count": 2425.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "041",
+        "wov_id": "04",
+        "year": 2014,
+        "count": 2429.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "041",
+        "wov_id": "04",
+        "year": 2015,
+        "count": 2436.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "042",
+        "wov_id": "04",
+        "year": 2013,
+        "count": 2726.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "042",
+        "wov_id": "04",
+        "year": 2014,
+        "count": 2734.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "042",
+        "wov_id": "04",
+        "year": 2015,
+        "count": 2743.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "051",
+        "wov_id": "05",
+        "year": 2013,
+        "count": 30.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "051",
+        "wov_id": "05",
+        "year": 2014,
+        "count": 33.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "051",
+        "wov_id": "05",
+        "year": 2015,
+        "count": 33.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "052",
+        "wov_id": "05",
+        "year": 2013,
+        "count": 619.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "052",
+        "wov_id": "05",
+        "year": 2014,
+        "count": 623.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "052",
+        "wov_id": "05",
+        "year": 2015,
+        "count": 630.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "053",
+        "wov_id": "05",
+        "year": 2013,
+        "count": 3595.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "053",
+        "wov_id": "05",
+        "year": 2014,
+        "count": 3624.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "053",
+        "wov_id": "05",
+        "year": 2015,
+        "count": 3551.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "054",
+        "wov_id": "05",
+        "year": 2013,
+        "count": 1263.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "054",
+        "wov_id": "05",
+        "year": 2014,
+        "count": 1260.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "054",
+        "wov_id": "05",
+        "year": 2015,
+        "count": 1262.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "055",
+        "wov_id": "05",
+        "year": 2013,
+        "count": 642.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "055",
+        "wov_id": "05",
+        "year": 2014,
+        "count": 643.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "055",
+        "wov_id": "05",
+        "year": 2015,
+        "count": 647.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "061",
+        "wov_id": "06",
+        "year": 2013,
+        "count": 3508.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "061",
+        "wov_id": "06",
+        "year": 2014,
+        "count": 3575.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "061",
+        "wov_id": "06",
+        "year": 2015,
+        "count": 3616.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "062",
+        "wov_id": "06",
+        "year": 2013,
+        "count": 4387.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "062",
+        "wov_id": "06",
+        "year": 2014,
+        "count": 4230.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "062",
+        "wov_id": "06",
+        "year": 2015,
+        "count": 4261.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "063",
+        "wov_id": "06",
+        "year": 2013,
+        "count": 3165.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "063",
+        "wov_id": "06",
+        "year": 2014,
+        "count": 3185.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "063",
+        "wov_id": "06",
+        "year": 2015,
+        "count": 3193.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "071",
+        "wov_id": "07",
+        "year": 2013,
+        "count": 2717.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "071",
+        "wov_id": "07",
+        "year": 2014,
+        "count": 2720.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "071",
+        "wov_id": "07",
+        "year": 2015,
+        "count": 2725.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "072",
+        "wov_id": "07",
+        "year": 2013,
+        "count": 1512.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "072",
+        "wov_id": "07",
+        "year": 2014,
+        "count": 1515.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "072",
+        "wov_id": "07",
+        "year": 2015,
+        "count": 1520.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "073",
+        "wov_id": "07",
+        "year": 2013,
+        "count": 115.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "073",
+        "wov_id": "07",
+        "year": 2014,
+        "count": 115.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "073",
+        "wov_id": "07",
+        "year": 2015,
+        "count": 115.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "081",
+        "wov_id": "08",
+        "year": 2013,
+        "count": 1341.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "081",
+        "wov_id": "08",
+        "year": 2014,
+        "count": 1343.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "081",
+        "wov_id": "08",
+        "year": 2015,
+        "count": 1359.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "082",
+        "wov_id": "08",
+        "year": 2013,
+        "count": 948.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "082",
+        "wov_id": "08",
+        "year": 2014,
+        "count": 954.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "082",
+        "wov_id": "08",
+        "year": 2015,
+        "count": 962.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "083",
+        "wov_id": "08",
+        "year": 2013,
+        "count": 1252.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "083",
+        "wov_id": "08",
+        "year": 2014,
+        "count": 1255.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "083",
+        "wov_id": "08",
+        "year": 2015,
+        "count": 1259.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "084",
+        "wov_id": "08",
+        "year": 2013,
+        "count": 880.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "084",
+        "wov_id": "08",
+        "year": 2014,
+        "count": 879.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "084",
+        "wov_id": "08",
+        "year": 2015,
+        "count": 883.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "085",
+        "wov_id": "08",
+        "year": 2013,
+        "count": 2719.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "085",
+        "wov_id": "08",
+        "year": 2014,
+        "count": 2719.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "085",
+        "wov_id": "08",
+        "year": 2015,
+        "count": 2729.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "091",
+        "wov_id": "09",
+        "year": 2013,
+        "count": 3126.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "091",
+        "wov_id": "09",
+        "year": 2014,
+        "count": 3134.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "091",
+        "wov_id": "09",
+        "year": 2015,
+        "count": 3155.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "092",
+        "wov_id": "09",
+        "year": 2013,
+        "count": 938.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "092",
+        "wov_id": "09",
+        "year": 2014,
+        "count": 942.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "092",
+        "wov_id": "09",
+        "year": 2015,
+        "count": 942.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "101",
+        "wov_id": "10",
+        "year": 2013,
+        "count": 3927.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "101",
+        "wov_id": "10",
+        "year": 2014,
+        "count": 3964.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "101",
+        "wov_id": "10",
+        "year": 2015,
+        "count": 3986.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "102",
+        "wov_id": "10",
+        "year": 2013,
+        "count": 2713.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "102",
+        "wov_id": "10",
+        "year": 2014,
+        "count": 2710.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "102",
+        "wov_id": "10",
+        "year": 2015,
+        "count": 2722.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "103",
+        "wov_id": "10",
+        "year": 2013,
+        "count": 2815.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "103",
+        "wov_id": "10",
+        "year": 2014,
+        "count": 2848.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "103",
+        "wov_id": "10",
+        "year": 2015,
+        "count": 2868.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "111",
+        "wov_id": "11",
+        "year": 2013,
+        "count": 2216.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "111",
+        "wov_id": "11",
+        "year": 2014,
+        "count": 2227.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "111",
+        "wov_id": "11",
+        "year": 2015,
+        "count": 2236.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "112",
+        "wov_id": "11",
+        "year": 2013,
+        "count": 1099.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "112",
+        "wov_id": "11",
+        "year": 2014,
+        "count": 1113.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "112",
+        "wov_id": "11",
+        "year": 2015,
+        "count": 1116.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "113",
+        "wov_id": "11",
+        "year": 2013,
+        "count": 3800.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "113",
+        "wov_id": "11",
+        "year": 2014,
+        "count": 3809.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "113",
+        "wov_id": "11",
+        "year": 2015,
+        "count": 3831.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "114",
+        "wov_id": "11",
+        "year": 2013,
+        "count": 1082.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "114",
+        "wov_id": "11",
+        "year": 2014,
+        "count": 1093.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "114",
+        "wov_id": "11",
+        "year": 2015,
+        "count": 1093.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "115",
+        "wov_id": "11",
+        "year": 2013,
+        "count": 1759.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "115",
+        "wov_id": "11",
+        "year": 2014,
+        "count": 1760.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "115",
+        "wov_id": "11",
+        "year": 2015,
+        "count": 1764.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "121",
+        "wov_id": "12",
+        "year": 2013,
+        "count": 841.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "121",
+        "wov_id": "12",
+        "year": 2014,
+        "count": 875.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "121",
+        "wov_id": "12",
+        "year": 2015,
+        "count": 883.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "122",
+        "wov_id": "12",
+        "year": 2013,
+        "count": 608.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "122",
+        "wov_id": "12",
+        "year": 2014,
+        "count": 634.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "122",
+        "wov_id": "12",
+        "year": 2015,
+        "count": 638.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "131",
+        "wov_id": "13",
+        "year": 2013,
+        "count": 615.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "131",
+        "wov_id": "13",
+        "year": 2014,
+        "count": 654.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "131",
+        "wov_id": "13",
+        "year": 2015,
+        "count": 655.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "132",
+        "wov_id": "13",
+        "year": 2013,
+        "count": 1634.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "132",
+        "wov_id": "13",
+        "year": 2014,
+        "count": 1650.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "132",
+        "wov_id": "13",
+        "year": 2015,
+        "count": 1657.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "141",
+        "wov_id": "14",
+        "year": 2013,
+        "count": 1756.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "141",
+        "wov_id": "14",
+        "year": 2014,
+        "count": 1859.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "141",
+        "wov_id": "14",
+        "year": 2015,
+        "count": 1862.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "142",
+        "wov_id": "14",
+        "year": 2013,
+        "count": 1381.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "142",
+        "wov_id": "14",
+        "year": 2014,
+        "count": 1390.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "142",
+        "wov_id": "14",
+        "year": 2015,
+        "count": 1392.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "151",
+        "wov_id": "15",
+        "year": 2013,
+        "count": 1433.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "151",
+        "wov_id": "15",
+        "year": 2014,
+        "count": 1474.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "151",
+        "wov_id": "15",
+        "year": 2015,
+        "count": 1513.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "152",
+        "wov_id": "15",
+        "year": 2013,
+        "count": 1199.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "152",
+        "wov_id": "15",
+        "year": 2014,
+        "count": 1197.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "152",
+        "wov_id": "15",
+        "year": 2015,
+        "count": 1197.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "153",
+        "wov_id": "15",
+        "year": 2013,
+        "count": 1821.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "153",
+        "wov_id": "15",
+        "year": 2014,
+        "count": 1820.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "153",
+        "wov_id": "15",
+        "year": 2015,
+        "count": 1822.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "161",
+        "wov_id": "16",
+        "year": 2013,
+        "count": 2481.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "161",
+        "wov_id": "16",
+        "year": 2014,
+        "count": 2492.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "161",
+        "wov_id": "16",
+        "year": 2015,
+        "count": 2462.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "162",
+        "wov_id": "16",
+        "year": 2013,
+        "count": 311.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "162",
+        "wov_id": "16",
+        "year": 2014,
+        "count": 379.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "162",
+        "wov_id": "16",
+        "year": 2015,
+        "count": 953.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "171",
+        "wov_id": "17",
+        "year": 2013,
+        "count": 884.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "171",
+        "wov_id": "17",
+        "year": 2014,
+        "count": 894.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "171",
+        "wov_id": "17",
+        "year": 2015,
+        "count": 901.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "172",
+        "wov_id": "17",
+        "year": 2013,
+        "count": 2138.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "172",
+        "wov_id": "17",
+        "year": 2014,
+        "count": 2164.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "172",
+        "wov_id": "17",
+        "year": 2015,
+        "count": 2171.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "173",
+        "wov_id": "17",
+        "year": 2013,
+        "count": 1729.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "173",
+        "wov_id": "17",
+        "year": 2014,
+        "count": 1746.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "173",
+        "wov_id": "17",
+        "year": 2015,
+        "count": 1753.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "174",
+        "wov_id": "17",
+        "year": 2013,
+        "count": 3909.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "174",
+        "wov_id": "17",
+        "year": 2014,
+        "count": 3917.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "174",
+        "wov_id": "17",
+        "year": 2015,
+        "count": 3952.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "180",
+        "wov_id": "18",
+        "year": 2013,
+        "count": 3729.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "180",
+        "wov_id": "18",
+        "year": 2014,
+        "count": 3717.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "180",
+        "wov_id": "18",
+        "year": 2015,
+        "count": 3725.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "190",
+        "wov_id": "19",
+        "year": 2013,
+        "count": 1345.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "190",
+        "wov_id": "19",
+        "year": 2014,
+        "count": 1352.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "190",
+        "wov_id": "19",
+        "year": 2015,
+        "count": 1355.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "201",
+        "wov_id": "20",
+        "year": 2013,
+        "count": 1703.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "201",
+        "wov_id": "20",
+        "year": 2014,
+        "count": 1709.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "201",
+        "wov_id": "20",
+        "year": 2015,
+        "count": 1717.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "202",
+        "wov_id": "20",
+        "year": 2013,
+        "count": 1222.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "202",
+        "wov_id": "20",
+        "year": 2014,
+        "count": 1235.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "202",
+        "wov_id": "20",
+        "year": 2015,
+        "count": 1235.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "203",
+        "wov_id": "20",
+        "year": 2013,
+        "count": 567.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "203",
+        "wov_id": "20",
+        "year": 2014,
+        "count": 566.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "203",
+        "wov_id": "20",
+        "year": 2015,
+        "count": 605.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "204",
+        "wov_id": "20",
+        "year": 2013,
+        "count": 390.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "204",
+        "wov_id": "20",
+        "year": 2014,
+        "count": 389.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "204",
+        "wov_id": "20",
+        "year": 2015,
+        "count": 390.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "205",
+        "wov_id": "20",
+        "year": 2013,
+        "count": 973.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "205",
+        "wov_id": "20",
+        "year": 2014,
+        "count": 975.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "205",
+        "wov_id": "20",
+        "year": 2015,
+        "count": 978.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "206",
+        "wov_id": "20",
+        "year": 2013,
+        "count": 1054.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "206",
+        "wov_id": "20",
+        "year": 2014,
+        "count": 1066.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "206",
+        "wov_id": "20",
+        "year": 2015,
+        "count": 1066.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "207",
+        "wov_id": "20",
+        "year": 2013,
+        "count": 3064.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "207",
+        "wov_id": "20",
+        "year": 2014,
+        "count": 3063.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "207",
+        "wov_id": "20",
+        "year": 2015,
+        "count": 3048.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "208",
+        "wov_id": "20",
+        "year": 2013,
+        "count": 1030.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "208",
+        "wov_id": "20",
+        "year": 2014,
+        "count": 1031.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "208",
+        "wov_id": "20",
+        "year": 2015,
+        "count": 1032.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "301",
+        "wov_id": "30",
+        "year": 2013,
+        "count": 437.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "301",
+        "wov_id": "30",
+        "year": 2014,
+        "count": 451.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "301",
+        "wov_id": "30",
+        "year": 2015,
+        "count": 452.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "302",
+        "wov_id": "30",
+        "year": 2013,
+        "count": 42.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "302",
+        "wov_id": "30",
+        "year": 2014,
+        "count": 41.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_whg",
+        "wbe": "302",
+        "wov_id": "30",
+        "year": 2015,
+        "count": 46.0,
+        "indicator": {
+            "id": "anzahl_whg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anzahl Wohnungen",
+            "Indikator_Titel_kurz": "Anzahl Wohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "Bestand an bewohnten oder bewohnbaren Wohnungen.",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    }
+]

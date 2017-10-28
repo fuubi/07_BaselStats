@@ -1,0 +1,3935 @@
+[
+    {
+        "key": "gruenflaeche",
+        "wbe": "011",
+        "wov_id": "01",
+        "year": 2013,
+        "count": 1.7,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "011",
+        "wov_id": "01",
+        "year": 2014,
+        "count": 1.7,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "011",
+        "wov_id": "01",
+        "year": 2015,
+        "count": 1.7,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "012",
+        "wov_id": "01",
+        "year": 2013,
+        "count": 0.0,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "012",
+        "wov_id": "01",
+        "year": 2014,
+        "count": 0.0,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "012",
+        "wov_id": "01",
+        "year": 2015,
+        "count": 0.0,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "013",
+        "wov_id": "01",
+        "year": 2013,
+        "count": 0.4,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "013",
+        "wov_id": "01",
+        "year": 2014,
+        "count": 0.4,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "013",
+        "wov_id": "01",
+        "year": 2015,
+        "count": 0.4,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "014",
+        "wov_id": "01",
+        "year": 2013,
+        "count": 0.4,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "014",
+        "wov_id": "01",
+        "year": 2014,
+        "count": 0.4,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "014",
+        "wov_id": "01",
+        "year": 2015,
+        "count": 0.4,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "021",
+        "wov_id": "02",
+        "year": 2013,
+        "count": 6.2,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "021",
+        "wov_id": "02",
+        "year": 2014,
+        "count": 6.2,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "021",
+        "wov_id": "02",
+        "year": 2015,
+        "count": 6.2,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "022",
+        "wov_id": "02",
+        "year": 2013,
+        "count": 0.2,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "022",
+        "wov_id": "02",
+        "year": 2014,
+        "count": 0.2,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "022",
+        "wov_id": "02",
+        "year": 2015,
+        "count": 0.2,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "023",
+        "wov_id": "02",
+        "year": 2013,
+        "count": 1.1,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "023",
+        "wov_id": "02",
+        "year": 2014,
+        "count": 1.1,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "023",
+        "wov_id": "02",
+        "year": 2015,
+        "count": 1.1,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "024",
+        "wov_id": "02",
+        "year": 2013,
+        "count": 3.0,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "024",
+        "wov_id": "02",
+        "year": 2014,
+        "count": 3.1,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "024",
+        "wov_id": "02",
+        "year": 2015,
+        "count": 3.1,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "025",
+        "wov_id": "02",
+        "year": 2013,
+        "count": 6.2,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "025",
+        "wov_id": "02",
+        "year": 2014,
+        "count": 6.2,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "025",
+        "wov_id": "02",
+        "year": 2015,
+        "count": 6.4,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "026",
+        "wov_id": "02",
+        "year": 2013,
+        "count": 0.8,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "026",
+        "wov_id": "02",
+        "year": 2014,
+        "count": 0.8,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "026",
+        "wov_id": "02",
+        "year": 2015,
+        "count": 0.8,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "031",
+        "wov_id": "03",
+        "year": 2013,
+        "count": 6.4,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "031",
+        "wov_id": "03",
+        "year": 2014,
+        "count": 6.3,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "031",
+        "wov_id": "03",
+        "year": 2015,
+        "count": 6.5,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "032",
+        "wov_id": "03",
+        "year": 2013,
+        "count": 7.2,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "032",
+        "wov_id": "03",
+        "year": 2014,
+        "count": 7.2,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "032",
+        "wov_id": "03",
+        "year": 2015,
+        "count": 7.2,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "033",
+        "wov_id": "03",
+        "year": 2013,
+        "count": 7.8,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "033",
+        "wov_id": "03",
+        "year": 2014,
+        "count": 7.8,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "033",
+        "wov_id": "03",
+        "year": 2015,
+        "count": 7.8,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "034",
+        "wov_id": "03",
+        "year": 2013,
+        "count": 0.5,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "034",
+        "wov_id": "03",
+        "year": 2014,
+        "count": 0.5,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "034",
+        "wov_id": "03",
+        "year": 2015,
+        "count": 0.5,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "041",
+        "wov_id": "04",
+        "year": 2013,
+        "count": 7.7,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "041",
+        "wov_id": "04",
+        "year": 2014,
+        "count": 7.7,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "041",
+        "wov_id": "04",
+        "year": 2015,
+        "count": 7.7,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "042",
+        "wov_id": "04",
+        "year": 2013,
+        "count": 17.0,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "042",
+        "wov_id": "04",
+        "year": 2014,
+        "count": 16.8,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "042",
+        "wov_id": "04",
+        "year": 2015,
+        "count": 16.8,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "051",
+        "wov_id": "05",
+        "year": 2013,
+        "count": 0.2,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "051",
+        "wov_id": "05",
+        "year": 2014,
+        "count": 0.2,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "051",
+        "wov_id": "05",
+        "year": 2015,
+        "count": 0.2,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "052",
+        "wov_id": "05",
+        "year": 2013,
+        "count": 6.1,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "052",
+        "wov_id": "05",
+        "year": 2014,
+        "count": 6.2,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "052",
+        "wov_id": "05",
+        "year": 2015,
+        "count": 6.0,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "053",
+        "wov_id": "05",
+        "year": 2013,
+        "count": 44.4,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "053",
+        "wov_id": "05",
+        "year": 2014,
+        "count": 44.5,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "053",
+        "wov_id": "05",
+        "year": 2015,
+        "count": 43.0,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "054",
+        "wov_id": "05",
+        "year": 2013,
+        "count": 27.8,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "054",
+        "wov_id": "05",
+        "year": 2014,
+        "count": 27.6,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "054",
+        "wov_id": "05",
+        "year": 2015,
+        "count": 27.2,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "055",
+        "wov_id": "05",
+        "year": 2013,
+        "count": 18.1,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "055",
+        "wov_id": "05",
+        "year": 2014,
+        "count": 19.2,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "055",
+        "wov_id": "05",
+        "year": 2015,
+        "count": 19.2,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "061",
+        "wov_id": "06",
+        "year": 2013,
+        "count": 8.4,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "061",
+        "wov_id": "06",
+        "year": 2014,
+        "count": 8.5,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "061",
+        "wov_id": "06",
+        "year": 2015,
+        "count": 8.6,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "062",
+        "wov_id": "06",
+        "year": 2013,
+        "count": 6.7,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "062",
+        "wov_id": "06",
+        "year": 2014,
+        "count": 6.7,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "062",
+        "wov_id": "06",
+        "year": 2015,
+        "count": 6.7,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "063",
+        "wov_id": "06",
+        "year": 2013,
+        "count": 5.5,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "063",
+        "wov_id": "06",
+        "year": 2014,
+        "count": 5.5,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "063",
+        "wov_id": "06",
+        "year": 2015,
+        "count": 5.5,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "071",
+        "wov_id": "07",
+        "year": 2013,
+        "count": 55.6,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "071",
+        "wov_id": "07",
+        "year": 2014,
+        "count": 56.4,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "071",
+        "wov_id": "07",
+        "year": 2015,
+        "count": 56.4,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "072",
+        "wov_id": "07",
+        "year": 2013,
+        "count": 68.0,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "072",
+        "wov_id": "07",
+        "year": 2014,
+        "count": 67.9,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "072",
+        "wov_id": "07",
+        "year": 2015,
+        "count": 68.0,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "073",
+        "wov_id": "07",
+        "year": 2013,
+        "count": 61.0,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "073",
+        "wov_id": "07",
+        "year": 2014,
+        "count": 60.9,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "073",
+        "wov_id": "07",
+        "year": 2015,
+        "count": 60.9,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "081",
+        "wov_id": "08",
+        "year": 2013,
+        "count": 13.2,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "081",
+        "wov_id": "08",
+        "year": 2014,
+        "count": 13.4,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "081",
+        "wov_id": "08",
+        "year": 2015,
+        "count": 13.4,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "082",
+        "wov_id": "08",
+        "year": 2013,
+        "count": 10.0,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "082",
+        "wov_id": "08",
+        "year": 2014,
+        "count": 10.0,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "082",
+        "wov_id": "08",
+        "year": 2015,
+        "count": 10.0,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "083",
+        "wov_id": "08",
+        "year": 2013,
+        "count": 6.1,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "083",
+        "wov_id": "08",
+        "year": 2014,
+        "count": 6.1,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "083",
+        "wov_id": "08",
+        "year": 2015,
+        "count": 6.1,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "084",
+        "wov_id": "08",
+        "year": 2013,
+        "count": 12.9,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "084",
+        "wov_id": "08",
+        "year": 2014,
+        "count": 13.4,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "084",
+        "wov_id": "08",
+        "year": 2015,
+        "count": 13.4,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "085",
+        "wov_id": "08",
+        "year": 2013,
+        "count": 20.6,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "085",
+        "wov_id": "08",
+        "year": 2014,
+        "count": 20.7,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "085",
+        "wov_id": "08",
+        "year": 2015,
+        "count": 20.7,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "091",
+        "wov_id": "09",
+        "year": 2013,
+        "count": 5.0,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "091",
+        "wov_id": "09",
+        "year": 2014,
+        "count": 5.0,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "091",
+        "wov_id": "09",
+        "year": 2015,
+        "count": 5.0,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "092",
+        "wov_id": "09",
+        "year": 2013,
+        "count": 10.8,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "092",
+        "wov_id": "09",
+        "year": 2014,
+        "count": 10.8,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "092",
+        "wov_id": "09",
+        "year": 2015,
+        "count": 10.8,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "101",
+        "wov_id": "10",
+        "year": 2013,
+        "count": 4.5,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "101",
+        "wov_id": "10",
+        "year": 2014,
+        "count": 4.5,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "101",
+        "wov_id": "10",
+        "year": 2015,
+        "count": 4.5,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "102",
+        "wov_id": "10",
+        "year": 2013,
+        "count": 9.9,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "102",
+        "wov_id": "10",
+        "year": 2014,
+        "count": 9.9,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "102",
+        "wov_id": "10",
+        "year": 2015,
+        "count": 9.0,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "103",
+        "wov_id": "10",
+        "year": 2013,
+        "count": 25.9,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "103",
+        "wov_id": "10",
+        "year": 2014,
+        "count": 25.8,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "103",
+        "wov_id": "10",
+        "year": 2015,
+        "count": 26.5,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "111",
+        "wov_id": "11",
+        "year": 2013,
+        "count": 5.0,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "111",
+        "wov_id": "11",
+        "year": 2014,
+        "count": 5.0,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "111",
+        "wov_id": "11",
+        "year": 2015,
+        "count": 5.0,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "112",
+        "wov_id": "11",
+        "year": 2013,
+        "count": 2.0,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "112",
+        "wov_id": "11",
+        "year": 2014,
+        "count": 2.0,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "112",
+        "wov_id": "11",
+        "year": 2015,
+        "count": 2.0,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "113",
+        "wov_id": "11",
+        "year": 2013,
+        "count": 3.1,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "113",
+        "wov_id": "11",
+        "year": 2014,
+        "count": 3.3,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "113",
+        "wov_id": "11",
+        "year": 2015,
+        "count": 3.3,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "114",
+        "wov_id": "11",
+        "year": 2013,
+        "count": 4.9,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "114",
+        "wov_id": "11",
+        "year": 2014,
+        "count": 5.2,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "114",
+        "wov_id": "11",
+        "year": 2015,
+        "count": 5.2,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "115",
+        "wov_id": "11",
+        "year": 2013,
+        "count": 46.0,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "115",
+        "wov_id": "11",
+        "year": 2014,
+        "count": 45.7,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "115",
+        "wov_id": "11",
+        "year": 2015,
+        "count": 45.7,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "121",
+        "wov_id": "12",
+        "year": 2013,
+        "count": 1.3,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "121",
+        "wov_id": "12",
+        "year": 2014,
+        "count": 1.2,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "121",
+        "wov_id": "12",
+        "year": 2015,
+        "count": 1.2,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "122",
+        "wov_id": "12",
+        "year": 2013,
+        "count": 0.8,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "122",
+        "wov_id": "12",
+        "year": 2014,
+        "count": 0.8,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "122",
+        "wov_id": "12",
+        "year": 2015,
+        "count": 0.8,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "131",
+        "wov_id": "13",
+        "year": 2013,
+        "count": 1.0,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "131",
+        "wov_id": "13",
+        "year": 2014,
+        "count": 1.0,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "131",
+        "wov_id": "13",
+        "year": 2015,
+        "count": 1.0,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "132",
+        "wov_id": "13",
+        "year": 2013,
+        "count": 2.6,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "132",
+        "wov_id": "13",
+        "year": 2014,
+        "count": 2.6,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "132",
+        "wov_id": "13",
+        "year": 2015,
+        "count": 2.6,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "141",
+        "wov_id": "14",
+        "year": 2013,
+        "count": 7.2,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "141",
+        "wov_id": "14",
+        "year": 2014,
+        "count": 7.2,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "141",
+        "wov_id": "14",
+        "year": 2015,
+        "count": 7.7,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "142",
+        "wov_id": "14",
+        "year": 2013,
+        "count": 14.0,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "142",
+        "wov_id": "14",
+        "year": 2014,
+        "count": 12.9,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "142",
+        "wov_id": "14",
+        "year": 2015,
+        "count": 12.9,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "151",
+        "wov_id": "15",
+        "year": 2013,
+        "count": 90.3,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "151",
+        "wov_id": "15",
+        "year": 2014,
+        "count": 90.3,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "151",
+        "wov_id": "15",
+        "year": 2015,
+        "count": 90.9,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "152",
+        "wov_id": "15",
+        "year": 2013,
+        "count": 32.7,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "152",
+        "wov_id": "15",
+        "year": 2014,
+        "count": 32.7,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "152",
+        "wov_id": "15",
+        "year": 2015,
+        "count": 32.7,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "153",
+        "wov_id": "15",
+        "year": 2013,
+        "count": 59.2,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "153",
+        "wov_id": "15",
+        "year": 2014,
+        "count": 59.0,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "153",
+        "wov_id": "15",
+        "year": 2015,
+        "count": 58.9,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "161",
+        "wov_id": "16",
+        "year": 2013,
+        "count": 3.0,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "161",
+        "wov_id": "16",
+        "year": 2014,
+        "count": 3.0,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "161",
+        "wov_id": "16",
+        "year": 2015,
+        "count": 3.0,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "162",
+        "wov_id": "16",
+        "year": 2013,
+        "count": 3.3,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "162",
+        "wov_id": "16",
+        "year": 2014,
+        "count": 3.3,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "162",
+        "wov_id": "16",
+        "year": 2015,
+        "count": 3.3,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "171",
+        "wov_id": "17",
+        "year": 2013,
+        "count": 2.0,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "171",
+        "wov_id": "17",
+        "year": 2014,
+        "count": 2.0,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "171",
+        "wov_id": "17",
+        "year": 2015,
+        "count": 2.0,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "172",
+        "wov_id": "17",
+        "year": 2013,
+        "count": 2.9,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "172",
+        "wov_id": "17",
+        "year": 2014,
+        "count": 2.9,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "172",
+        "wov_id": "17",
+        "year": 2015,
+        "count": 2.9,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "173",
+        "wov_id": "17",
+        "year": 2013,
+        "count": 1.0,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "173",
+        "wov_id": "17",
+        "year": 2014,
+        "count": 1.0,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "173",
+        "wov_id": "17",
+        "year": 2015,
+        "count": 1.0,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "174",
+        "wov_id": "17",
+        "year": 2013,
+        "count": 3.9,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "174",
+        "wov_id": "17",
+        "year": 2014,
+        "count": 3.9,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "174",
+        "wov_id": "17",
+        "year": 2015,
+        "count": 4.0,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "180",
+        "wov_id": "18",
+        "year": 2013,
+        "count": 10.2,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "180",
+        "wov_id": "18",
+        "year": 2014,
+        "count": 10.8,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "180",
+        "wov_id": "18",
+        "year": 2015,
+        "count": 10.9,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "190",
+        "wov_id": "19",
+        "year": 2013,
+        "count": 21.0,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "190",
+        "wov_id": "19",
+        "year": 2014,
+        "count": 21.0,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "190",
+        "wov_id": "19",
+        "year": 2015,
+        "count": 21.0,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "201",
+        "wov_id": "20",
+        "year": 2013,
+        "count": 85.3,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "201",
+        "wov_id": "20",
+        "year": 2014,
+        "count": 85.0,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "201",
+        "wov_id": "20",
+        "year": 2015,
+        "count": 85.0,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "202",
+        "wov_id": "20",
+        "year": 2013,
+        "count": 70.3,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "202",
+        "wov_id": "20",
+        "year": 2014,
+        "count": 70.1,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "202",
+        "wov_id": "20",
+        "year": 2015,
+        "count": 69.9,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "203",
+        "wov_id": "20",
+        "year": 2013,
+        "count": 113.2,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "203",
+        "wov_id": "20",
+        "year": 2014,
+        "count": 113.2,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "203",
+        "wov_id": "20",
+        "year": 2015,
+        "count": 113.2,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "204",
+        "wov_id": "20",
+        "year": 2013,
+        "count": 171.2,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "204",
+        "wov_id": "20",
+        "year": 2014,
+        "count": 171.2,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "204",
+        "wov_id": "20",
+        "year": 2015,
+        "count": 171.3,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "205",
+        "wov_id": "20",
+        "year": 2013,
+        "count": 151.0,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "205",
+        "wov_id": "20",
+        "year": 2014,
+        "count": 151.0,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "205",
+        "wov_id": "20",
+        "year": 2015,
+        "count": 151.1,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "206",
+        "wov_id": "20",
+        "year": 2013,
+        "count": 61.5,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "206",
+        "wov_id": "20",
+        "year": 2014,
+        "count": 61.4,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "206",
+        "wov_id": "20",
+        "year": 2015,
+        "count": 61.4,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "207",
+        "wov_id": "20",
+        "year": 2013,
+        "count": 115.0,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "207",
+        "wov_id": "20",
+        "year": 2014,
+        "count": 115.1,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "207",
+        "wov_id": "20",
+        "year": 2015,
+        "count": 113.8,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "208",
+        "wov_id": "20",
+        "year": 2013,
+        "count": 98.1,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "208",
+        "wov_id": "20",
+        "year": 2014,
+        "count": 98.1,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "208",
+        "wov_id": "20",
+        "year": 2015,
+        "count": 98.1,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "301",
+        "wov_id": "30",
+        "year": 2013,
+        "count": 123.8,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "301",
+        "wov_id": "30",
+        "year": 2014,
+        "count": 123.8,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "301",
+        "wov_id": "30",
+        "year": 2015,
+        "count": 123.8,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "302",
+        "wov_id": "30",
+        "year": 2013,
+        "count": 77.2,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "302",
+        "wov_id": "30",
+        "year": 2014,
+        "count": 77.2,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "gruenflaeche",
+        "wbe": "302",
+        "wov_id": "30",
+        "year": 2015,
+        "count": 77.2,
+        "indicator": {
+            "id": "gruenflaeche",
+            "Thema": "ru_gruen",
+            "Indikator_Titel": "Gr\u00fcnfl\u00e4che",
+            "Indikator_Titel_kurz": "Gr\u00fcnfl\u00e4che",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Amtliche Vermessung des Kantons Basel-Stadt, Bodenbedeckung",
+            "Indikator_Beschrieb": "Als Gr\u00fcnfl\u00e4che gelten alle privaten und \u00f6ffentlichen bestockten (Wald, \u00fcbrige) oder humusierten (Acker, Wiese, Friedhof, Gartenanlage, Gew\u00e4sservorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, \u00fcbrige) Fl\u00e4chen.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2015|2014|2013"
+        }
+    }
+]

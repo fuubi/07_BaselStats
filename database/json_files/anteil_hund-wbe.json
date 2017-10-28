@@ -1,0 +1,3935 @@
+[
+    {
+        "key": "anteil_hund",
+        "wbe": "011",
+        "wov_id": "01",
+        "year": 2016,
+        "count": 2.1,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "012",
+        "wov_id": "01",
+        "year": 2016,
+        "count": 1.7,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "013",
+        "wov_id": "01",
+        "year": 2016,
+        "count": 2.4,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "014",
+        "wov_id": "01",
+        "year": 2016,
+        "count": 2.0,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "021",
+        "wov_id": "02",
+        "year": 2016,
+        "count": 2.5,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "022",
+        "wov_id": "02",
+        "year": 2016,
+        "count": 1.8,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "023",
+        "wov_id": "02",
+        "year": 2016,
+        "count": 1.7,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "024",
+        "wov_id": "02",
+        "year": 2016,
+        "count": 2.1,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "025",
+        "wov_id": "02",
+        "year": 2016,
+        "count": 3.2,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "026",
+        "wov_id": "02",
+        "year": 2016,
+        "count": 2.6,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "031",
+        "wov_id": "03",
+        "year": 2016,
+        "count": 1.3,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "032",
+        "wov_id": "03",
+        "year": 2016,
+        "count": 2.7,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "033",
+        "wov_id": "03",
+        "year": 2016,
+        "count": 2.0,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "034",
+        "wov_id": "03",
+        "year": 2016,
+        "count": 2.6,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "041",
+        "wov_id": "04",
+        "year": 2016,
+        "count": 2.1,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "042",
+        "wov_id": "04",
+        "year": 2016,
+        "count": 2.9,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "051",
+        "wov_id": "05",
+        "year": 2016,
+        "count": 5.9,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "052",
+        "wov_id": "05",
+        "year": 2016,
+        "count": 2.0,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "053",
+        "wov_id": "05",
+        "year": 2016,
+        "count": 3.1,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "054",
+        "wov_id": "05",
+        "year": 2016,
+        "count": 2.0,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "055",
+        "wov_id": "05",
+        "year": 2016,
+        "count": 2.2,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "061",
+        "wov_id": "06",
+        "year": 2016,
+        "count": 1.5,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "062",
+        "wov_id": "06",
+        "year": 2016,
+        "count": 1.5,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "063",
+        "wov_id": "06",
+        "year": 2016,
+        "count": 1.6,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "071",
+        "wov_id": "07",
+        "year": 2016,
+        "count": 2.9,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "072",
+        "wov_id": "07",
+        "year": 2016,
+        "count": 3.8,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "073",
+        "wov_id": "07",
+        "year": 2016,
+        "count": 6.6,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "081",
+        "wov_id": "08",
+        "year": 2016,
+        "count": 2.9,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "082",
+        "wov_id": "08",
+        "year": 2016,
+        "count": 2.1,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "083",
+        "wov_id": "08",
+        "year": 2016,
+        "count": 1.8,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "084",
+        "wov_id": "08",
+        "year": 2016,
+        "count": 1.9,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "085",
+        "wov_id": "08",
+        "year": 2016,
+        "count": 3.0,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "091",
+        "wov_id": "09",
+        "year": 2016,
+        "count": 1.7,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "092",
+        "wov_id": "09",
+        "year": 2016,
+        "count": 3.5,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "101",
+        "wov_id": "10",
+        "year": 2016,
+        "count": 1.8,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "102",
+        "wov_id": "10",
+        "year": 2016,
+        "count": 2.1,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "103",
+        "wov_id": "10",
+        "year": 2016,
+        "count": 1.8,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "111",
+        "wov_id": "11",
+        "year": 2016,
+        "count": 2.1,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "112",
+        "wov_id": "11",
+        "year": 2016,
+        "count": 1.7,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "113",
+        "wov_id": "11",
+        "year": 2016,
+        "count": 1.7,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "114",
+        "wov_id": "11",
+        "year": 2016,
+        "count": 1.7,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "115",
+        "wov_id": "11",
+        "year": 2016,
+        "count": 3.0,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "121",
+        "wov_id": "12",
+        "year": 2016,
+        "count": 1.7,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "122",
+        "wov_id": "12",
+        "year": 2016,
+        "count": 2.0,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "131",
+        "wov_id": "13",
+        "year": 2016,
+        "count": 2.3,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "132",
+        "wov_id": "13",
+        "year": 2016,
+        "count": 1.7,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "141",
+        "wov_id": "14",
+        "year": 2016,
+        "count": 2.2,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "142",
+        "wov_id": "14",
+        "year": 2016,
+        "count": 3.1,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "151",
+        "wov_id": "15",
+        "year": 2016,
+        "count": 3.1,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "152",
+        "wov_id": "15",
+        "year": 2016,
+        "count": 3.5,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "153",
+        "wov_id": "15",
+        "year": 2016,
+        "count": 2.8,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "161",
+        "wov_id": "16",
+        "year": 2016,
+        "count": 2.0,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "162",
+        "wov_id": "16",
+        "year": 2016,
+        "count": 2.5,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "171",
+        "wov_id": "17",
+        "year": 2016,
+        "count": 1.1,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "172",
+        "wov_id": "17",
+        "year": 2016,
+        "count": 1.7,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "173",
+        "wov_id": "17",
+        "year": 2016,
+        "count": 1.7,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "174",
+        "wov_id": "17",
+        "year": 2016,
+        "count": 1.9,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "180",
+        "wov_id": "18",
+        "year": 2016,
+        "count": 2.5,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "190",
+        "wov_id": "19",
+        "year": 2016,
+        "count": 3.6,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "201",
+        "wov_id": "20",
+        "year": 2016,
+        "count": 3.8,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "202",
+        "wov_id": "20",
+        "year": 2016,
+        "count": 4.3,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "203",
+        "wov_id": "20",
+        "year": 2016,
+        "count": 4.2,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "204",
+        "wov_id": "20",
+        "year": 2016,
+        "count": 6.2,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "205",
+        "wov_id": "20",
+        "year": 2016,
+        "count": 5.8,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "206",
+        "wov_id": "20",
+        "year": 2016,
+        "count": 3.8,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "207",
+        "wov_id": "20",
+        "year": 2016,
+        "count": 2.8,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "208",
+        "wov_id": "20",
+        "year": 2016,
+        "count": 4.2,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "301",
+        "wov_id": "30",
+        "year": 2016,
+        "count": 4.9,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "302",
+        "wov_id": "30",
+        "year": 2016,
+        "count": 0.4,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "011",
+        "wov_id": "01",
+        "year": 2015,
+        "count": 3.3,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "012",
+        "wov_id": "01",
+        "year": 2015,
+        "count": 1.7,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "013",
+        "wov_id": "01",
+        "year": 2015,
+        "count": 3.2,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "014",
+        "wov_id": "01",
+        "year": 2015,
+        "count": 1.4,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "021",
+        "wov_id": "02",
+        "year": 2015,
+        "count": 2.5,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "022",
+        "wov_id": "02",
+        "year": 2015,
+        "count": 2.0,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "023",
+        "wov_id": "02",
+        "year": 2015,
+        "count": 1.8,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "024",
+        "wov_id": "02",
+        "year": 2015,
+        "count": 1.8,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "025",
+        "wov_id": "02",
+        "year": 2015,
+        "count": 3.0,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "026",
+        "wov_id": "02",
+        "year": 2015,
+        "count": 2.6,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "031",
+        "wov_id": "03",
+        "year": 2015,
+        "count": 1.5,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "032",
+        "wov_id": "03",
+        "year": 2015,
+        "count": 2.6,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "033",
+        "wov_id": "03",
+        "year": 2015,
+        "count": 2.1,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "034",
+        "wov_id": "03",
+        "year": 2015,
+        "count": 2.0,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "041",
+        "wov_id": "04",
+        "year": 2015,
+        "count": 2.3,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "042",
+        "wov_id": "04",
+        "year": 2015,
+        "count": 2.8,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "051",
+        "wov_id": "05",
+        "year": 2015,
+        "count": 5.3,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "052",
+        "wov_id": "05",
+        "year": 2015,
+        "count": 2.0,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "053",
+        "wov_id": "05",
+        "year": 2015,
+        "count": 3.1,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "054",
+        "wov_id": "05",
+        "year": 2015,
+        "count": 2.3,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "055",
+        "wov_id": "05",
+        "year": 2015,
+        "count": 2.4,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "061",
+        "wov_id": "06",
+        "year": 2015,
+        "count": 1.5,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "062",
+        "wov_id": "06",
+        "year": 2015,
+        "count": 1.5,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "063",
+        "wov_id": "06",
+        "year": 2015,
+        "count": 1.5,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "071",
+        "wov_id": "07",
+        "year": 2015,
+        "count": 2.9,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "072",
+        "wov_id": "07",
+        "year": 2015,
+        "count": 3.8,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "073",
+        "wov_id": "07",
+        "year": 2015,
+        "count": 6.4,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "081",
+        "wov_id": "08",
+        "year": 2015,
+        "count": 2.8,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "082",
+        "wov_id": "08",
+        "year": 2015,
+        "count": 2.1,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "083",
+        "wov_id": "08",
+        "year": 2015,
+        "count": 2.0,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "084",
+        "wov_id": "08",
+        "year": 2015,
+        "count": 1.9,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "085",
+        "wov_id": "08",
+        "year": 2015,
+        "count": 3.0,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "091",
+        "wov_id": "09",
+        "year": 2015,
+        "count": 1.6,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "092",
+        "wov_id": "09",
+        "year": 2015,
+        "count": 3.5,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "101",
+        "wov_id": "10",
+        "year": 2015,
+        "count": 1.9,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "102",
+        "wov_id": "10",
+        "year": 2015,
+        "count": 2.0,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "103",
+        "wov_id": "10",
+        "year": 2015,
+        "count": 1.7,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "111",
+        "wov_id": "11",
+        "year": 2015,
+        "count": 1.8,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "112",
+        "wov_id": "11",
+        "year": 2015,
+        "count": 1.6,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "113",
+        "wov_id": "11",
+        "year": 2015,
+        "count": 1.5,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "114",
+        "wov_id": "11",
+        "year": 2015,
+        "count": 1.7,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "115",
+        "wov_id": "11",
+        "year": 2015,
+        "count": 3.1,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "121",
+        "wov_id": "12",
+        "year": 2015,
+        "count": 2.1,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "122",
+        "wov_id": "12",
+        "year": 2015,
+        "count": 2.0,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "131",
+        "wov_id": "13",
+        "year": 2015,
+        "count": 2.5,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "132",
+        "wov_id": "13",
+        "year": 2015,
+        "count": 1.5,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "141",
+        "wov_id": "14",
+        "year": 2015,
+        "count": 2.0,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "142",
+        "wov_id": "14",
+        "year": 2015,
+        "count": 3.0,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "151",
+        "wov_id": "15",
+        "year": 2015,
+        "count": 3.2,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "152",
+        "wov_id": "15",
+        "year": 2015,
+        "count": 3.9,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "153",
+        "wov_id": "15",
+        "year": 2015,
+        "count": 2.9,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "161",
+        "wov_id": "16",
+        "year": 2015,
+        "count": 2.1,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "162",
+        "wov_id": "16",
+        "year": 2015,
+        "count": 1.4,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "171",
+        "wov_id": "17",
+        "year": 2015,
+        "count": 1.5,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "172",
+        "wov_id": "17",
+        "year": 2015,
+        "count": 1.6,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "173",
+        "wov_id": "17",
+        "year": 2015,
+        "count": 1.8,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "174",
+        "wov_id": "17",
+        "year": 2015,
+        "count": 1.9,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "180",
+        "wov_id": "18",
+        "year": 2015,
+        "count": 2.3,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "190",
+        "wov_id": "19",
+        "year": 2015,
+        "count": 3.5,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "201",
+        "wov_id": "20",
+        "year": 2015,
+        "count": 3.5,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "202",
+        "wov_id": "20",
+        "year": 2015,
+        "count": 4.4,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "203",
+        "wov_id": "20",
+        "year": 2015,
+        "count": 4.2,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "204",
+        "wov_id": "20",
+        "year": 2015,
+        "count": 6.0,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "205",
+        "wov_id": "20",
+        "year": 2015,
+        "count": 6.0,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "206",
+        "wov_id": "20",
+        "year": 2015,
+        "count": 3.8,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "207",
+        "wov_id": "20",
+        "year": 2015,
+        "count": 3.0,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "208",
+        "wov_id": "20",
+        "year": 2015,
+        "count": 4.1,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "301",
+        "wov_id": "30",
+        "year": 2015,
+        "count": 5.2,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "302",
+        "wov_id": "30",
+        "year": 2015,
+        "count": 0.4,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "011",
+        "wov_id": "01",
+        "year": 2014,
+        "count": 3.2,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "012",
+        "wov_id": "01",
+        "year": 2014,
+        "count": 2.6,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "013",
+        "wov_id": "01",
+        "year": 2014,
+        "count": 2.8,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "014",
+        "wov_id": "01",
+        "year": 2014,
+        "count": 2.2,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "021",
+        "wov_id": "02",
+        "year": 2014,
+        "count": 2.5,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "022",
+        "wov_id": "02",
+        "year": 2014,
+        "count": 2.4,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "023",
+        "wov_id": "02",
+        "year": 2014,
+        "count": 2.3,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "024",
+        "wov_id": "02",
+        "year": 2014,
+        "count": 2.1,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "025",
+        "wov_id": "02",
+        "year": 2014,
+        "count": 2.5,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "026",
+        "wov_id": "02",
+        "year": 2014,
+        "count": 3.5,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "031",
+        "wov_id": "03",
+        "year": 2014,
+        "count": 1.6,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "032",
+        "wov_id": "03",
+        "year": 2014,
+        "count": 2.8,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "033",
+        "wov_id": "03",
+        "year": 2014,
+        "count": 2.1,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "034",
+        "wov_id": "03",
+        "year": 2014,
+        "count": 1.3,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "041",
+        "wov_id": "04",
+        "year": 2014,
+        "count": 2.4,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "042",
+        "wov_id": "04",
+        "year": 2014,
+        "count": 2.6,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "051",
+        "wov_id": "05",
+        "year": 2014,
+        "count": 7.0,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "052",
+        "wov_id": "05",
+        "year": 2014,
+        "count": 1.8,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "053",
+        "wov_id": "05",
+        "year": 2014,
+        "count": 3.2,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "054",
+        "wov_id": "05",
+        "year": 2014,
+        "count": 2.1,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "055",
+        "wov_id": "05",
+        "year": 2014,
+        "count": 2.2,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "061",
+        "wov_id": "06",
+        "year": 2014,
+        "count": 1.6,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "062",
+        "wov_id": "06",
+        "year": 2014,
+        "count": 1.4,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "063",
+        "wov_id": "06",
+        "year": 2014,
+        "count": 1.7,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "071",
+        "wov_id": "07",
+        "year": 2014,
+        "count": 2.9,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "072",
+        "wov_id": "07",
+        "year": 2014,
+        "count": 4.0,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "073",
+        "wov_id": "07",
+        "year": 2014,
+        "count": 5.1,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "081",
+        "wov_id": "08",
+        "year": 2014,
+        "count": 2.6,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "082",
+        "wov_id": "08",
+        "year": 2014,
+        "count": 2.3,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "083",
+        "wov_id": "08",
+        "year": 2014,
+        "count": 1.7,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "084",
+        "wov_id": "08",
+        "year": 2014,
+        "count": 1.9,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "085",
+        "wov_id": "08",
+        "year": 2014,
+        "count": 3.2,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "091",
+        "wov_id": "09",
+        "year": 2014,
+        "count": 1.6,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "092",
+        "wov_id": "09",
+        "year": 2014,
+        "count": 3.5,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "101",
+        "wov_id": "10",
+        "year": 2014,
+        "count": 1.9,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "102",
+        "wov_id": "10",
+        "year": 2014,
+        "count": 1.9,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "103",
+        "wov_id": "10",
+        "year": 2014,
+        "count": 2.0,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "111",
+        "wov_id": "11",
+        "year": 2014,
+        "count": 2.1,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "112",
+        "wov_id": "11",
+        "year": 2014,
+        "count": 1.9,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "113",
+        "wov_id": "11",
+        "year": 2014,
+        "count": 1.4,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "114",
+        "wov_id": "11",
+        "year": 2014,
+        "count": 2.1,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "115",
+        "wov_id": "11",
+        "year": 2014,
+        "count": 2.9,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "121",
+        "wov_id": "12",
+        "year": 2014,
+        "count": 2.1,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "122",
+        "wov_id": "12",
+        "year": 2014,
+        "count": 2.6,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "131",
+        "wov_id": "13",
+        "year": 2014,
+        "count": 2.2,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "132",
+        "wov_id": "13",
+        "year": 2014,
+        "count": 1.8,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "141",
+        "wov_id": "14",
+        "year": 2014,
+        "count": 1.8,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "142",
+        "wov_id": "14",
+        "year": 2014,
+        "count": 2.8,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "151",
+        "wov_id": "15",
+        "year": 2014,
+        "count": 3.1,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "152",
+        "wov_id": "15",
+        "year": 2014,
+        "count": 3.7,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "153",
+        "wov_id": "15",
+        "year": 2014,
+        "count": 2.8,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "161",
+        "wov_id": "16",
+        "year": 2014,
+        "count": 2.2,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "162",
+        "wov_id": "16",
+        "year": 2014,
+        "count": 1.8,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "171",
+        "wov_id": "17",
+        "year": 2014,
+        "count": 1.7,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "172",
+        "wov_id": "17",
+        "year": 2014,
+        "count": 1.8,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "173",
+        "wov_id": "17",
+        "year": 2014,
+        "count": 2.0,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "174",
+        "wov_id": "17",
+        "year": 2014,
+        "count": 1.9,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "180",
+        "wov_id": "18",
+        "year": 2014,
+        "count": 2.5,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "190",
+        "wov_id": "19",
+        "year": 2014,
+        "count": 3.7,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "201",
+        "wov_id": "20",
+        "year": 2014,
+        "count": 3.6,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "202",
+        "wov_id": "20",
+        "year": 2014,
+        "count": 4.1,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "203",
+        "wov_id": "20",
+        "year": 2014,
+        "count": 4.2,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "204",
+        "wov_id": "20",
+        "year": 2014,
+        "count": 4.9,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "205",
+        "wov_id": "20",
+        "year": 2014,
+        "count": 6.1,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "206",
+        "wov_id": "20",
+        "year": 2014,
+        "count": 3.8,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "207",
+        "wov_id": "20",
+        "year": 2014,
+        "count": 3.0,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "208",
+        "wov_id": "20",
+        "year": 2014,
+        "count": 3.9,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "301",
+        "wov_id": "30",
+        "year": 2014,
+        "count": 4.4,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    },
+    {
+        "key": "anteil_hund",
+        "wbe": "302",
+        "wov_id": "30",
+        "year": 2014,
+        "count": 0.4,
+        "indicator": {
+            "id": "anteil_hund",
+            "Thema": "kulthund",
+            "Indikator_Titel": "Anzahl Hunde pro 100 Einwohner",
+            "Indikator_Titel_kurz": "Anteil Hunde pro 100 Einw.",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Veterin\u00e4ramt und Statistisches Amt des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Hunde: Hundebestand per 1. April. Bev\u00f6lkerung: Stichtagsauswertungen Einwohnerregister per Ende Jahr, ohne Nachtr\u00e4ge und Bereinigungen. \nRaumeinheiten mit weniger als 4 Einwohnern werden aus Datenschutzgr\u00fcnden nicht dargestellt.",
+            "Link_URL": "",
+            "Link_Text": "",
+            "Jahre": "2016|2015|2014"
+        }
+    }
+]
