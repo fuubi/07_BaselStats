@@ -14,6 +14,7 @@ import { SearchService } from './search.service';
 export class SearchComponent {
     autocompleteItems;
     autocomplete;
+    queriedItems;
 
     text: string;
 
@@ -22,6 +23,7 @@ export class SearchComponent {
         this.autocomplete = {
             query: ''
         };
+        this.queriedItems = [];
     }
 
     updateSearch(): void {
@@ -37,7 +39,9 @@ export class SearchComponent {
     }
 
     itemSelected(item): void {
-        this.autocomplete.query = item;
+        this.queriedItems.push(item);
+        this.autocomplete.query = '';
+        this.updateSearch();
     }
 
 }
