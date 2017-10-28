@@ -1,6 +1,7 @@
 import { Component } from '@angular/core';
 import { ChartService } from './chart.service';
 import { LineChartData } from './model';
+import { Observable } from 'rxjs';
 
 /**
  * Generated class for the LineChartAComponent component.
@@ -13,15 +14,10 @@ import { LineChartData } from './model';
     templateUrl: 'line-chart-a.html'
 })
 export class LineChartAComponent {
+    public lineChartData: LineChartData[];
+    public lineChartLabels: string[];
 
-
-    // lineChart
-    public lineChartData: Array<LineChartData>;
-
-    public lineChartLabels: Array<any> = ['January', 'February', 'March', 'April', 'May', 'June', 'July'];
-    public lineChartOptions: any = {
-        responsive: true
-    };
+    public lineChartOptions: any = {responsive: true};
     public lineChartColors: Array<any> = [
         { // grey
             backgroundColor: 'rgba(148,159,177,0.2)',
@@ -55,7 +51,14 @@ export class LineChartAComponent {
         chartService.getLineChartData()
             .subscribe(d => {
                 this.lineChartData = d;
-            })
+            });
+
+        chartService.getLabels()
+            .subscribe(l => {
+                    this.lineChartLabels = l
+                }
+            );
+
 
     }
 
