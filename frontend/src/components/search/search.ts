@@ -7,42 +7,47 @@ import { Component } from '@angular/core';
  * Components.
  */
 @Component({
-  selector: 'search',
-  templateUrl: 'search.html'
+    selector: 'search',
+    templateUrl: 'search.html'
 })
 export class SearchComponent {
-  autocompleteItems;
-  autocomplete;
+    autocompleteItems;
+    autocomplete;
 
-  text: string;
+    text: string;
 
-  constructor() {
-    this.autocompleteItems = [];
-    this.autocomplete = {
-      query: ''
-    };
-    this.text = 'Hello World';
-  }
-
-  updateSearch(): void {
-
-    console.log(this.autocomplete.query)
-
-    if (this.autocomplete.query == '') {
-      this.autocompleteItems = [];
-      return;
+    constructor() {
+        this.autocompleteItems = [];
+        this.autocomplete = {
+            query: ''
+        };
     }
 
-/*    let me = this;
-    this.service.getPlacePredictions({ input: this.autocomplete.query, componentRestrictions: {country: 'TH'} }, function (predictions, status) {
-      me.autocompleteItems = [];
-      me.zone.run(function () {
-        predictions.forEach(function (prediction) {
-          me.autocompleteItems.push(prediction.description);
-        });
-      });
-    });*/
+    updateSearch(): void {
 
-  }
+        console.log(this.autocomplete.query)
+
+        if (this.autocomplete.query == '') {
+            this.autocompleteItems = [];
+            return;
+        }
+        this.autocompleteItems = ['hello', 'wolirld'];
+        /*    let me = this;
+         this.service.getPlacePredictions({ input: this.autocomplete.query,
+         componentRestrictions: {country: 'TH'} },
+         function (predictions, status) {
+         me.autocompleteItems = [];
+         me.zone.run(function () {
+         predictions.forEach(function (prediction) {
+         me.autocompleteItems.push(prediction.description);
+         });
+         });
+         });*/
+
+    }
+
+    itemSelected(item): void {
+        console.log(item)
+    }
 
 }
