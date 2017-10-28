@@ -1,5 +1,6 @@
-import { Component } from '@angular/core';
+import { Component, Output, EventEmitter, OnInit, ViewChild } from '@angular/core';
 import { SearchService } from './search.service';
+import { QueriesBoxComponent } from '../queries-box/queries-box';
 
 /**
  * Generated class for the SearchComponent component.
@@ -11,19 +12,26 @@ import { SearchService } from './search.service';
     selector: 'search',
     templateUrl: 'search.html'
 })
-export class SearchComponent {
+export class SearchComponent implements OnInit{
     autocompleteItems;
     autocomplete;
-    queriedItems;
+    queriedItems; 
+   text: string;
 
-    text: string;
+
+
 
     constructor(private searchService:SearchService) {
+
+    }
+
+    ngOnInit(){
         this.autocompleteItems = [];
         this.autocomplete = {
             query: ''
         };
-        this.queriedItems = [];
+
+        this.queriedItems = ['hallo'];
     }
 
     updateSearch(): void {
@@ -35,11 +43,12 @@ export class SearchComponent {
         this.searchService.getPredictions(this.autocomplete.query)
             .subscribe(prediction => {
                 this.autocompleteItems.push(prediction);
+                console.log('next prediction' + prediction)
             });
     }
 
     itemSelected(item): void {
-        this.queriedItems.push(item);
+        this.searchService.addQueriedItem(item);
         this.autocomplete.query = '';
         this.updateSearch();
     }

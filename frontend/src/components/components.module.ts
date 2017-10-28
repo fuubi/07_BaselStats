@@ -4,12 +4,23 @@ import { IonicModule } from 'ionic-angular';
 import { SearchService } from './search/search.service';
 import { CommonModule } from '@angular/common';
 import { HttpModule } from '@angular/http';
+import { QueriesBoxComponent } from './queries-box/queries-box';
 @NgModule({
-	declarations: [SearchComponent],
-	imports: [IonicModule, HttpModule],
-	exports: [SearchComponent],
-	providers: [
-		SearchService
-	]
+    declarations: [
+        SearchComponent,
+        QueriesBoxComponent
+    ],
+    imports: [
+        IonicModule,
+        HttpModule
+    ],
+    exports: [
+        SearchComponent,
+        QueriesBoxComponent
+    ],
+    providers: [
+        SearchService
+    ]
 })
-export class ComponentsModule {}
+export class ComponentsModule {
+}
