@@ -39,7 +39,7 @@ export class ChartService {
         return this.lineChartColors.asObservable();
     }
 
-    private getChartColor(count: Number) {
+    private getChartColor(count: number) {
         let lineChartColors: LineChartColors[] = [];
         for (let i = 0; i < count; i++) {
             let h: string = String(i / count);
