@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { SearchService } from './search.service';
 
 /**
  * Generated class for the SearchComponent component.
@@ -16,7 +17,7 @@ export class SearchComponent {
 
     text: string;
 
-    constructor() {
+    constructor(private searchService:SearchService) {
         this.autocompleteItems = [];
         this.autocomplete = {
             query: ''
@@ -24,26 +25,14 @@ export class SearchComponent {
     }
 
     updateSearch(): void {
-
-        console.log(this.autocomplete.query)
-
         if (this.autocomplete.query == '') {
             this.autocompleteItems = [];
             return;
         }
-        this.autocompleteItems = ['hello', 'wolirld'];
-        /*    let me = this;
-         this.service.getPlacePredictions({ input: this.autocomplete.query,
-         componentRestrictions: {country: 'TH'} },
-         function (predictions, status) {
-         me.autocompleteItems = [];
-         me.zone.run(function () {
-         predictions.forEach(function (prediction) {
-         me.autocompleteItems.push(prediction.description);
-         });
-         });
-         });*/
-
+        this.searchService.getPredictions(this.autocomplete.query)
+            .subscribe(prediction => {
+                this.autocompleteItems.push(prediction);
+            });
     }
 
     itemSelected(item): void {
