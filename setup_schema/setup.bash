@@ -1,10 +1,10 @@
 #!/bin/bash
 
 # Delete index if exist
-curl -XDELETE 'localhost:9200/dataset?pretty'
+curl -XDELETE 'localhost:9200/baselhack?pretty'
 
 # Create index
-curl -XPUT 'localhost:9200/dataset?pretty' -H 'Content-Type: application/json' -d'
+curl -XPUT 'localhost:9200/baselhack?pretty' -H 'Content-Type: application/json' -d'
 {
     "settings" : {
         "index" : {
