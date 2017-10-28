@@ -15,27 +15,31 @@ curl -XPUT 'localhost:9200/baselhack?pretty' -H 'Content-Type: application/json'
     "mappings": {
         "dataset": {
             "properties" : {
+		"key": {
+		  "type": "string",
+		  "index": "not_analyzed"
+                },
                 "year": {
                     "type": "integer",
                     "index": "not_analyzed"
-                  },
-                  "count": {
-                    "type":"scaled_float",
-                    "scaling_factor": 100
-                  },
-                  "wbe": {
-                    "type": "string",
-                    "index": "not_analyzed"
-                  },
-                  "wvi": {
-                    "type": "string",
-                    "index": "not_analyzed"
-                  },
-                  "indicator": {
-                    "properties": {
-                        "id": {
-                            "type": "string",
-                            "index": "not_analyzed"
+                },
+                "count": {
+                  "type":"scaled_float",
+                  "scaling_factor": 100
+                },
+                "wbe": {
+                  "type": "string",
+                  "index": "not_analyzed"
+                },
+                "wvi": {
+                  "type": "string",
+                  "index": "not_analyzed"
+                },
+                "indicator": {
+                  "properties": {
+                      "id": {
+                          "type": "string",
+                          "index": "not_analyzed"
                           },
                           "subject": {
                             "type": "string",
