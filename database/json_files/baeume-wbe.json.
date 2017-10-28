@@ -1,0 +1,3916 @@
+[
+    {
+        "key": "baeume",
+        "wbe": "011",
+        "wov_id": "01",
+        "year": 2014,
+        "count": 84.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "011",
+        "wov_id": "01",
+        "year": 2015,
+        "count": 86.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "012",
+        "wov_id": "01",
+        "year": 2014,
+        "count": 26.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "012",
+        "wov_id": "01",
+        "year": 2015,
+        "count": 26.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "013",
+        "wov_id": "01",
+        "year": 2014,
+        "count": 31.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "013",
+        "wov_id": "01",
+        "year": 2015,
+        "count": 32.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "014",
+        "wov_id": "01",
+        "year": 2014,
+        "count": 32.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "014",
+        "wov_id": "01",
+        "year": 2015,
+        "count": 31.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "021",
+        "wov_id": "02",
+        "year": 2014,
+        "count": 571.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "021",
+        "wov_id": "02",
+        "year": 2015,
+        "count": 597.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "022",
+        "wov_id": "02",
+        "year": 2014,
+        "count": 65.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "022",
+        "wov_id": "02",
+        "year": 2015,
+        "count": 66.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "023",
+        "wov_id": "02",
+        "year": 2014,
+        "count": 135.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "023",
+        "wov_id": "02",
+        "year": 2015,
+        "count": 135.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "024",
+        "wov_id": "02",
+        "year": 2014,
+        "count": 363.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "024",
+        "wov_id": "02",
+        "year": 2015,
+        "count": 365.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "025",
+        "wov_id": "02",
+        "year": 2014,
+        "count": 199.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "025",
+        "wov_id": "02",
+        "year": 2015,
+        "count": 202.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "026",
+        "wov_id": "02",
+        "year": 2014,
+        "count": 76.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "026",
+        "wov_id": "02",
+        "year": 2015,
+        "count": 76.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "031",
+        "wov_id": "03",
+        "year": 2014,
+        "count": 313.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "031",
+        "wov_id": "03",
+        "year": 2015,
+        "count": 360.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "032",
+        "wov_id": "03",
+        "year": 2014,
+        "count": 151.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "032",
+        "wov_id": "03",
+        "year": 2015,
+        "count": 152.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "033",
+        "wov_id": "03",
+        "year": 2014,
+        "count": 247.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "033",
+        "wov_id": "03",
+        "year": 2015,
+        "count": 232.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "034",
+        "wov_id": "03",
+        "year": 2014,
+        "count": 84.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "034",
+        "wov_id": "03",
+        "year": 2015,
+        "count": 72.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "041",
+        "wov_id": "04",
+        "year": 2014,
+        "count": 344.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "041",
+        "wov_id": "04",
+        "year": 2015,
+        "count": 331.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "042",
+        "wov_id": "04",
+        "year": 2014,
+        "count": 338.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "042",
+        "wov_id": "04",
+        "year": 2015,
+        "count": 333.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "051",
+        "wov_id": "05",
+        "year": 2014,
+        "count": 33.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "051",
+        "wov_id": "05",
+        "year": 2015,
+        "count": 33.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "052",
+        "wov_id": "05",
+        "year": 2014,
+        "count": 168.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "052",
+        "wov_id": "05",
+        "year": 2015,
+        "count": 160.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "053",
+        "wov_id": "05",
+        "year": 2014,
+        "count": 852.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "053",
+        "wov_id": "05",
+        "year": 2015,
+        "count": 844.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "054",
+        "wov_id": "05",
+        "year": 2014,
+        "count": 708.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "054",
+        "wov_id": "05",
+        "year": 2015,
+        "count": 718.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "055",
+        "wov_id": "05",
+        "year": 2014,
+        "count": 733.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "055",
+        "wov_id": "05",
+        "year": 2015,
+        "count": 727.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "061",
+        "wov_id": "06",
+        "year": 2014,
+        "count": 622.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "061",
+        "wov_id": "06",
+        "year": 2015,
+        "count": 626.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "062",
+        "wov_id": "06",
+        "year": 2014,
+        "count": 212.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "062",
+        "wov_id": "06",
+        "year": 2015,
+        "count": 218.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "063",
+        "wov_id": "06",
+        "year": 2014,
+        "count": 171.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "063",
+        "wov_id": "06",
+        "year": 2015,
+        "count": 174.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "071",
+        "wov_id": "07",
+        "year": 2014,
+        "count": 683.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "071",
+        "wov_id": "07",
+        "year": 2015,
+        "count": 701.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "072",
+        "wov_id": "07",
+        "year": 2014,
+        "count": 1273.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "072",
+        "wov_id": "07",
+        "year": 2015,
+        "count": 1258.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "073",
+        "wov_id": "07",
+        "year": 2014,
+        "count": 48.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "073",
+        "wov_id": "07",
+        "year": 2015,
+        "count": 47.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "081",
+        "wov_id": "08",
+        "year": 2014,
+        "count": 393.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "081",
+        "wov_id": "08",
+        "year": 2015,
+        "count": 397.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "082",
+        "wov_id": "08",
+        "year": 2014,
+        "count": 281.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "082",
+        "wov_id": "08",
+        "year": 2015,
+        "count": 301.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "083",
+        "wov_id": "08",
+        "year": 2014,
+        "count": 153.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "083",
+        "wov_id": "08",
+        "year": 2015,
+        "count": 157.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "084",
+        "wov_id": "08",
+        "year": 2014,
+        "count": 1097.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "084",
+        "wov_id": "08",
+        "year": 2015,
+        "count": 1089.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "085",
+        "wov_id": "08",
+        "year": 2014,
+        "count": 349.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "085",
+        "wov_id": "08",
+        "year": 2015,
+        "count": 344.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "091",
+        "wov_id": "09",
+        "year": 2014,
+        "count": 103.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "091",
+        "wov_id": "09",
+        "year": 2015,
+        "count": 105.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "092",
+        "wov_id": "09",
+        "year": 2014,
+        "count": 587.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "092",
+        "wov_id": "09",
+        "year": 2015,
+        "count": 588.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "101",
+        "wov_id": "10",
+        "year": 2014,
+        "count": 311.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "101",
+        "wov_id": "10",
+        "year": 2015,
+        "count": 311.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "102",
+        "wov_id": "10",
+        "year": 2014,
+        "count": 275.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "102",
+        "wov_id": "10",
+        "year": 2015,
+        "count": 272.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "103",
+        "wov_id": "10",
+        "year": 2014,
+        "count": 746.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "103",
+        "wov_id": "10",
+        "year": 2015,
+        "count": 723.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "111",
+        "wov_id": "11",
+        "year": 2014,
+        "count": 275.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "111",
+        "wov_id": "11",
+        "year": 2015,
+        "count": 276.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "112",
+        "wov_id": "11",
+        "year": 2014,
+        "count": 84.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "112",
+        "wov_id": "11",
+        "year": 2015,
+        "count": 84.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "113",
+        "wov_id": "11",
+        "year": 2014,
+        "count": 185.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "113",
+        "wov_id": "11",
+        "year": 2015,
+        "count": 183.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "114",
+        "wov_id": "11",
+        "year": 2014,
+        "count": 400.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "114",
+        "wov_id": "11",
+        "year": 2015,
+        "count": 401.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "115",
+        "wov_id": "11",
+        "year": 2014,
+        "count": 1567.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "115",
+        "wov_id": "11",
+        "year": 2015,
+        "count": 1533.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "121",
+        "wov_id": "12",
+        "year": 2014,
+        "count": 160.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "121",
+        "wov_id": "12",
+        "year": 2015,
+        "count": 157.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "122",
+        "wov_id": "12",
+        "year": 2014,
+        "count": 154.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "122",
+        "wov_id": "12",
+        "year": 2015,
+        "count": 154.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "131",
+        "wov_id": "13",
+        "year": 2014,
+        "count": 188.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "131",
+        "wov_id": "13",
+        "year": 2015,
+        "count": 185.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "132",
+        "wov_id": "13",
+        "year": 2014,
+        "count": 197.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "132",
+        "wov_id": "13",
+        "year": 2015,
+        "count": 200.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "141",
+        "wov_id": "14",
+        "year": 2014,
+        "count": 285.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "141",
+        "wov_id": "14",
+        "year": 2015,
+        "count": 294.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "142",
+        "wov_id": "14",
+        "year": 2014,
+        "count": 1028.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "142",
+        "wov_id": "14",
+        "year": 2015,
+        "count": 1078.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "151",
+        "wov_id": "15",
+        "year": 2014,
+        "count": 657.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "151",
+        "wov_id": "15",
+        "year": 2015,
+        "count": 666.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "152",
+        "wov_id": "15",
+        "year": 2014,
+        "count": 492.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "152",
+        "wov_id": "15",
+        "year": 2015,
+        "count": 493.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "153",
+        "wov_id": "15",
+        "year": 2014,
+        "count": 762.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "153",
+        "wov_id": "15",
+        "year": 2015,
+        "count": 761.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "161",
+        "wov_id": "16",
+        "year": 2014,
+        "count": 314.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "161",
+        "wov_id": "16",
+        "year": 2015,
+        "count": 323.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "162",
+        "wov_id": "16",
+        "year": 2014,
+        "count": 353.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "162",
+        "wov_id": "16",
+        "year": 2015,
+        "count": 448.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "171",
+        "wov_id": "17",
+        "year": 2014,
+        "count": 76.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "171",
+        "wov_id": "17",
+        "year": 2015,
+        "count": 75.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "172",
+        "wov_id": "17",
+        "year": 2014,
+        "count": 248.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "172",
+        "wov_id": "17",
+        "year": 2015,
+        "count": 249.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "173",
+        "wov_id": "17",
+        "year": 2014,
+        "count": 85.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "173",
+        "wov_id": "17",
+        "year": 2015,
+        "count": 85.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "174",
+        "wov_id": "17",
+        "year": 2014,
+        "count": 377.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "174",
+        "wov_id": "17",
+        "year": 2015,
+        "count": 375.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "180",
+        "wov_id": "18",
+        "year": 2014,
+        "count": 1143.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "180",
+        "wov_id": "18",
+        "year": 2015,
+        "count": 1122.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "190",
+        "wov_id": "19",
+        "year": 2014,
+        "count": 591.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "190",
+        "wov_id": "19",
+        "year": 2015,
+        "count": 583.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "201",
+        "wov_id": "20",
+        "year": 2014,
+        "count": 821.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "201",
+        "wov_id": "20",
+        "year": 2015,
+        "count": 811.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "202",
+        "wov_id": "20",
+        "year": 2014,
+        "count": 214.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "202",
+        "wov_id": "20",
+        "year": 2015,
+        "count": 211.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "203",
+        "wov_id": "20",
+        "year": 2014,
+        "count": 143.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "203",
+        "wov_id": "20",
+        "year": 2015,
+        "count": 135.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "204",
+        "wov_id": "20",
+        "year": 2014,
+        "count": 140.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "204",
+        "wov_id": "20",
+        "year": 2015,
+        "count": 132.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "205",
+        "wov_id": "20",
+        "year": 2014,
+        "count": 1036.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "205",
+        "wov_id": "20",
+        "year": 2015,
+        "count": 1036.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "206",
+        "wov_id": "20",
+        "year": 2014,
+        "count": 1641.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "206",
+        "wov_id": "20",
+        "year": 2015,
+        "count": 1642.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "207",
+        "wov_id": "20",
+        "year": 2014,
+        "count": 916.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "207",
+        "wov_id": "20",
+        "year": 2015,
+        "count": 912.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "208",
+        "wov_id": "20",
+        "year": 2014,
+        "count": 302.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "208",
+        "wov_id": "20",
+        "year": 2015,
+        "count": 311.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "301",
+        "wov_id": "30",
+        "year": 2014,
+        "count": 40.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "301",
+        "wov_id": "30",
+        "year": 2015,
+        "count": 40.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "302",
+        "wov_id": "30",
+        "year": 2014,
+        "count": 0.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "302",
+        "wov_id": "30",
+        "year": 2015,
+        "count": 0.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "011",
+        "wov_id": "01",
+        "year": 2013,
+        "count": 84.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "012",
+        "wov_id": "01",
+        "year": 2013,
+        "count": 26.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "013",
+        "wov_id": "01",
+        "year": 2013,
+        "count": 35.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "014",
+        "wov_id": "01",
+        "year": 2013,
+        "count": 32.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "021",
+        "wov_id": "02",
+        "year": 2013,
+        "count": 579.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "022",
+        "wov_id": "02",
+        "year": 2013,
+        "count": 65.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "023",
+        "wov_id": "02",
+        "year": 2013,
+        "count": 131.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "024",
+        "wov_id": "02",
+        "year": 2013,
+        "count": 364.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "025",
+        "wov_id": "02",
+        "year": 2013,
+        "count": 200.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "026",
+        "wov_id": "02",
+        "year": 2013,
+        "count": 76.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "031",
+        "wov_id": "03",
+        "year": 2013,
+        "count": 331.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "032",
+        "wov_id": "03",
+        "year": 2013,
+        "count": 153.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "033",
+        "wov_id": "03",
+        "year": 2013,
+        "count": 239.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "034",
+        "wov_id": "03",
+        "year": 2013,
+        "count": 84.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "041",
+        "wov_id": "04",
+        "year": 2013,
+        "count": 344.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "042",
+        "wov_id": "04",
+        "year": 2013,
+        "count": 336.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "051",
+        "wov_id": "05",
+        "year": 2013,
+        "count": 33.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "052",
+        "wov_id": "05",
+        "year": 2013,
+        "count": 168.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "053",
+        "wov_id": "05",
+        "year": 2013,
+        "count": 863.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "054",
+        "wov_id": "05",
+        "year": 2013,
+        "count": 742.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "055",
+        "wov_id": "05",
+        "year": 2013,
+        "count": 574.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "061",
+        "wov_id": "06",
+        "year": 2013,
+        "count": 602.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "062",
+        "wov_id": "06",
+        "year": 2013,
+        "count": 213.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "063",
+        "wov_id": "06",
+        "year": 2013,
+        "count": 171.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "071",
+        "wov_id": "07",
+        "year": 2013,
+        "count": 680.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "072",
+        "wov_id": "07",
+        "year": 2013,
+        "count": 1259.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "073",
+        "wov_id": "07",
+        "year": 2013,
+        "count": 47.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "081",
+        "wov_id": "08",
+        "year": 2013,
+        "count": 395.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "082",
+        "wov_id": "08",
+        "year": 2013,
+        "count": 283.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "083",
+        "wov_id": "08",
+        "year": 2013,
+        "count": 154.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "084",
+        "wov_id": "08",
+        "year": 2013,
+        "count": 1082.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "085",
+        "wov_id": "08",
+        "year": 2013,
+        "count": 344.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "091",
+        "wov_id": "09",
+        "year": 2013,
+        "count": 105.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "092",
+        "wov_id": "09",
+        "year": 2013,
+        "count": 573.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "101",
+        "wov_id": "10",
+        "year": 2013,
+        "count": 317.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "102",
+        "wov_id": "10",
+        "year": 2013,
+        "count": 215.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "103",
+        "wov_id": "10",
+        "year": 2013,
+        "count": 697.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "111",
+        "wov_id": "11",
+        "year": 2013,
+        "count": 279.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "112",
+        "wov_id": "11",
+        "year": 2013,
+        "count": 85.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "113",
+        "wov_id": "11",
+        "year": 2013,
+        "count": 190.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "114",
+        "wov_id": "11",
+        "year": 2013,
+        "count": 349.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "115",
+        "wov_id": "11",
+        "year": 2013,
+        "count": 1533.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "121",
+        "wov_id": "12",
+        "year": 2013,
+        "count": 162.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "122",
+        "wov_id": "12",
+        "year": 2013,
+        "count": 160.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "131",
+        "wov_id": "13",
+        "year": 2013,
+        "count": 190.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "132",
+        "wov_id": "13",
+        "year": 2013,
+        "count": 211.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "141",
+        "wov_id": "14",
+        "year": 2013,
+        "count": 283.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "142",
+        "wov_id": "14",
+        "year": 2013,
+        "count": 1024.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "151",
+        "wov_id": "15",
+        "year": 2013,
+        "count": 679.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "152",
+        "wov_id": "15",
+        "year": 2013,
+        "count": 496.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "153",
+        "wov_id": "15",
+        "year": 2013,
+        "count": 746.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "161",
+        "wov_id": "16",
+        "year": 2013,
+        "count": 317.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "162",
+        "wov_id": "16",
+        "year": 2013,
+        "count": 353.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "171",
+        "wov_id": "17",
+        "year": 2013,
+        "count": 67.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "172",
+        "wov_id": "17",
+        "year": 2013,
+        "count": 239.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "173",
+        "wov_id": "17",
+        "year": 2013,
+        "count": 85.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "174",
+        "wov_id": "17",
+        "year": 2013,
+        "count": 380.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "180",
+        "wov_id": "18",
+        "year": 2013,
+        "count": 1105.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "190",
+        "wov_id": "19",
+        "year": 2013,
+        "count": 613.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "201",
+        "wov_id": "20",
+        "year": 2013,
+        "count": 828.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "202",
+        "wov_id": "20",
+        "year": 2013,
+        "count": 189.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "203",
+        "wov_id": "20",
+        "year": 2013,
+        "count": 143.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "204",
+        "wov_id": "20",
+        "year": 2013,
+        "count": 141.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "205",
+        "wov_id": "20",
+        "year": 2013,
+        "count": 1029.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "206",
+        "wov_id": "20",
+        "year": 2013,
+        "count": 1277.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "207",
+        "wov_id": "20",
+        "year": 2013,
+        "count": 912.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "208",
+        "wov_id": "20",
+        "year": 2013,
+        "count": 302.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume",
+        "wbe": "301",
+        "wov_id": "30",
+        "year": 2013,
+        "count": 37.0,
+        "indicator": {
+            "id": "baeume",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume",
+            "Indikator_Titel_kurz": "Anzahl Allmendb\u00e4ume",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    }
+]
