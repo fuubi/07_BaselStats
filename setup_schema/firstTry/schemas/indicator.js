@@ -5,7 +5,7 @@ export const schema = {
     index: "not_analyzed"
   },
   // Thema
-  /*subject: {
+  subject: {
     type: "string",
     index: "not_analyzed"
   },
@@ -41,7 +41,7 @@ export const schema = {
     analyzer : "simple",
     search_analyzer : "simple",
     payloads: true
-  }*/
+  }
 };
 
 // To use indendent, used from the above export in dataset

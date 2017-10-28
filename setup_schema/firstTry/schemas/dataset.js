@@ -21,14 +21,12 @@ const schema = {
     index: "not_analyzed"
   },
   indicator: {
-    ...indicator
+    properties: indicator
   }
 };
 
 export default {
-  mappings: {
     dataset: {
       properties: schema
     }
-  }
 };

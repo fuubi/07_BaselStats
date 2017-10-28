@@ -16,8 +16,24 @@ const elasticClient = new Client({
 
 // Create index
 const createIndex = () => {
-  elasticClient.create({index: "baselhack", type: "dataset", id: "1", body: {} }, function(err, body, code){
-    if(!err){
+  elasticClient.create({
+    index: "baselhack",
+    type: "dataset",
+    body: {
+      settings: {
+        index : {
+          number_of_shards: 3,
+          number_of_replicas: 2
+        }
+      },
+      mappings: {
+        ...DataSchema
+      },
+    } }, function(err, response){
+    if(err){
+      console.log("Could not create index of Dataset "+JSON.stringify(err)+JSON.stringify(response));
+    }
+    /*if(!err){
       elasticClient.indices.putMapping({index: "baselhack", type:"dataset", body: DataSchema}, function(err, body, code){
         if(err){
           console.log("Could not create mapping "+JSON.stringify(err));
@@ -25,21 +41,16 @@ const createIndex = () => {
       });
 
     }else{
-      console.log("Could not create index of Dataset "+JSON.stringify(err)+JSON.stringify(body)+JSON.stringify(code));
-    }
+
+    }*/
   });
 };
 
 // Clean all indices
-elasticClient.delete({index: "baselhack", type: "dataset", id: "1"}).then();
-
-try {
-  elasticClient.delete({index: "baselhack", type: "dataset", id: "1"});
-  // elasticClient.delete({index: "baselhack", type: "dataset", id: "2"});
-} catch(err){
-  console.log("No index found to delete");
-}
-
+elasticClient.delete({index: "baselhack", type: "dataset"}).then(() => createIndex()).catch((error)=>{
+  console.log("No index found to delete \n"+JSON.stringify(error));
+  createIndex();
+});
 
 
 /** Create the mapping of the indicator */
