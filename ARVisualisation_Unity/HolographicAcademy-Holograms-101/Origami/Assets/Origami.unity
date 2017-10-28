@@ -158,6 +158,21 @@ Prefab:
 Transform:
   m_PrefabParentObject: {fileID: 440374, guid: 9aad3626f60424a429a8f3809ad70c15, type: 2}
   m_PrefabInternal: {fileID: 164816785}
+--- !u!1 &257307150 stripped
+GameObject:
+  m_PrefabParentObject: {fileID: 100468, guid: c601cf4818fdef646a77291c9923ef3f, type: 2}
+  m_PrefabInternal: {fileID: 347625660}
+--- !u!114 &257307151
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 257307150}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 644571c8f7df63946acb0e0c5d5885fd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &347625660
 Prefab:
   m_ObjectHideFlags: 0
@@ -415,6 +430,21 @@ Prefab:
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: c8685776cafe5d24493303e077fffcfb, type: 2}
   m_IsPrefabParent: 0
+--- !u!1 &1626295600 stripped
+GameObject:
+  m_PrefabParentObject: {fileID: 156766, guid: 9aad3626f60424a429a8f3809ad70c15, type: 2}
+  m_PrefabInternal: {fileID: 164816785}
+--- !u!114 &1626295601
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1626295600}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 644571c8f7df63946acb0e0c5d5885fd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1912558110
 GameObject:
   m_ObjectHideFlags: 0
@@ -423,6 +453,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 1912558111}
+  - component: {fileID: 1912558112}
   m_Layer: 0
   m_Name: OrigamiCollection
   m_TagString: Untagged
@@ -446,6 +477,17 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1912558112
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1912558110}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0992631b7f72c8145946e70b104f56af, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1936275321
 GameObject:
   m_ObjectHideFlags: 0
@@ -463,7 +505,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!23 &1936275322
 MeshRenderer:
   m_ObjectHideFlags: 0
