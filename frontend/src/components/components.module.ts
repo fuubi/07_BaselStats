@@ -7,6 +7,7 @@ import { HttpModule } from '@angular/http';
 import { QueriesBoxComponent } from './queries-box/queries-box';
 import { LineChartAComponent } from './line-chart-a/line-chart-a';
 import { ChartsModule } from 'ng2-charts';
+import { ChartService } from './line-chart-a/chart.service';
 @NgModule({
     declarations: [
         SearchComponent,
@@ -24,7 +25,8 @@ import { ChartsModule } from 'ng2-charts';
     LineChartAComponent
     ],
     providers: [
-        SearchService
+        SearchService,
+        ChartService
     ]
 })
 export class ComponentsModule {
