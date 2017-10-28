@@ -5,18 +5,23 @@ import { SearchService } from './search/search.service';
 import { CommonModule } from '@angular/common';
 import { HttpModule } from '@angular/http';
 import { QueriesBoxComponent } from './queries-box/queries-box';
+import { LineChartAComponent } from './line-chart-a/line-chart-a';
+import { ChartsModule } from 'ng2-charts';
 @NgModule({
     declarations: [
         SearchComponent,
-        QueriesBoxComponent
+        QueriesBoxComponent,
+    LineChartAComponent
     ],
     imports: [
         IonicModule,
-        HttpModule
+        HttpModule,
+        ChartsModule
     ],
     exports: [
         SearchComponent,
-        QueriesBoxComponent
+        QueriesBoxComponent,
+    LineChartAComponent
     ],
     providers: [
         SearchService
