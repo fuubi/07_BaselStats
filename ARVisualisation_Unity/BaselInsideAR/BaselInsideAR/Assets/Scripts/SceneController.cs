@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+
+
 public class SceneController : MonoBehaviour {
 
     public GameObject zonePrefab;
@@ -12,6 +14,7 @@ public class SceneController : MonoBehaviour {
 
         // Read the svg file
 
+        SVGFileReader.readZones("C:/Programmierung/BaselInside/data/svg/test.svg");
         // Instantiate the zone 
         Instantiate(zonePrefab);
 		
