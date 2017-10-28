@@ -1,0 +1,3935 @@
+[
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "011",
+        "wov_id": "01",
+        "year": 2013,
+        "count": 21.1,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "011",
+        "wov_id": "01",
+        "year": 2014,
+        "count": 21.2,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "011",
+        "wov_id": "01",
+        "year": 2015,
+        "count": 21.7,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "012",
+        "wov_id": "01",
+        "year": 2013,
+        "count": 38.0,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "012",
+        "wov_id": "01",
+        "year": 2014,
+        "count": 38.6,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "012",
+        "wov_id": "01",
+        "year": 2015,
+        "count": 39.6,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "013",
+        "wov_id": "01",
+        "year": 2013,
+        "count": 54.6,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "013",
+        "wov_id": "01",
+        "year": 2014,
+        "count": 54.3,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "013",
+        "wov_id": "01",
+        "year": 2015,
+        "count": 54.7,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "014",
+        "wov_id": "01",
+        "year": 2013,
+        "count": 43.4,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "014",
+        "wov_id": "01",
+        "year": 2014,
+        "count": 43.9,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "014",
+        "wov_id": "01",
+        "year": 2015,
+        "count": 44.2,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "021",
+        "wov_id": "02",
+        "year": 2013,
+        "count": 40.3,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "021",
+        "wov_id": "02",
+        "year": 2014,
+        "count": 40.5,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "021",
+        "wov_id": "02",
+        "year": 2015,
+        "count": 40.5,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "022",
+        "wov_id": "02",
+        "year": 2013,
+        "count": 49.9,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "022",
+        "wov_id": "02",
+        "year": 2014,
+        "count": 50.1,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "022",
+        "wov_id": "02",
+        "year": 2015,
+        "count": 50.3,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "023",
+        "wov_id": "02",
+        "year": 2013,
+        "count": 70.8,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "023",
+        "wov_id": "02",
+        "year": 2014,
+        "count": 71.3,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "023",
+        "wov_id": "02",
+        "year": 2015,
+        "count": 72.1,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "024",
+        "wov_id": "02",
+        "year": 2013,
+        "count": 57.1,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "024",
+        "wov_id": "02",
+        "year": 2014,
+        "count": 56.7,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "024",
+        "wov_id": "02",
+        "year": 2015,
+        "count": 54.1,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "025",
+        "wov_id": "02",
+        "year": 2013,
+        "count": 16.8,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "025",
+        "wov_id": "02",
+        "year": 2014,
+        "count": 17.3,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "025",
+        "wov_id": "02",
+        "year": 2015,
+        "count": 17.3,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "026",
+        "wov_id": "02",
+        "year": 2013,
+        "count": 38.4,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "026",
+        "wov_id": "02",
+        "year": 2014,
+        "count": 38.1,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "026",
+        "wov_id": "02",
+        "year": 2015,
+        "count": 38.0,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "031",
+        "wov_id": "03",
+        "year": 2013,
+        "count": 40.0,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "031",
+        "wov_id": "03",
+        "year": 2014,
+        "count": 39.9,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "031",
+        "wov_id": "03",
+        "year": 2015,
+        "count": 39.8,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "032",
+        "wov_id": "03",
+        "year": 2013,
+        "count": 35.9,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "032",
+        "wov_id": "03",
+        "year": 2014,
+        "count": 36.3,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "032",
+        "wov_id": "03",
+        "year": 2015,
+        "count": 36.6,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "033",
+        "wov_id": "03",
+        "year": 2013,
+        "count": 35.8,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "033",
+        "wov_id": "03",
+        "year": 2014,
+        "count": 35.7,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "033",
+        "wov_id": "03",
+        "year": 2015,
+        "count": 36.0,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "034",
+        "wov_id": "03",
+        "year": 2013,
+        "count": 56.8,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "034",
+        "wov_id": "03",
+        "year": 2014,
+        "count": 56.5,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "034",
+        "wov_id": "03",
+        "year": 2015,
+        "count": 56.5,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "041",
+        "wov_id": "04",
+        "year": 2013,
+        "count": 33.6,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "041",
+        "wov_id": "04",
+        "year": 2014,
+        "count": 33.1,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "041",
+        "wov_id": "04",
+        "year": 2015,
+        "count": 33.3,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "042",
+        "wov_id": "04",
+        "year": 2013,
+        "count": 30.9,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "042",
+        "wov_id": "04",
+        "year": 2014,
+        "count": 30.9,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "042",
+        "wov_id": "04",
+        "year": 2015,
+        "count": 30.9,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "051",
+        "wov_id": "05",
+        "year": 2013,
+        "count": 26.7,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "051",
+        "wov_id": "05",
+        "year": 2014,
+        "count": 30.3,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "051",
+        "wov_id": "05",
+        "year": 2015,
+        "count": 30.3,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "052",
+        "wov_id": "05",
+        "year": 2013,
+        "count": 27.6,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "052",
+        "wov_id": "05",
+        "year": 2014,
+        "count": 27.8,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "052",
+        "wov_id": "05",
+        "year": 2015,
+        "count": 28.7,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "053",
+        "wov_id": "05",
+        "year": 2013,
+        "count": 24.3,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "053",
+        "wov_id": "05",
+        "year": 2014,
+        "count": 24.1,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "053",
+        "wov_id": "05",
+        "year": 2015,
+        "count": 24.8,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "054",
+        "wov_id": "05",
+        "year": 2013,
+        "count": 19.8,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "054",
+        "wov_id": "05",
+        "year": 2014,
+        "count": 19.6,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "054",
+        "wov_id": "05",
+        "year": 2015,
+        "count": 19.7,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "055",
+        "wov_id": "05",
+        "year": 2013,
+        "count": 37.5,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "055",
+        "wov_id": "05",
+        "year": 2014,
+        "count": 37.6,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "055",
+        "wov_id": "05",
+        "year": 2015,
+        "count": 37.6,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "061",
+        "wov_id": "06",
+        "year": 2013,
+        "count": 39.2,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "061",
+        "wov_id": "06",
+        "year": 2014,
+        "count": 39.4,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "061",
+        "wov_id": "06",
+        "year": 2015,
+        "count": 39.4,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "062",
+        "wov_id": "06",
+        "year": 2013,
+        "count": 42.6,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "062",
+        "wov_id": "06",
+        "year": 2014,
+        "count": 40.1,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "062",
+        "wov_id": "06",
+        "year": 2015,
+        "count": 40.5,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "063",
+        "wov_id": "06",
+        "year": 2013,
+        "count": 36.6,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "063",
+        "wov_id": "06",
+        "year": 2014,
+        "count": 36.7,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "063",
+        "wov_id": "06",
+        "year": 2015,
+        "count": 36.8,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "071",
+        "wov_id": "07",
+        "year": 2013,
+        "count": 15.8,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "071",
+        "wov_id": "07",
+        "year": 2014,
+        "count": 15.8,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "071",
+        "wov_id": "07",
+        "year": 2015,
+        "count": 15.7,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "072",
+        "wov_id": "07",
+        "year": 2013,
+        "count": 9.2,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "072",
+        "wov_id": "07",
+        "year": 2014,
+        "count": 9.2,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "072",
+        "wov_id": "07",
+        "year": 2015,
+        "count": 9.1,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "073",
+        "wov_id": "07",
+        "year": 2013,
+        "count": 1.7,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "073",
+        "wov_id": "07",
+        "year": 2014,
+        "count": 1.7,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "073",
+        "wov_id": "07",
+        "year": 2015,
+        "count": 1.7,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "081",
+        "wov_id": "08",
+        "year": 2013,
+        "count": 28.8,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "081",
+        "wov_id": "08",
+        "year": 2014,
+        "count": 29.3,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "081",
+        "wov_id": "08",
+        "year": 2015,
+        "count": 29.4,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "082",
+        "wov_id": "08",
+        "year": 2013,
+        "count": 14.9,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "082",
+        "wov_id": "08",
+        "year": 2014,
+        "count": 14.7,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "082",
+        "wov_id": "08",
+        "year": 2015,
+        "count": 15.0,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "083",
+        "wov_id": "08",
+        "year": 2013,
+        "count": 26.5,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "083",
+        "wov_id": "08",
+        "year": 2014,
+        "count": 26.4,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "083",
+        "wov_id": "08",
+        "year": 2015,
+        "count": 26.4,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "084",
+        "wov_id": "08",
+        "year": 2013,
+        "count": 14.4,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "084",
+        "wov_id": "08",
+        "year": 2014,
+        "count": 14.7,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "084",
+        "wov_id": "08",
+        "year": 2015,
+        "count": 14.7,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "085",
+        "wov_id": "08",
+        "year": 2013,
+        "count": 15.2,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "085",
+        "wov_id": "08",
+        "year": 2014,
+        "count": 15.2,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "085",
+        "wov_id": "08",
+        "year": 2015,
+        "count": 14.9,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "091",
+        "wov_id": "09",
+        "year": 2013,
+        "count": 39.3,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "091",
+        "wov_id": "09",
+        "year": 2014,
+        "count": 39.4,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "091",
+        "wov_id": "09",
+        "year": 2015,
+        "count": 39.4,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "092",
+        "wov_id": "09",
+        "year": 2013,
+        "count": 29.6,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "092",
+        "wov_id": "09",
+        "year": 2014,
+        "count": 29.8,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "092",
+        "wov_id": "09",
+        "year": 2015,
+        "count": 30.1,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "101",
+        "wov_id": "10",
+        "year": 2013,
+        "count": 43.9,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "101",
+        "wov_id": "10",
+        "year": 2014,
+        "count": 44.7,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "101",
+        "wov_id": "10",
+        "year": 2015,
+        "count": 44.8,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "102",
+        "wov_id": "10",
+        "year": 2013,
+        "count": 42.5,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "102",
+        "wov_id": "10",
+        "year": 2014,
+        "count": 42.5,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "102",
+        "wov_id": "10",
+        "year": 2015,
+        "count": 42.5,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "103",
+        "wov_id": "10",
+        "year": 2013,
+        "count": 30.8,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "103",
+        "wov_id": "10",
+        "year": 2014,
+        "count": 31.3,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "103",
+        "wov_id": "10",
+        "year": 2015,
+        "count": 31.7,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "111",
+        "wov_id": "11",
+        "year": 2013,
+        "count": 41.9,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "111",
+        "wov_id": "11",
+        "year": 2014,
+        "count": 41.9,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "111",
+        "wov_id": "11",
+        "year": 2015,
+        "count": 41.8,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "112",
+        "wov_id": "11",
+        "year": 2013,
+        "count": 29.5,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "112",
+        "wov_id": "11",
+        "year": 2014,
+        "count": 29.9,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "112",
+        "wov_id": "11",
+        "year": 2015,
+        "count": 30.0,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "113",
+        "wov_id": "11",
+        "year": 2013,
+        "count": 51.1,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "113",
+        "wov_id": "11",
+        "year": 2014,
+        "count": 51.2,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "113",
+        "wov_id": "11",
+        "year": 2015,
+        "count": 51.3,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "114",
+        "wov_id": "11",
+        "year": 2013,
+        "count": 39.3,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "114",
+        "wov_id": "11",
+        "year": 2014,
+        "count": 39.8,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "114",
+        "wov_id": "11",
+        "year": 2015,
+        "count": 39.7,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "115",
+        "wov_id": "11",
+        "year": 2013,
+        "count": 22.2,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "115",
+        "wov_id": "11",
+        "year": 2014,
+        "count": 22.2,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "115",
+        "wov_id": "11",
+        "year": 2015,
+        "count": 22.3,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "121",
+        "wov_id": "12",
+        "year": 2013,
+        "count": 49.9,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "121",
+        "wov_id": "12",
+        "year": 2014,
+        "count": 50.3,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "121",
+        "wov_id": "12",
+        "year": 2015,
+        "count": 50.5,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "122",
+        "wov_id": "12",
+        "year": 2013,
+        "count": 41.4,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "122",
+        "wov_id": "12",
+        "year": 2014,
+        "count": 41.8,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "122",
+        "wov_id": "12",
+        "year": 2015,
+        "count": 42.3,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "131",
+        "wov_id": "13",
+        "year": 2013,
+        "count": 49.3,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "131",
+        "wov_id": "13",
+        "year": 2014,
+        "count": 52.3,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "131",
+        "wov_id": "13",
+        "year": 2015,
+        "count": 52.2,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "132",
+        "wov_id": "13",
+        "year": 2013,
+        "count": 42.4,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "132",
+        "wov_id": "13",
+        "year": 2014,
+        "count": 43.0,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "132",
+        "wov_id": "13",
+        "year": 2015,
+        "count": 43.3,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "141",
+        "wov_id": "14",
+        "year": 2013,
+        "count": 35.2,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "141",
+        "wov_id": "14",
+        "year": 2014,
+        "count": 34.3,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "141",
+        "wov_id": "14",
+        "year": 2015,
+        "count": 34.3,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "142",
+        "wov_id": "14",
+        "year": 2013,
+        "count": 19.8,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "142",
+        "wov_id": "14",
+        "year": 2014,
+        "count": 19.9,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "142",
+        "wov_id": "14",
+        "year": 2015,
+        "count": 19.8,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "151",
+        "wov_id": "15",
+        "year": 2013,
+        "count": 25.1,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "151",
+        "wov_id": "15",
+        "year": 2014,
+        "count": 25.0,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "151",
+        "wov_id": "15",
+        "year": 2015,
+        "count": 24.5,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "152",
+        "wov_id": "15",
+        "year": 2013,
+        "count": 16.2,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "152",
+        "wov_id": "15",
+        "year": 2014,
+        "count": 15.9,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "152",
+        "wov_id": "15",
+        "year": 2015,
+        "count": 15.9,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "153",
+        "wov_id": "15",
+        "year": 2013,
+        "count": 11.9,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "153",
+        "wov_id": "15",
+        "year": 2014,
+        "count": 12.1,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "153",
+        "wov_id": "15",
+        "year": 2015,
+        "count": 12.2,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "161",
+        "wov_id": "16",
+        "year": 2013,
+        "count": 41.7,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "161",
+        "wov_id": "16",
+        "year": 2014,
+        "count": 41.8,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "161",
+        "wov_id": "16",
+        "year": 2015,
+        "count": 42.6,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "162",
+        "wov_id": "16",
+        "year": 2013,
+        "count": 37.9,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "162",
+        "wov_id": "16",
+        "year": 2014,
+        "count": 49.1,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "162",
+        "wov_id": "16",
+        "year": 2015,
+        "count": 45.4,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "171",
+        "wov_id": "17",
+        "year": 2013,
+        "count": 39.5,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "171",
+        "wov_id": "17",
+        "year": 2014,
+        "count": 39.6,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "171",
+        "wov_id": "17",
+        "year": 2015,
+        "count": 39.7,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "172",
+        "wov_id": "17",
+        "year": 2013,
+        "count": 41.0,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "172",
+        "wov_id": "17",
+        "year": 2014,
+        "count": 41.3,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "172",
+        "wov_id": "17",
+        "year": 2015,
+        "count": 41.5,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "173",
+        "wov_id": "17",
+        "year": 2013,
+        "count": 47.4,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "173",
+        "wov_id": "17",
+        "year": 2014,
+        "count": 47.8,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "173",
+        "wov_id": "17",
+        "year": 2015,
+        "count": 47.8,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "174",
+        "wov_id": "17",
+        "year": 2013,
+        "count": 46.9,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "174",
+        "wov_id": "17",
+        "year": 2014,
+        "count": 47.1,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "174",
+        "wov_id": "17",
+        "year": 2015,
+        "count": 47.4,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "180",
+        "wov_id": "18",
+        "year": 2013,
+        "count": 45.4,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "180",
+        "wov_id": "18",
+        "year": 2014,
+        "count": 45.2,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "180",
+        "wov_id": "18",
+        "year": 2015,
+        "count": 45.4,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "190",
+        "wov_id": "19",
+        "year": 2013,
+        "count": 31.8,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "190",
+        "wov_id": "19",
+        "year": 2014,
+        "count": 32.0,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "190",
+        "wov_id": "19",
+        "year": 2015,
+        "count": 32.1,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "201",
+        "wov_id": "20",
+        "year": 2013,
+        "count": 23.3,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "201",
+        "wov_id": "20",
+        "year": 2014,
+        "count": 23.2,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "201",
+        "wov_id": "20",
+        "year": 2015,
+        "count": 23.2,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "202",
+        "wov_id": "20",
+        "year": 2013,
+        "count": 23.7,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "202",
+        "wov_id": "20",
+        "year": 2014,
+        "count": 23.7,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "202",
+        "wov_id": "20",
+        "year": 2015,
+        "count": 23.8,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "203",
+        "wov_id": "20",
+        "year": 2013,
+        "count": 9.7,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "203",
+        "wov_id": "20",
+        "year": 2014,
+        "count": 9.5,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "203",
+        "wov_id": "20",
+        "year": 2015,
+        "count": 9.6,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "204",
+        "wov_id": "20",
+        "year": 2013,
+        "count": 6.2,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "204",
+        "wov_id": "20",
+        "year": 2014,
+        "count": 6.2,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "204",
+        "wov_id": "20",
+        "year": 2015,
+        "count": 6.2,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "205",
+        "wov_id": "20",
+        "year": 2013,
+        "count": 5.8,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "205",
+        "wov_id": "20",
+        "year": 2014,
+        "count": 5.7,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "205",
+        "wov_id": "20",
+        "year": 2015,
+        "count": 5.8,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "206",
+        "wov_id": "20",
+        "year": 2013,
+        "count": 4.4,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "206",
+        "wov_id": "20",
+        "year": 2014,
+        "count": 4.2,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "206",
+        "wov_id": "20",
+        "year": 2015,
+        "count": 4.0,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "207",
+        "wov_id": "20",
+        "year": 2013,
+        "count": 12.3,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "207",
+        "wov_id": "20",
+        "year": 2014,
+        "count": 12.3,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "207",
+        "wov_id": "20",
+        "year": 2015,
+        "count": 12.3,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "208",
+        "wov_id": "20",
+        "year": 2013,
+        "count": 10.3,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "208",
+        "wov_id": "20",
+        "year": 2014,
+        "count": 10.3,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "208",
+        "wov_id": "20",
+        "year": 2015,
+        "count": 10.3,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "301",
+        "wov_id": "30",
+        "year": 2013,
+        "count": 9.6,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "301",
+        "wov_id": "30",
+        "year": 2014,
+        "count": 9.3,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "301",
+        "wov_id": "30",
+        "year": 2015,
+        "count": 9.5,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "302",
+        "wov_id": "30",
+        "year": 2013,
+        "count": 40.5,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "302",
+        "wov_id": "30",
+        "year": 2014,
+        "count": 41.5,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "anzahl_kleinwhg",
+        "wbe": "302",
+        "wov_id": "30",
+        "year": 2015,
+        "count": 37.0,
+        "indicator": {
+            "id": "anzahl_kleinwhg",
+            "Thema": "bau_gebwhg",
+            "Indikator_Titel": "Anteil Wohnungen mit 1 oder 2 Zimmern am Gesamtwohnungsbestand",
+            "Indikator_Titel_kurz": "Anteil Kleinwohnungen",
+            "Ebenen": "wbe, wbl, wge, wvi",
+            "Quelle": "Kantonales Geb\u00e4ude- und Wohnungsregister",
+            "Indikator_Beschrieb": "",
+            "Link_URL": "http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html",
+            "Link_Text": "Weitere Zahlen und Fakten zum Thema",
+            "Jahre": "2015|2014|2013"
+        }
+    }
+]

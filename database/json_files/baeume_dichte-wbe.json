@@ -1,0 +1,3916 @@
+[
+    {
+        "key": "baeume_dichte",
+        "wbe": "011",
+        "wov_id": "01",
+        "year": 2014,
+        "count": 7.8,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "011",
+        "wov_id": "01",
+        "year": 2015,
+        "count": 8.0,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "012",
+        "wov_id": "01",
+        "year": 2014,
+        "count": 1.9,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "012",
+        "wov_id": "01",
+        "year": 2015,
+        "count": 1.9,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "013",
+        "wov_id": "01",
+        "year": 2014,
+        "count": 6.2,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "013",
+        "wov_id": "01",
+        "year": 2015,
+        "count": 6.4,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "014",
+        "wov_id": "01",
+        "year": 2014,
+        "count": 3.8,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "014",
+        "wov_id": "01",
+        "year": 2015,
+        "count": 3.6,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "021",
+        "wov_id": "02",
+        "year": 2014,
+        "count": 21.5,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "021",
+        "wov_id": "02",
+        "year": 2015,
+        "count": 22.5,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "022",
+        "wov_id": "02",
+        "year": 2014,
+        "count": 16.0,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "022",
+        "wov_id": "02",
+        "year": 2015,
+        "count": 16.2,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "023",
+        "wov_id": "02",
+        "year": 2014,
+        "count": 11.0,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "023",
+        "wov_id": "02",
+        "year": 2015,
+        "count": 11.0,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "024",
+        "wov_id": "02",
+        "year": 2014,
+        "count": 15.5,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "024",
+        "wov_id": "02",
+        "year": 2015,
+        "count": 15.6,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "025",
+        "wov_id": "02",
+        "year": 2014,
+        "count": 10.2,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "025",
+        "wov_id": "02",
+        "year": 2015,
+        "count": 10.4,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "026",
+        "wov_id": "02",
+        "year": 2014,
+        "count": 16.9,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "026",
+        "wov_id": "02",
+        "year": 2015,
+        "count": 16.9,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "031",
+        "wov_id": "03",
+        "year": 2014,
+        "count": 11.4,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "031",
+        "wov_id": "03",
+        "year": 2015,
+        "count": 13.1,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "032",
+        "wov_id": "03",
+        "year": 2014,
+        "count": 5.8,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "032",
+        "wov_id": "03",
+        "year": 2015,
+        "count": 5.8,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "033",
+        "wov_id": "03",
+        "year": 2014,
+        "count": 7.8,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "033",
+        "wov_id": "03",
+        "year": 2015,
+        "count": 7.3,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "034",
+        "wov_id": "03",
+        "year": 2014,
+        "count": 13.9,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "034",
+        "wov_id": "03",
+        "year": 2015,
+        "count": 11.9,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "041",
+        "wov_id": "04",
+        "year": 2014,
+        "count": 13.4,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "041",
+        "wov_id": "04",
+        "year": 2015,
+        "count": 12.9,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "042",
+        "wov_id": "04",
+        "year": 2014,
+        "count": 8.0,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "042",
+        "wov_id": "04",
+        "year": 2015,
+        "count": 7.8,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "051",
+        "wov_id": "05",
+        "year": 2014,
+        "count": 6.7,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "051",
+        "wov_id": "05",
+        "year": 2015,
+        "count": 6.7,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "052",
+        "wov_id": "05",
+        "year": 2014,
+        "count": 7.6,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "052",
+        "wov_id": "05",
+        "year": 2015,
+        "count": 7.2,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "053",
+        "wov_id": "05",
+        "year": 2014,
+        "count": 9.3,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "053",
+        "wov_id": "05",
+        "year": 2015,
+        "count": 9.3,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "054",
+        "wov_id": "05",
+        "year": 2014,
+        "count": 14.3,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "054",
+        "wov_id": "05",
+        "year": 2015,
+        "count": 14.5,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "055",
+        "wov_id": "05",
+        "year": 2014,
+        "count": 5.6,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "055",
+        "wov_id": "05",
+        "year": 2015,
+        "count": 5.6,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "061",
+        "wov_id": "06",
+        "year": 2014,
+        "count": 11.0,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "061",
+        "wov_id": "06",
+        "year": 2015,
+        "count": 11.0,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "062",
+        "wov_id": "06",
+        "year": 2014,
+        "count": 5.7,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "062",
+        "wov_id": "06",
+        "year": 2015,
+        "count": 5.8,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "063",
+        "wov_id": "06",
+        "year": 2014,
+        "count": 7.7,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "063",
+        "wov_id": "06",
+        "year": 2015,
+        "count": 7.8,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "071",
+        "wov_id": "07",
+        "year": 2014,
+        "count": 7.4,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "071",
+        "wov_id": "07",
+        "year": 2015,
+        "count": 7.6,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "072",
+        "wov_id": "07",
+        "year": 2014,
+        "count": 12.7,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "072",
+        "wov_id": "07",
+        "year": 2015,
+        "count": 12.5,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "073",
+        "wov_id": "07",
+        "year": 2014,
+        "count": 0.7,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "073",
+        "wov_id": "07",
+        "year": 2015,
+        "count": 0.7,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "081",
+        "wov_id": "08",
+        "year": 2014,
+        "count": 11.6,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "081",
+        "wov_id": "08",
+        "year": 2015,
+        "count": 11.7,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "082",
+        "wov_id": "08",
+        "year": 2014,
+        "count": 12.7,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "082",
+        "wov_id": "08",
+        "year": 2015,
+        "count": 13.6,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "083",
+        "wov_id": "08",
+        "year": 2014,
+        "count": 9.0,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "083",
+        "wov_id": "08",
+        "year": 2015,
+        "count": 9.3,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "084",
+        "wov_id": "08",
+        "year": 2014,
+        "count": 34.1,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "084",
+        "wov_id": "08",
+        "year": 2015,
+        "count": 33.9,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "085",
+        "wov_id": "08",
+        "year": 2014,
+        "count": 7.3,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "085",
+        "wov_id": "08",
+        "year": 2015,
+        "count": 7.2,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "091",
+        "wov_id": "09",
+        "year": 2014,
+        "count": 4.1,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "091",
+        "wov_id": "09",
+        "year": 2015,
+        "count": 4.2,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "092",
+        "wov_id": "09",
+        "year": 2014,
+        "count": 24.9,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "092",
+        "wov_id": "09",
+        "year": 2015,
+        "count": 24.9,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "101",
+        "wov_id": "10",
+        "year": 2014,
+        "count": 10.5,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "101",
+        "wov_id": "10",
+        "year": 2015,
+        "count": 10.5,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "102",
+        "wov_id": "10",
+        "year": 2014,
+        "count": 9.5,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "102",
+        "wov_id": "10",
+        "year": 2015,
+        "count": 9.4,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "103",
+        "wov_id": "10",
+        "year": 2014,
+        "count": 14.7,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "103",
+        "wov_id": "10",
+        "year": 2015,
+        "count": 14.3,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "111",
+        "wov_id": "11",
+        "year": 2014,
+        "count": 14.4,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "111",
+        "wov_id": "11",
+        "year": 2015,
+        "count": 14.5,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "112",
+        "wov_id": "11",
+        "year": 2014,
+        "count": 8.1,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "112",
+        "wov_id": "11",
+        "year": 2015,
+        "count": 8.1,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "113",
+        "wov_id": "11",
+        "year": 2014,
+        "count": 7.9,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "113",
+        "wov_id": "11",
+        "year": 2015,
+        "count": 7.8,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "114",
+        "wov_id": "11",
+        "year": 2014,
+        "count": 5.5,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "114",
+        "wov_id": "11",
+        "year": 2015,
+        "count": 5.5,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "115",
+        "wov_id": "11",
+        "year": 2014,
+        "count": 15.7,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "115",
+        "wov_id": "11",
+        "year": 2015,
+        "count": 15.4,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "121",
+        "wov_id": "12",
+        "year": 2014,
+        "count": 10.6,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "121",
+        "wov_id": "12",
+        "year": 2015,
+        "count": 10.4,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "122",
+        "wov_id": "12",
+        "year": 2014,
+        "count": 15.9,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "122",
+        "wov_id": "12",
+        "year": 2015,
+        "count": 15.9,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "131",
+        "wov_id": "13",
+        "year": 2014,
+        "count": 22.7,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "131",
+        "wov_id": "13",
+        "year": 2015,
+        "count": 22.4,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "132",
+        "wov_id": "13",
+        "year": 2014,
+        "count": 13.2,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "132",
+        "wov_id": "13",
+        "year": 2015,
+        "count": 13.4,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "141",
+        "wov_id": "14",
+        "year": 2014,
+        "count": 10.7,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "141",
+        "wov_id": "14",
+        "year": 2015,
+        "count": 11.0,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "142",
+        "wov_id": "14",
+        "year": 2014,
+        "count": 20.9,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "142",
+        "wov_id": "14",
+        "year": 2015,
+        "count": 21.9,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "151",
+        "wov_id": "15",
+        "year": 2014,
+        "count": 4.3,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "151",
+        "wov_id": "15",
+        "year": 2015,
+        "count": 4.3,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "152",
+        "wov_id": "15",
+        "year": 2014,
+        "count": 8.6,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "152",
+        "wov_id": "15",
+        "year": 2015,
+        "count": 8.6,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "153",
+        "wov_id": "15",
+        "year": 2014,
+        "count": 7.7,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "153",
+        "wov_id": "15",
+        "year": 2015,
+        "count": 7.7,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "161",
+        "wov_id": "16",
+        "year": 2014,
+        "count": 8.5,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "161",
+        "wov_id": "16",
+        "year": 2015,
+        "count": 8.7,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "162",
+        "wov_id": "16",
+        "year": 2014,
+        "count": 13.5,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "162",
+        "wov_id": "16",
+        "year": 2015,
+        "count": 17.1,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "171",
+        "wov_id": "17",
+        "year": 2014,
+        "count": 9.6,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "171",
+        "wov_id": "17",
+        "year": 2015,
+        "count": 9.5,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "172",
+        "wov_id": "17",
+        "year": 2014,
+        "count": 14.2,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "172",
+        "wov_id": "17",
+        "year": 2015,
+        "count": 14.2,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "173",
+        "wov_id": "17",
+        "year": 2014,
+        "count": 9.4,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "173",
+        "wov_id": "17",
+        "year": 2015,
+        "count": 9.4,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "174",
+        "wov_id": "17",
+        "year": 2014,
+        "count": 15.0,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "174",
+        "wov_id": "17",
+        "year": 2015,
+        "count": 14.9,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "180",
+        "wov_id": "18",
+        "year": 2014,
+        "count": 12.5,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "180",
+        "wov_id": "18",
+        "year": 2015,
+        "count": 12.3,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "190",
+        "wov_id": "19",
+        "year": 2014,
+        "count": 4.4,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "190",
+        "wov_id": "19",
+        "year": 2015,
+        "count": 4.3,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "201",
+        "wov_id": "20",
+        "year": 2014,
+        "count": 6.8,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "201",
+        "wov_id": "20",
+        "year": 2015,
+        "count": 6.7,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "202",
+        "wov_id": "20",
+        "year": 2014,
+        "count": 2.3,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "202",
+        "wov_id": "20",
+        "year": 2015,
+        "count": 2.3,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "203",
+        "wov_id": "20",
+        "year": 2014,
+        "count": 1.1,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "203",
+        "wov_id": "20",
+        "year": 2015,
+        "count": 1.1,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "204",
+        "wov_id": "20",
+        "year": 2014,
+        "count": 0.8,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "204",
+        "wov_id": "20",
+        "year": 2015,
+        "count": 0.7,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "205",
+        "wov_id": "20",
+        "year": 2014,
+        "count": 5.8,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "205",
+        "wov_id": "20",
+        "year": 2015,
+        "count": 5.8,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "206",
+        "wov_id": "20",
+        "year": 2014,
+        "count": 17.9,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "206",
+        "wov_id": "20",
+        "year": 2015,
+        "count": 17.9,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "207",
+        "wov_id": "20",
+        "year": 2014,
+        "count": 5.6,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "207",
+        "wov_id": "20",
+        "year": 2015,
+        "count": 5.6,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "208",
+        "wov_id": "20",
+        "year": 2014,
+        "count": 2.4,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "208",
+        "wov_id": "20",
+        "year": 2015,
+        "count": 2.5,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "301",
+        "wov_id": "30",
+        "year": 2014,
+        "count": 0.3,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "301",
+        "wov_id": "30",
+        "year": 2015,
+        "count": 0.3,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "302",
+        "wov_id": "30",
+        "year": 2014,
+        "count": 0.0,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "302",
+        "wov_id": "30",
+        "year": 2015,
+        "count": 0.0,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "011",
+        "wov_id": "01",
+        "year": 2013,
+        "count": 7.8,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "012",
+        "wov_id": "01",
+        "year": 2013,
+        "count": 1.9,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "013",
+        "wov_id": "01",
+        "year": 2013,
+        "count": 7.0,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "014",
+        "wov_id": "01",
+        "year": 2013,
+        "count": 3.8,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "021",
+        "wov_id": "02",
+        "year": 2013,
+        "count": 21.8,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "022",
+        "wov_id": "02",
+        "year": 2013,
+        "count": 16.0,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "023",
+        "wov_id": "02",
+        "year": 2013,
+        "count": 10.7,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "024",
+        "wov_id": "02",
+        "year": 2013,
+        "count": 15.5,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "025",
+        "wov_id": "02",
+        "year": 2013,
+        "count": 10.3,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "026",
+        "wov_id": "02",
+        "year": 2013,
+        "count": 16.9,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "031",
+        "wov_id": "03",
+        "year": 2013,
+        "count": 12.1,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "032",
+        "wov_id": "03",
+        "year": 2013,
+        "count": 5.9,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "033",
+        "wov_id": "03",
+        "year": 2013,
+        "count": 7.5,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "034",
+        "wov_id": "03",
+        "year": 2013,
+        "count": 13.9,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "041",
+        "wov_id": "04",
+        "year": 2013,
+        "count": 13.4,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "042",
+        "wov_id": "04",
+        "year": 2013,
+        "count": 7.9,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "051",
+        "wov_id": "05",
+        "year": 2013,
+        "count": 6.7,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "052",
+        "wov_id": "05",
+        "year": 2013,
+        "count": 7.6,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "053",
+        "wov_id": "05",
+        "year": 2013,
+        "count": 9.5,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "054",
+        "wov_id": "05",
+        "year": 2013,
+        "count": 14.9,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "055",
+        "wov_id": "05",
+        "year": 2013,
+        "count": 4.4,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "061",
+        "wov_id": "06",
+        "year": 2013,
+        "count": 10.6,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "062",
+        "wov_id": "06",
+        "year": 2013,
+        "count": 5.7,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "063",
+        "wov_id": "06",
+        "year": 2013,
+        "count": 7.7,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "071",
+        "wov_id": "07",
+        "year": 2013,
+        "count": 7.4,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "072",
+        "wov_id": "07",
+        "year": 2013,
+        "count": 12.5,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "073",
+        "wov_id": "07",
+        "year": 2013,
+        "count": 0.7,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "081",
+        "wov_id": "08",
+        "year": 2013,
+        "count": 11.6,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "082",
+        "wov_id": "08",
+        "year": 2013,
+        "count": 12.8,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "083",
+        "wov_id": "08",
+        "year": 2013,
+        "count": 9.1,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "084",
+        "wov_id": "08",
+        "year": 2013,
+        "count": 33.6,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "085",
+        "wov_id": "08",
+        "year": 2013,
+        "count": 7.2,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "091",
+        "wov_id": "09",
+        "year": 2013,
+        "count": 4.2,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "092",
+        "wov_id": "09",
+        "year": 2013,
+        "count": 24.3,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "101",
+        "wov_id": "10",
+        "year": 2013,
+        "count": 10.7,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "102",
+        "wov_id": "10",
+        "year": 2013,
+        "count": 7.4,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "103",
+        "wov_id": "10",
+        "year": 2013,
+        "count": 13.8,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "111",
+        "wov_id": "11",
+        "year": 2013,
+        "count": 14.6,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "112",
+        "wov_id": "11",
+        "year": 2013,
+        "count": 8.2,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "113",
+        "wov_id": "11",
+        "year": 2013,
+        "count": 8.1,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "114",
+        "wov_id": "11",
+        "year": 2013,
+        "count": 4.8,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "115",
+        "wov_id": "11",
+        "year": 2013,
+        "count": 15.4,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "121",
+        "wov_id": "12",
+        "year": 2013,
+        "count": 10.7,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "122",
+        "wov_id": "12",
+        "year": 2013,
+        "count": 16.5,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "131",
+        "wov_id": "13",
+        "year": 2013,
+        "count": 23.0,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "132",
+        "wov_id": "13",
+        "year": 2013,
+        "count": 14.2,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "141",
+        "wov_id": "14",
+        "year": 2013,
+        "count": 10.6,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "142",
+        "wov_id": "14",
+        "year": 2013,
+        "count": 20.8,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "151",
+        "wov_id": "15",
+        "year": 2013,
+        "count": 4.4,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "152",
+        "wov_id": "15",
+        "year": 2013,
+        "count": 8.7,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "153",
+        "wov_id": "15",
+        "year": 2013,
+        "count": 7.6,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "161",
+        "wov_id": "16",
+        "year": 2013,
+        "count": 8.5,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "162",
+        "wov_id": "16",
+        "year": 2013,
+        "count": 13.5,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "171",
+        "wov_id": "17",
+        "year": 2013,
+        "count": 8.5,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "172",
+        "wov_id": "17",
+        "year": 2013,
+        "count": 13.7,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "173",
+        "wov_id": "17",
+        "year": 2013,
+        "count": 9.4,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "174",
+        "wov_id": "17",
+        "year": 2013,
+        "count": 15.1,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "180",
+        "wov_id": "18",
+        "year": 2013,
+        "count": 12.1,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "190",
+        "wov_id": "19",
+        "year": 2013,
+        "count": 4.5,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "201",
+        "wov_id": "20",
+        "year": 2013,
+        "count": 6.8,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "202",
+        "wov_id": "20",
+        "year": 2013,
+        "count": 2.0,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "203",
+        "wov_id": "20",
+        "year": 2013,
+        "count": 1.1,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "204",
+        "wov_id": "20",
+        "year": 2013,
+        "count": 0.8,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "205",
+        "wov_id": "20",
+        "year": 2013,
+        "count": 5.8,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "206",
+        "wov_id": "20",
+        "year": 2013,
+        "count": 14.0,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "207",
+        "wov_id": "20",
+        "year": 2013,
+        "count": 5.6,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "208",
+        "wov_id": "20",
+        "year": 2013,
+        "count": 2.4,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    },
+    {
+        "key": "baeume_dichte",
+        "wbe": "301",
+        "wov_id": "30",
+        "year": 2013,
+        "count": 0.3,
+        "indicator": {
+            "id": "baeume_dichte",
+            "Thema": "ru_baeume",
+            "Indikator_Titel": "Anzahl der gem\u00e4ss Baumkataster von der Stadtg\u00e4rtnerei Basel und der Gemeindeg\u00e4rtnerei Riehen gepflegten Allmendb\u00e4ume pro Hektar",
+            "Indikator_Titel_kurz": "Allmendb\u00e4ume pro ha",
+            "Ebenen": "wbe, wge, wvi",
+            "Quelle": "Stadtg\u00e4rtnerei des Kantons Basel-Stadt",
+            "Indikator_Beschrieb": "Baumkataster: http://www.stadtplan.bs.ch/geoviewer/themes.php?theme=228",
+            "Link_URL": "http://www.statistik-bs.ch/publikationen/dossier/2012/37_ru_1208.pdf/at_download/file",
+            "Link_Text": "Dossier Basel 37/2012",
+            "Jahre": "2015|2014|2013"
+        }
+    }
+]
