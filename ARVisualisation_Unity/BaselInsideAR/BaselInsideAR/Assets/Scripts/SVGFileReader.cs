@@ -4,13 +4,13 @@ using UnityEngine;
 using System.Xml;
 using System.IO;
 using System.Text;
-<<<<<<< HEAD
+
 using System.Xml.Linq;
 using System;
 using Pathfinding.Serialization.JsonFx;
-=======
+
 using MiniJSON;
->>>>>>> b7842f3b74aaf0f2643dadbdb519c2ea9ef00b30
+
 
 public class SVGFileReader
     {
@@ -23,44 +23,10 @@ public class SVGFileReader
         string data = streamReader.ReadToEnd();
         streamReader.Close();
 
-<<<<<<< HEAD
+
         RootObject rootObject = JsonReader.Deserialize<RootObject>(data);
         Debug.Log("stuff");
         Debug.Log(rootObject.features[0].geometry.coordinates);
-=======
-        string json = File.ReadAllText(path);
-        Dictionary<string, object> dict = (Dictionary<string, object>)Json.Deserialize(json);
-       
-        List<object> list = (List<object>)dict["features"];
-        foreach (object ob in list)
-        {
-            Dictionary<string, object> subList = (Dictionary<string, object>)ob;
-            Dictionary<string, object> geometry = (Dictionary < string, object>) subList["geometry"];
-            foreach (object geomOb in geometry)
-            {
-                List <object> coordinateList =(List <object>) geometry["coordinates"];
-                foreach(object coordinate in coordinateList){
-                    List < object > coo = ((List<object>)coordinate);
-                    foreach (object pointValue in coo)
-                    {
-                        List<object> singlePoint = ((List<object>)pointValue);
-                        foreach (object singlePointValue in singlePoint)
-                        {
-                            double d;
-                            if (singlePointValue is System.IConvertible)
-                            {
-                                d = ((System.IConvertible)singlePointValue).ToDouble(null);
-                            }
-                            else
-                            {
-                                d = 0d;
-                            }
-                        }
-                    }
-                }
-            }
-        }
->>>>>>> b7842f3b74aaf0f2643dadbdb519c2ea9ef00b30
         return zoneList;
     }
 }
