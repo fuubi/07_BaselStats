@@ -31,9 +31,13 @@ curl -XPUT 'localhost:9200/baselhack?pretty' -H 'Content-Type: application/json'
                "type":"string",
                "index":"not_analyzed"
             },
-            "wvi":{
+            "wov_id":{
                "type":"string",
                "index":"not_analyzed"
+            },
+            "autoComplete":{
+              "type": "completion",
+              "analyzer": "standard"
             },
             "indicator":{
                "properties":{
@@ -63,6 +67,14 @@ curl -XPUT 'localhost:9200/baselhack?pretty' -H 'Content-Type: application/json'
                      "type":"string"
                   },
                   "sourceUrl":{
+                     "type":"string",
+                     "index":"not_analyzed"
+                  },
+                  "years":{
+                     "type":"string",
+                     "index":"not_analyzed"
+                  },
+                  "linkText":{
                      "type":"string",
                      "index":"not_analyzed"
                   }
