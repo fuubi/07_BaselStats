@@ -37,7 +37,7 @@ export class SearchComponent {
     }
 
     itemSelected(item): void {
-        console.log(item)
+        this.autocomplete.query = item;
     }
 
 }
