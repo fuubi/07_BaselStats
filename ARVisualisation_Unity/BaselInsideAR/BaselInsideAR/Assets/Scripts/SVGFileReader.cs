@@ -50,6 +50,7 @@ public class SVGFileReader
 
             if (a.TryGetValue("id", out id))
             {
+
                 int.TryParse((string)id, out idInt);
 
                 if (a.TryGetValue("name", out name))
@@ -87,7 +88,6 @@ public class SVGFileReader
                 }
             }
         }
-
 
         return zoneList;
     }

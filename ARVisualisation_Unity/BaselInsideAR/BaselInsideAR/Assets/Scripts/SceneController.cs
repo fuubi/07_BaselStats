@@ -8,6 +8,7 @@ using UnityEngine;
 public class SceneController : MonoBehaviour {
 
     public GameObject zonePrefab;
+    public GameObject MeshPrefab;
     public UnityEngine.TextMesh textField;
 
 
@@ -37,6 +38,7 @@ public class SceneController : MonoBehaviour {
         }
         www.Dispose();
 
+
         // List<Zone> zoneList = SVGFileReader.readZones(Application.dataPath + "/Resources/Json/" + "Bezirke.json");
         if (data.Length > 5) { }
         List<Zone> zoneList = SVGFileReader.readZones(data);
@@ -48,7 +50,17 @@ public class SceneController : MonoBehaviour {
             GameObject zoneGameObject = (GameObject)Instantiate(zonePrefab);
             LineRenderer lineRenderer = zoneGameObject.GetComponent<LineRenderer>();
             lineRenderer.positionCount = zone.getPointList().Count;
+            List<Vector3> test = zone.getPointList();
             lineRenderer.SetPositions(zone.getPointList().ToArray());
+
+            //create, then instantiate the mesh on the scene
+            ConvertZoneToMesh convertZone = new ConvertZoneToMesh();
+            Mesh mesh = convertZone.convert(zone);
+
+            GameObject meshGameObject = (GameObject)Instantiate(MeshPrefab);
+            MeshFilter mf = meshGameObject.GetComponent<MeshFilter>();
+            mf.mesh = mesh;
+            
 
         });
     }
