@@ -2,6 +2,7 @@ import { Component, ViewChild, ChangeDetectorRef } from '@angular/core';
 import { MapService } from './map.service';
 import { single, multi } from './data';
 import { TreeMapComponent } from '@swimlane/ngx-charts';
+import {SearchService} from "../search/search.service";
 
 @Component({
     selector: 'map-chart',
@@ -32,7 +33,7 @@ export class MapChartComponent {
         return data.value;
     };
 
-    constructor(private mapService: MapService,
+    constructor(private mapService: MapService, private searchService: SearchService,
                 private ref: ChangeDetectorRef) {
 
         this.mapService.data.asObservable()
@@ -43,6 +44,20 @@ export class MapChartComponent {
                 // this.single = [...this.single];
 
             });
+
+      /*  this.searchService.removeItemWithIndex.asObservable()
+            .subscribe(index => {
+
+                let next = [];
+                for(let i = 0; i<this.single.length; i++){
+                    console.log(this.single[i])
+                    if (index != i){
+                        next.push(this.single[i])
+                    }
+                }
+                console.log(next)
+                this.single = [...next]
+            }) */
     }
 
     onSelect(event) {

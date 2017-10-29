@@ -38,7 +38,7 @@ export class SearchService {
         let idx = this.queriedItemsList.indexOf(item)
         if (idx > -1) {
             this.queriedItemsList.splice(idx, 1);
-            this.removeItemWithIndex.next(1);
+            this.removeItemWithIndex.next(idx);
         }
 
     }

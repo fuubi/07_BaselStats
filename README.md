@@ -5,6 +5,7 @@ Nowadays, an enormous amount of data is generated every day. Unfortunately, this
  
 We would like to create our own open data search engine with all available statistical data from the Kanton Basel Stadt.
 Thus, the exploration of these records should become easy and intuitive, as if one would be googeling any topic.
+It also should be possible to discover connection between different domains. The Webapplication should give the user the feeling of a little Data Scientist.
  
  
 The public API would allow other developers to create their own applications. Of course our frontend also retrieves its data from the public API.
@@ -12,9 +13,41 @@ The public API would allow other developers to create their own applications. Of
  
 Additionally to our Web Application we would like to create a visualisation by using the Microsoft HoloLens.
  
+## Technology:
+The data is stored in an [Elasticsearch](https://www.elastic.co/) database for easy aggregation, slicing and transformation.
+
+In the backend runs a Python [Flask](http://flask.pocoo.org/) Server.
+
+For the frontend we used [Ionic](https://ionicframework.com/) Webframework. This gives us the possibility to have a webapplication and also a Mobile Application.
+
+For the HoloLens Application we used [Unity](https://unity3d.com/de)
+
+## Build
+Clone the project from https://github.com/FUUbi/07_BaselStats.
+
+### Python 3
+Create a Python virtual environment.
+```
+python -m venv venv
+pip install -r requirements.txt
+```
+
+### Database
+For the database run an Elasticsearch database and setup the schema. For that run the script ```setup.bash```in the setup_schema folder.
+
+### Ionic App
+Install the dependencies
+````
+cd frontend
+npm install
+npm run ionic:serve
+```
+---
 
 Team:
 * Denise Bauman
 * Fabrizio Parrillo
 * Quentin Garnier
-* you ? 
+* Denis Augsburger
+* Nicolas Mauchle
+* Gali Shai
