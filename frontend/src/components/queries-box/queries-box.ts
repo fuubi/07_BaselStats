@@ -1,6 +1,6 @@
 import { Component, Input } from '@angular/core';
 import { Observable } from 'rxjs';
-import { SearchService } from '../search/search.service';
+import {SearchService, ValueKey} from '../search/search.service';
 
 /**
  * Generated class for the QueriesBoxComponent component.
@@ -13,7 +13,7 @@ import { SearchService } from '../search/search.service';
     templateUrl: 'queries-box.html'
 })
 export class QueriesBoxComponent {
-    queries: string[];
+    queries: ValueKey[];
 
     constructor(private searchService: SearchService) {
         console.log('Hello QueriesBoxComponent Component');
@@ -23,7 +23,7 @@ export class QueriesBoxComponent {
             })
     }
 
-    removeQueriedItem(item: string) {
+    removeQueriedItem(item: ValueKey) {
         this.searchService.removeQueriedItem(item);
     }
 
