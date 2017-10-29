@@ -37,7 +37,7 @@ For the database run an Elasticsearch database and setup the schema. For that ru
 
 ### Ionic App
 Install the dependencies
-````
+```
 cd frontend
 npm install
 npm run ionic:serve
