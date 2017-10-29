@@ -1,6 +1,6 @@
 import { Component, ViewChild, ChangeDetectorRef } from '@angular/core';
 import { MapService } from './map.service';
-// import { single, multi } from './data';
+import { single, multi } from './data';
 import { BaseChartDirective } from 'ng2-charts';
 import { LineChartComponent } from '@swimlane/ngx-charts';
 
@@ -8,9 +8,9 @@ import { LineChartComponent } from '@swimlane/ngx-charts';
     selector: 'map-chart',
     templateUrl: 'map-chart.html'
 })
-export class LineChartAComponent {
-    single: any[] = []; // single;
-    multi: any[] = []; // multi;
+export class MapChartComponent {
+    single: any[] = single;
+    multi: any[] = multi;
 
     view: any[] = [700, 400];
 
@@ -34,6 +34,7 @@ export class LineChartAComponent {
 
     constructor(private mapService: MapService,
                 private ref: ChangeDetectorRef) {
+        console.log("alloNico")
 
         this.mapService.data.asObservable()
             .subscribe(a => {
@@ -53,7 +54,7 @@ export class LineChartAComponent {
                     ]
                 });
                 console.log("after")
-                //this.multi = [...multi];
+                this.multi = [...multi];
                 this.ref.detectChanges();
             });
 
