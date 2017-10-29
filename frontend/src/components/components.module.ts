@@ -7,24 +7,36 @@ import { HttpModule } from '@angular/http';
 import { QueriesBoxComponent } from './queries-box/queries-box';
 import { LineChartAComponent } from './line-chart-a/line-chart-a';
 import { ChartsModule } from 'ng2-charts';
+import { ChartService } from './line-chart-a/chart.service';
+import { NgxChartsModule } from '@swimlane/ngx-charts';
+import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+import { MapChartComponent } from './map-chart/map-chart';
+import { MapService } from "./map-chart/map.service";
+
 @NgModule({
     declarations: [
         SearchComponent,
         QueriesBoxComponent,
-    LineChartAComponent
+        LineChartAComponent,
+        MapChartComponent,
     ],
     imports: [
         IonicModule,
         HttpModule,
-        ChartsModule
+        ChartsModule,
+        BrowserAnimationsModule,
+        NgxChartsModule
     ],
     exports: [
         SearchComponent,
         QueriesBoxComponent,
-    LineChartAComponent
+        LineChartAComponent,
+        MapChartComponent,
     ],
     providers: [
-        SearchService
+        SearchService,
+        ChartService,
+        MapService,
     ]
 })
 export class ComponentsModule {

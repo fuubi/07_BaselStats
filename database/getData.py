@@ -118,6 +118,8 @@ def import_to_elastic():
         json_data = json.load(open('{}/{}'.format(JSON_FILE_DIRECTORY, file), 'r'))
         logger.info("process {}".format(file))
         for data in json_data:
+            data['autoComplete'] = {}
+            data['autoComplete']['input'] = data.get('indicator', {}).get('title').split()
             req = es.index(index='baselhack', doc_type='dataset', id=idx, body=data)
             if req['result'] != 'created':
                 logger.error("Could not save entry for {}".format(data))

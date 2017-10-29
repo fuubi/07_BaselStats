@@ -1,4 +1,13 @@
-<!-- Generated template for the QueriesBoxComponent component -->
-<li *ngFor="let q of queries; index as i;">
-    <div (click)="removeQueriedItem(q)">{{q}}</div>
-</li>
+
+<ion-list>
+    <button text-wrap ion-item *ngFor="let q of queries; index as i;"
+            (click)="itemSelected(item)"
+            [style.background]="colors[i]"
+    >
+        {{ q.value }}
+        <ion-icon icon-end name="close"
+                  item-end
+                  (click)="removeQueriedItem(q)"></ion-icon>
+    </button>
+
+</ion-list>

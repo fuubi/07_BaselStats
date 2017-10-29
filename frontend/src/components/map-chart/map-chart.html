@@ -1,0 +1,24 @@
+<button ion-button (click)="switchOtherMap()" *ngIf="single.length!= 0">Switch Diagram</button>
+    <ngx-charts-tree-map *ngIf="single.length!= 0 && showedDiagram==0"
+            [view]="view"
+            [valueFormatting]="valueFormatting"
+            [scheme]="colorScheme"
+            [results]="single"
+            [gradient]="gradient"
+            (select)="onSelect($event)">
+    </ngx-charts-tree-map>
+
+    <ngx-charts-number-card *ngIf="single.length!= 0 && showedDiagram==1"
+                          [view]="view"
+                          [scheme]="colorScheme"
+                          [results]="single"
+                          (select)="onSelect($event)">
+    </ngx-charts-number-card>
+
+    <ngx-charts-pie-grid *ngIf="single.length!= 0 && showedDiagram==2"
+                            [view]="view"
+                            [scheme]="colorScheme"
+                            [results]="single"
+                            (select)="onSelect($event)">
+    </ngx-charts-pie-grid>
+

@@ -1,26 +1,69 @@
-<div class="row">
-  <div class="col-md-6">
-    <div style="display: block;">
-      <canvas baseChart width="400" height="400"
-              [datasets]="lineChartData"
-              [labels]="lineChartLabels"
-              [options]="lineChartOptions"
-              [colors]="lineChartColors"
-              [legend]="lineChartLegend"
-              [chartType]="lineChartType"
-              (chartHover)="chartHovered($event)"
-              (chartClick)="chartClicked($event)"></canvas>
-    </div>
-  </div>
-  <div class="col-md-6" style="margin-bottom: 10px">
-    <table class="table table-responsive table-condensed">
-      <tr>
-        <th *ngFor="let label of lineChartLabels">{{label}}</th>
-      </tr>
-      <tr *ngFor="let d of lineChartData">
-        <td *ngFor="let label of lineChartLabels; let j=index">{{d && d.data[j]}}</td>
-      </tr>
-    </table>
-    <button (click)="randomize()">CLICK</button>
-  </div>
-</div>
+<ngx-charts-line-chart *ngIf="multi.length!= 0 && showedDiagram==0"
+            [view]="view"
+            [scheme]="colorScheme"
+            [results]="multi"
+            [gradient]="gradient"
+            [xAxis]="showXAxis"
+            [yAxis]="showYAxis"
+            [legend]="showLegend"
+            [showXAxisLabel]="showXAxisLabel"
+            [showYAxisLabel]="showYAxisLabel"
+            [xAxisTickFormatting]="xAxisTickFormatting"
+            [yAxisTickFormatting]="yAxisTickFormatting"
+            [xAxisLabel]="xAxisLabel"
+            [yAxisLabel]="yAxisLabel"
+            [autoScale]="autoScale"
+            (select)="onSelect($event)">
+    </ngx-charts-line-chart>
+
+
+    <ngx-charts-area-chart *ngIf="multi.length!= 0 && showedDiagram==1"
+            [view]="view"
+            [scheme]="colorScheme"
+            [results]="multi"
+            [gradient]="gradient"
+            [xAxis]="showXAxis"
+            [yAxis]="showYAxis"
+            [showXAxisLabel]="showXAxisLabel"
+            [showYAxisLabel]="showYAxisLabel"
+            [xAxisTickFormatting]="xAxisTickFormatting"
+            [yAxisTickFormatting]="yAxisTickFormatting"
+            [xAxisLabel]="xAxisLabel"
+            [yAxisLabel]="yAxisLabel"
+            [autoScale]="autoScale"
+            (select)="onSelect($event)">
+    </ngx-charts-area-chart>
+
+    <ngx-charts-area-chart-stacked *ngIf="multi.length!= 0 && showedDiagram==2"
+                           [view]="view"
+                           [scheme]="colorScheme"
+                           [results]="multi"
+                           [gradient]="gradient"
+                           [xAxis]="showXAxis"
+                           [yAxis]="showYAxis"
+                           [showXAxisLabel]="showXAxisLabel"
+                           [showYAxisLabel]="showYAxisLabel"
+                           [xAxisTickFormatting]="xAxisTickFormatting"
+                           [yAxisTickFormatting]="yAxisTickFormatting"
+                           [xAxisLabel]="xAxisLabel"
+                           [yAxisLabel]="yAxisLabel"
+                           (select)="onSelect($event)">
+    </ngx-charts-area-chart-stacked>
+
+    <ngx-charts-area-chart-normalized *ngIf="multi.length!= 0 && showedDiagram==3"
+                                   [view]="view"
+                                   [scheme]="colorScheme"
+                                   [results]="multi"
+                                   [gradient]="gradient"
+                                   [xAxis]="showXAxis"
+                                   [yAxis]="showYAxis"
+                                   [showXAxisLabel]="showXAxisLabel"
+                                   [showYAxisLabel]="showYAxisLabel"
+                                   [xAxisTickFormatting]="xAxisTickFormatting"
+                                   [yAxisTickFormatting]="yAxisTickFormatting"
+                                   [xAxisLabel]="xAxisLabel"
+                                   [yAxisLabel]="yAxisLabel"
+                                   (select)="onSelect($event)">
+    </ngx-charts-area-chart-normalized>
+
+<button ion-button (click)="switchMultiChart()" *ngIf="multi.length!= 0">Switch Line Diargram</button>

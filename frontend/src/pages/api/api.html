@@ -1,0 +1,47 @@
+<!--
+  Generated template for the ApiPage page.
+
+  See http://ionicframework.com/docs/components/#navigation for more info on
+  Ionic pages and navigation.
+-->
+<ion-header>
+  <ion-navbar>
+    <button ion-button menuToggle>
+      <ion-icon name="menu"></ion-icon>
+    </button>
+    <ion-title>BaselStats</ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+
+    <h1>Statistic Data API</h1><br/>
+
+    <p>The public API provides access to the statistical data available in Canton Basel Stadt:
+
+    <a href="http://baselhack.nicolasmauchle.ch" padding-left=2em>http://baselhack.nicolasmauchle.ch</a></p><br/>
+
+    <h4>/stats</h4>
+    <p>Returns all the available data sets.</p>
+    <p>Each data set entry is identified by a <b>key</b> that can be used for the data search.</p>
+    <p>Additional information is a <i>title</i> and a <i>description</i> of the data set.</p><br/>
+    
+    <h4>/stats/&lt;key&gt;</h4>
+    <p>Returns all the available data for the specified <b>key</b>, from all the available <em>years</em>.</p><br/>
+    
+    <h4>/mapStats/&lt;key&gt;</h4>
+    <p>Returns all the available data for the specified <b>key</b>, from all the available <em>districts</em>.</p><br/>
+    
+    <h4>/auto?term=&lt;term&gt;</h4>
+    <p>An API for auto complition of search terms. Returns all the available data sets with a description matching the requested term.</p>
+    <p>The input parameter <b>term</b> must contain at least 4 charachters.</p><br/>
+        
+    <h4>/bezirke</h4>
+    <p>Returns all the available districts, including their name and coordinates information.</p><br/>
+    
+    <h4>/compare/&lt;key&gt;?from=&lt;year&gt;&to=&lt;year&gt;&with=&lt;another_key&gt;</h4>
+    <p>Returns all the available data for the specified <b>key</b>.</p>
+    <p>Optional parameters are <em>year from</em>, <em>year to</em> and <em>antother key</em> of an additional data set for comparison.</p><br/>
+    <!-- example: http://baselhack.nicolasmauchle.ch/compare/alter0?from=2000&to=2005&with=alter65 -->
+    
+</ion-content>
