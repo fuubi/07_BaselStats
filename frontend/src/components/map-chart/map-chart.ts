@@ -11,7 +11,9 @@ export class MapChartComponent {
     single: any[] = single;
     multi: any[] = [];
 
-    view: any[] = [1400, 800];
+    view: any[] = [
+        window.innerWidth - 0.3 * window.innerWidth,
+        window.innerHeight - 0.3 * window.innerHeight];
 
     // options
     gradient = false;

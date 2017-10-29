@@ -1,4 +1,4 @@
-    <ngx-charts-line-chart *ngIf="multi.length!= 0 && showedDiagram==0"
+<ngx-charts-line-chart *ngIf="multi.length!= 0 && showedDiagram==0"
             [view]="view"
             [scheme]="colorScheme"
             [results]="multi"
@@ -66,4 +66,4 @@
                                    (select)="onSelect($event)">
     </ngx-charts-area-chart-normalized>
 
-    <button (click)="switchMultiChart()" *ngIf="multi.length!= 0">Switch Line Diargram</button>
+<button ion-button (click)="switchMultiChart()" *ngIf="multi.length!= 0">Switch Line Diargram</button>
