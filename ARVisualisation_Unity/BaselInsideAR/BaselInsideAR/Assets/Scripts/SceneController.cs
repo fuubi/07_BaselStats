@@ -13,7 +13,7 @@ public class SceneController : MonoBehaviour {
 
         // Read the svg file
 
-        List<Zone> zoneList = SVGFileReader.readZones("C:/Programmierung/BaselInside/data/json/Bezirke.json");
+        List<Zone> zoneList = SVGFileReader.readZones(Application.dataPath + "/Resources/Json/" + "Bezirke.json");
 
         zoneList.ForEach(delegate (Zone zone)
         {
