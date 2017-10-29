@@ -1,8 +1,7 @@
 import { Component, ViewChild, ChangeDetectorRef } from '@angular/core';
 import { MapService } from './map.service';
 import { single, multi } from './data';
-import { BaseChartDirective } from 'ng2-charts';
-import { LineChartComponent } from '@swimlane/ngx-charts';
+import { TreeMapComponent } from '@swimlane/ngx-charts';
 
 @Component({
     selector: 'map-chart',
@@ -12,53 +11,30 @@ export class MapChartComponent {
     single: any[] = single;
     multi: any[] = multi;
 
-    view: any[] = [700, 400];
+    view: any[] = [1400, 800];
 
     // options
-    showXAxis = true;
-    showYAxis = true;
     gradient = false;
-    showLegend = true;
-    showXAxisLabel = true;
-    xAxisLabel = 'Years';
-    showYAxisLabel = true;
-    yAxisLabel = 'Population';
 
     colorScheme = {
-        domain: ['#5AA454', '#A10A28', '#C7B42C', '#AAAAAA']
+        domain: ['#b24d4e', '#577b98', '#659663', '#88638e', '#bf7f40', '#cccc66', '#865e48', '#da9ebe', '#999999', '#b24d4e', '#577b98', '#659663', '#88638e', '#bf7f40', '#cccc66', '#865e48', '#da9ebe', '#999999', '#b24d4e', '#577b98', '#659663', '#88638e', '#bf7f40', '#cccc66', '#865e48', '#da9ebe', '#999999', '#b24d4e', '#577b98', '#659663', '#88638e', '#bf7f40', '#cccc66', '#865e48', '#da9ebe', '#999999', '#b24d4e', '#577b98', '#659663', '#88638e', '#bf7f40', '#cccc66', '#865e48', '#da9ebe', '#999999', '#b24d4e', '#577b98', '#659663', '#88638e', '#bf7f40']
     };
 
-    // line, area
-    autoScale = true;
-
+    valueFormatting = (data) => {
+        return data.value;
+    };
 
     constructor(private mapService: MapService,
                 private ref: ChangeDetectorRef) {
-        console.log("alloNico")
 
         this.mapService.data.asObservable()
             .subscribe(a => {
-                console.log("allo")
-                console.log(this.multi)
-                this.multi.push({
-                    "name": "Gey",
-                    "series": [
-                        {
-                            "name": "2010",
-                            "value": 700000
-                        },
-                        {
-                            "name": "2011",
-                            "value": 8940000
-                        }
-                    ]
-                });
-                console.log("after")
-                this.multi = [...multi];
-                this.ref.detectChanges();
+
+                // this.single.push(a);
+                this.single = a;
+                // this.single = [...this.single];
+
             });
-
-
     }
 
     onSelect(event) {

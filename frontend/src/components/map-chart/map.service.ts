@@ -3,6 +3,8 @@ import {Observable, Subject} from 'rxjs';
 import {Http} from '@angular/http';
 import {SearchService, ValueKey} from '../search/search.service';
 import {BASE_URL} from '../../constants';
+import areas from './areas';
+import _ from 'lodash';
 import {SearchResults} from "../line-chart-a/chart.service";
 
 @Injectable()
@@ -14,16 +16,33 @@ export class MapService {
             .asObservable()
             .concatMap(vk =>
                     vk.length > 0 ? this.getSearchResult(vk[vk.length-1]) : []
-            ).subscribe(console.log)
+            ).subscribe(d => {
+                console.log(d)
+                this.data.next(d)
+        })
     }
 
-    public getSearchResult(d: ValueKey): Observable<SearchResults> {
-        const request = BASE_URL.BASE_URL_BACKEND + '/mapstats/' + d.key;
+    public getSearchResult(d: ValueKey): Observable<SingleChartModel> {
+        const request = BASE_URL.BASE_URL_BACKEND + 'mapStats/' + d.key;
         return this.http.get(request)
             .map(response => response.json())
-            .concatMap(resultList => {
-                return Observable.from(resultList)
-                    .map(result => new SearchResults(result))
+            .map(resultList => {
+                return resultList.map((entry) => {
+                    return new SingleChartModel(entry)
+                })
+
             });
+    }
+}
+
+export class SingleChartModel {
+    public name: string;
+    public value: string;
+
+    constructor(result:any) {
+        const area =_.find(areas, { 'id': result.key });
+
+        this.name = area ? area.name : result.key;
+        this.value = result.sum.value;
     }
 }

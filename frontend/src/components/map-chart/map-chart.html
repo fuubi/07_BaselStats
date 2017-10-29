@@ -1,16 +1,9 @@
 
-    <ngx-charts-line-chart
+    <ngx-charts-tree-map
             [view]="view"
+            [valueFormatting]="valueFormatting"
             [scheme]="colorScheme"
-            [results]="multi"
+            [results]="single"
             [gradient]="gradient"
-            [xAxis]="showXAxis"
-            [yAxis]="showYAxis"
-            [legend]="showLegend"
-            [showXAxisLabel]="showXAxisLabel"
-            [showYAxisLabel]="showYAxisLabel"
-            [xAxisLabel]="xAxisLabel"
-            [yAxisLabel]="yAxisLabel"
-            [autoScale]="autoScale"
             (select)="onSelect($event)">
-    </ngx-charts-line-chart>
+    </ngx-charts-tree-map>
