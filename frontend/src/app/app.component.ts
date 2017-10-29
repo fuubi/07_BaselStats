@@ -30,7 +30,7 @@ export class MyApp {
             {title: 'About', component: AboutPage},
             {title: 'Contacts and Links', component: ContactAndLinksPage},
             {title: 'Holo Lens', component: HoloLensPage},
-            {title: 'Api', component: ApiPage},
+            {title: 'Statistic Data Api', component: ApiPage},
             {title: 'Map', component: MapPage}
         ];
 
