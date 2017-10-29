@@ -14,7 +14,7 @@ import {SearchService, ValueKey} from '../search/search.service';
 })
 export class QueriesBoxComponent {
 
-    queries: ValueKey[];
+    queries: any[];
 
 
     constructor(private searchService: SearchService) {

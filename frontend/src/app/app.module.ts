@@ -15,6 +15,7 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { AboutPage } from '../pages/about/about';
 import { HoloLensPage } from '../pages/holo-lens/holo-lens';
 import { ContactAndLinksPage } from '../pages/contact-and-links/contact-and-links';
+import { ApiPage } from '../pages/api/api';
 
 @NgModule({
     declarations: [
@@ -24,6 +25,7 @@ import { ContactAndLinksPage } from '../pages/contact-and-links/contact-and-link
         ContactAndLinksPage,
         HoloLensPage,
         MapPage,
+        ApiPage,
     ],
     imports: [
         BrowserModule,
@@ -38,6 +40,7 @@ import { ContactAndLinksPage } from '../pages/contact-and-links/contact-and-link
         MyApp,
         HomePage,
         AboutPage,
+        ApiPage,
         HoloLensPage,
         ContactAndLinksPage,
         MapPage

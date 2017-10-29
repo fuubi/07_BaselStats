@@ -22,6 +22,8 @@ export class ChartService {
                     d
                 )
             })
+
+
     }
 
     public getSearchResult(d: ValueKey): Observable<LineChartModel> {

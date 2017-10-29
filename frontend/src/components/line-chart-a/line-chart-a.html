@@ -1,5 +1,4 @@
-
-    <ngx-charts-line-chart *ngIf="showedDiagram==0"
+    <ngx-charts-line-chart *ngIf="multi.length!= 0 && showedDiagram==0"
             [view]="view"
             [scheme]="colorScheme"
             [results]="multi"
@@ -18,7 +17,7 @@
     </ngx-charts-line-chart>
 
 
-    <ngx-charts-area-chart *ngIf="showedDiagram==1"
+    <ngx-charts-area-chart *ngIf="multi.length!= 0 && showedDiagram==1"
             [view]="view"
             [scheme]="colorScheme"
             [results]="multi"
@@ -35,7 +34,7 @@
             (select)="onSelect($event)">
     </ngx-charts-area-chart>
 
-    <ngx-charts-area-chart-stacked *ngIf="showedDiagram==2"
+    <ngx-charts-area-chart-stacked *ngIf="multi.length!= 0 && showedDiagram==2"
                            [view]="view"
                            [scheme]="colorScheme"
                            [results]="multi"
@@ -51,7 +50,7 @@
                            (select)="onSelect($event)">
     </ngx-charts-area-chart-stacked>
 
-    <ngx-charts-area-chart-normalized *ngIf="showedDiagram==3"
+    <ngx-charts-area-chart-normalized *ngIf="multi.length!= 0 && showedDiagram==3"
                                    [view]="view"
                                    [scheme]="colorScheme"
                                    [results]="multi"
@@ -67,4 +66,4 @@
                                    (select)="onSelect($event)">
     </ngx-charts-area-chart-normalized>
 
-    <button (click)="switchMultiChart()">Switch Line Diargram</button>
+    <button (click)="switchMultiChart()" *ngIf="multi.length!= 0">Switch Line Diargram</button>
