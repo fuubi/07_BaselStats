@@ -11,7 +11,7 @@ export class MapChartComponent {
     single: any[] = single;
     multi: any[] = multi;
 
-    view: any[] = [700, 400];
+    view: any[] = [1400, 800];
 
     // options
     gradient = false;
@@ -29,18 +29,12 @@ export class MapChartComponent {
 
         this.mapService.data.asObservable()
             .subscribe(a => {
-                console.log("allo")
-                console.log(this.single)
-                this.single.push({
-                    "name": "Gey",
-                    "value": 23923323
-                });
-                console.log("after")
-                this.single = [...single];
-                this.ref.detectChanges();
+
+                // this.single.push(a);
+                this.single = a;
+                // this.single = [...this.single];
+
             });
-
-
     }
 
     onSelect(event) {
