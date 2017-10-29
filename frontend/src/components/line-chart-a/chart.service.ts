@@ -20,7 +20,9 @@ export class ChartService {
         const request = BASE_URL.BASE_URL_BACKEND + '/stats/' + d.key;
         return this.http.get(request)
             .map(response => response.json())
+
             .concatMap(resultList => {
+                console.log(resultList)
                 return Observable.from(resultList)
                     .map(result => new SearchResults(result))
             });

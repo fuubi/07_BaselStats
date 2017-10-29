@@ -32,13 +32,11 @@ export class LineChartAComponent {
     autoScale = true;
 
 
-    constructor(private chartService: ChartService,
-                private ref: ChangeDetectorRef) {
+    constructor(private chartService: ChartService) {
 
         this.chartService.data.asObservable()
             .subscribe(a => {
-                console.log("allo")
-                console.log(this.multi)
+
                 this.multi.push({
                     "name": "Gey",
                     "series": [
@@ -52,7 +50,6 @@ export class LineChartAComponent {
                         }
                     ]
                 });
-                console.log("after")
                 this.multi = [...multi];
                 this.ref.detectChanges();
             });
