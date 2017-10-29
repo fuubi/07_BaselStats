@@ -58,8 +58,6 @@ export class LineChartAComponent {
             });
 
 
-        //console.log(this.chart)
-
     }
 
     onSelect(event) {
