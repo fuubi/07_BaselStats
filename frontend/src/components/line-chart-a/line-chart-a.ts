@@ -12,8 +12,8 @@ export class LineChartAComponent {
     multi: any[] = [];
 
     view: any[] = [
-        window.innerWidth - 0.3 * window.innerWidth,
-        window.innerHeight - 0.3 * window.innerHeight];
+        window.innerWidth * 0.8,
+        window.innerHeight * 0.8];
 
     // options
     showXAxis = true;

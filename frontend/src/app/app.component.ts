@@ -24,14 +24,13 @@ export class MyApp {
     constructor(public platform: Platform, public statusBar: StatusBar, public splashScreen: SplashScreen) {
         this.initializeApp();
 
-            // used for an example of ngFor and navigation
-            this.pages = [
+        // used for an example of ngFor and navigation
+        this.pages = [
             {title: 'Home', component: HomePage},
             {title: 'About', component: AboutPage},
-            {title: 'Contacts and Links', component: ContactAndLinksPage},
-            {title: 'Holo Lens', component: HoloLensPage},
             {title: 'Statistic Data Api', component: ApiPage},
-            {title: 'Map', component: MapPage}
+            {title: 'Contacts and Links', component: ContactAndLinksPage},
+            {title: 'Holo Lens', component: HoloLensPage}
         ];
 
     }
