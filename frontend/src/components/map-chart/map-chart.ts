@@ -9,7 +9,7 @@ import { TreeMapComponent } from '@swimlane/ngx-charts';
 })
 export class MapChartComponent {
     single: any[] = single;
-    multi: any[] = multi;
+    multi: any[] = [];
 
     view: any[] = [1400, 800];
 
@@ -18,6 +18,12 @@ export class MapChartComponent {
 
     colorScheme = {
         domain: ['#b24d4e', '#577b98', '#659663', '#88638e', '#bf7f40', '#cccc66', '#865e48', '#da9ebe', '#999999', '#b24d4e', '#577b98', '#659663', '#88638e', '#bf7f40', '#cccc66', '#865e48', '#da9ebe', '#999999', '#b24d4e', '#577b98', '#659663', '#88638e', '#bf7f40', '#cccc66', '#865e48', '#da9ebe', '#999999', '#b24d4e', '#577b98', '#659663', '#88638e', '#bf7f40', '#cccc66', '#865e48', '#da9ebe', '#999999', '#b24d4e', '#577b98', '#659663', '#88638e', '#bf7f40', '#cccc66', '#865e48', '#da9ebe', '#999999', '#b24d4e', '#577b98', '#659663', '#88638e', '#bf7f40']
+    };
+
+    showedDiagram : number = 0;
+
+    switchOtherMap = () => {
+        this.showedDiagram = (this.showedDiagram+1) % 3;
     };
 
     valueFormatting = (data) => {
@@ -38,7 +44,7 @@ export class MapChartComponent {
     }
 
     onSelect(event) {
-        console.log(event);
+        //console.log(event);
     }
 
 }

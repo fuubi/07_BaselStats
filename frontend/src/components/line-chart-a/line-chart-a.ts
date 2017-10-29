@@ -27,6 +27,12 @@ export class LineChartAComponent {
     yAxisTickFormatting = (data) => data;
     yAxisLabel = 'Anzahl oder Anteil';
 
+    showedDiagram = 0;
+
+    switchMultiChart = () => {
+        this.showedDiagram = (this.showedDiagram+1) % 4;
+    };
+
     colorScheme = {
         domain:
             ['#b24d4e ', '#577b98 ', '#659663 ', '#88638e ',
@@ -47,7 +53,6 @@ export class LineChartAComponent {
 
 
     constructor(private chartService: ChartService, private searchService:SearchService) {
-
         this.chartService.data.asObservable()
             .subscribe(a => {
 
