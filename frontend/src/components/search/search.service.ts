@@ -1,6 +1,7 @@
 import { Injectable } from '@angular/core';
 import { Observable, Subject } from 'rxjs';
 import { Http } from '@angular/http';
+import constants from '../../constants';
 
 @Injectable()
 export class SearchService {
@@ -11,16 +12,22 @@ export class SearchService {
     constructor(private http:Http) {
         this.allItems = Observable.from(['hi', 'foo', 'baa', 'auto']);
 
-    /*
-    this.allitems = this.http.get(base_url.base_url_elastic)
-    */
+        // this.allitems = this.getPredictions();
+
 
     }
 
-    getPredictions(query: string): Observable<string> {
-        console.log("Searching for " + query);
-        return this.allItems
-            .filter((item: string) => item.startsWith(query));
+    getPredictions(query: string): Observable<ValueKey> {
+        console.log("Searching for " + query );
+        return this.http.get("http://localhost:5000"+'/auto?term='+query)
+            .map(response => response.json())
+            .concatMap(vk => {
+                console.log(vk)
+                return Observable.from(vk)
+                    .map(vk => new ValueKey(vk))
+
+            })
+            .do(console.log);
     }
 
     addQueriedItem(item:string) {
@@ -36,4 +43,15 @@ export class SearchService {
         }
         this.queriedItems.next(this.queriedItemsList)
     }
+}
+
+export class ValueKey {
+    public value:string;
+    public key:string;
+
+    constructor(valueKey:any){
+        this.key = valueKey[0];
+        this.value = valueKey[1];
+    }
+
 }

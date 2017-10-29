@@ -1,9 +1,11 @@
 from flask import Flask, redirect, session, jsonify, request, render_template, url_for, send_from_directory
+from flask_cors import CORS
 import sys
 import json
 from elasticsearch import Elasticsearch
 
 app = Flask(__name__, static_folder='frontend', static_url_path='')
+CORS(app)
 es = Elasticsearch([{'host': 'localhost', 'port': 9200}])
 data_model = json.load(open('datamodel.json', 'r'))
 
@@ -23,8 +25,8 @@ def stats_overview():
     app.logger.info('%s', es_tags)
     tags = es_tags.get('aggregations', {}).get('grouped_by_name', {}).get('buckets', [])
     for tag in tags:
-        tag['title'] = data_model[tag['key']]['Indikator_Titel']
-        tag['description'] = data_model[tag['key']]['Indikator_Beschrieb']
+        tag['title'] = data_model[tag['key']]['title']
+        tag['description'] = data_model[tag['key']]['description']
     return jsonify(tags)
 
 @app.route('/stats/<key>')
@@ -61,9 +63,10 @@ def stats(key):
                         }  
                     })
     stats = stats_es.get('aggregations', {}).get('years', {}).get('buckets', [])
-    years = [year['key'] for year in stats]
-    sum = [year['sum']['value'] for year in stats]
-    return jsonify({'years': years, 'sum': sum})
+    #years = [year['key'] for year in stats]
+    #sum = [year['sum']['value'] for year in stats]
+    #return jsonify({'years': years, 'sum': sum})
+    return jsonify(stats)
 
 
 @app.route('/mapStats/<key>')
@@ -98,6 +101,36 @@ def mapStats(key):
     #sum = [year['sum']['value'] for year in stats]
     #result = {'wbe': years, 'sum': sum}
     return jsonify(stats)
+
+@app.route('/auto')
+def auto_completion():
+    term = request.args.get('term', '')
+    if len(term) <= 3:
+        return jsonify([])
+
+    app.logger.info("Term {}".format(term))
+    complet_es = es.search(index="baselhack",
+                         doc_type='dataset',
+                         body={
+                           "suggest":{
+                               "key-suggest": {
+                                "text": term,
+                                "completion":{
+                                    "field":"autoComplete",
+                                    "size": 10000
+                                }
+                               }
+                            },
+                            #"aggs": {"grouped": {"terms": {"field": "indicator.id", "size": 1000}}}
+                    })
+    #complete = complet_es.get('aggregations', {}).get('grouped', {}).get('buckets', [])
+    suggests = complet_es['suggest']['key-suggest'][0]['options']
+    found_sug = {}
+    for sug in suggests:
+        found_sug[sug['_source']['indicator']['id']] = sug['_source']['indicator']['title']
+    #return jsonify([data_model[elem['key']]['title'] for elem in complete])
+    return jsonify([[key, value] for key, value in found_sug.items()])
+
 
 @app.route('/compare/<key>')
 def compare(key):
