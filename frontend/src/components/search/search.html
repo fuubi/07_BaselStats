@@ -9,6 +9,6 @@
 <ion-list>
     <button ion-item *ngFor="let item of autocompleteItems"
             (click)="itemSelected(item)">
-        {{ item }}
+        {{ item.value }}
     </button>
 </ion-list>

@@ -17,26 +17,17 @@ export class SearchService {
 
     }
 
-    getPredictions(query: string): Observable<string> {
+    getPredictions(query: string): Observable<ValueKey> {
         console.log("Searching for " + query );
-        return this.http.get("http://localhost:5000"+'/auto?term='+query).map(response => {
-            const data = response.json();
+        return this.http.get("http://localhost:5000"+'/auto?term='+query)
+            .map(response => response.json())
+            .concatMap(vk => {
+                console.log(vk)
+                return Observable.from(vk)
+                    .map(vk => new ValueKey(vk))
 
-            return data
-            console.log("Test"+JSON.stringify(data));
-
-            return "Test";
-            /*return data.body.map(row => {
-                return row[1];
-            });
-
-            const key = data[0];
-            const title = data[1];
-            console.log("Test"+JSON.stringify(data));*/
-            //return data['body'];
-        });
-        /*return this.allItems
-            .filter((item: string) => item.startsWith(query));*/
+            })
+            .do(console.log);
     }
 
     addQueriedItem(item:string) {
@@ -52,4 +43,15 @@ export class SearchService {
         }
         this.queriedItems.next(this.queriedItemsList)
     }
+}
+
+export class ValueKey {
+    public value:string;
+    public key:string;
+
+    constructor(valueKey:any){
+        this.key = valueKey[0];
+        this.value = valueKey[1];
+    }
+
 }

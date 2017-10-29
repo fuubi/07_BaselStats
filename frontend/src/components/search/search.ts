@@ -1,5 +1,5 @@
 import { Component, Output, EventEmitter, OnInit, ViewChild } from '@angular/core';
-import { SearchService } from './search.service';
+import {SearchService,  ValueKey} from './search.service';
 import { QueriesBoxComponent } from '../queries-box/queries-box';
 
 /**
@@ -13,7 +13,7 @@ import { QueriesBoxComponent } from '../queries-box/queries-box';
     templateUrl: 'search.html'
 })
 export class SearchComponent implements OnInit{
-    autocompleteItems;
+    autocompleteItems: ValueKey[];
     autocomplete;
     queriedItems;
     text: string;
