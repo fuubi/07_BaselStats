@@ -11,17 +11,29 @@ using MiniJSON;
 public class SVGFileReader
 {
 
+
+
+    // public static List<Zone> readZones(string path)
     public static List<Zone> readZones(string path)
     {
         float pointNormalizationFactor = 50f;
         List<Zone> zoneList = new List<Zone>();
 
-        var streamReader = new StreamReader(new FileStream(path, FileMode.Open));
-        string data = streamReader.ReadToEnd();
-        streamReader.Dispose();
+         var streamReader = new StreamReader(new FileStream(path, FileMode.Open));
+         string data = streamReader.ReadToEnd();
+         streamReader.Dispose();
+         
+
+        /*
+        TextAsset dataAsset = Resources.Load(path) as TextAsset;
+        string data = dataAsset.text;
+        */
+
+   
+        
 
         object dict = Json.Deserialize(data);
-
+        
         foreach (object listItem in (List<object>)dict)
         {
             object id;
@@ -48,6 +60,7 @@ public class SVGFileReader
                     {
                         string c = (string)coordinates;
                         string[] values = c.Split(' ');
+                        Vector3 previousVec = new Vector3();
                         for (int i = 0; i < values.Length; i++)
                         {
                             string[] pointCoord = values[i].Split(',');
@@ -55,14 +68,18 @@ public class SVGFileReader
                             {
                                 float pointCoordFloat1;
                                 float pointCoordFloat2;
+                                
                                 if (float.TryParse(pointCoord[0], out pointCoordFloat1) && float.TryParse(pointCoord[1], out pointCoordFloat2))
                                 {
                                     Vector3 vec = new Vector3();
-                                    vec.Set(pointCoordFloat1, 0, pointCoordFloat2);
+                                    vec.Set(pointCoordFloat1 + previousVec.x, 0 , pointCoordFloat2 + previousVec.z);
+                                    previousVec = vec;
                                     pointList.Add(vec);
                                 }
                             }
+                           
                         }
+                       
                         newZone.setPointList(pointList);
 
                     }
