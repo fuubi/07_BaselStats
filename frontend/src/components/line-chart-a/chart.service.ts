@@ -1,18 +1,39 @@
-import { Injectable } from '@angular/core';
-import { LineChartData, LineChartColors } from './model';
-import { Observable, Subject } from 'rxjs';
-import { SearchService } from '../search/search.service';
-import { multi } from './data';
+import {Injectable} from '@angular/core';
+import {Observable, Subject} from 'rxjs';
+import {Http} from '@angular/http';
+import {SearchService, ValueKey} from '../search/search.service';
+import {BASE_URL} from '../../constants';
 
 @Injectable()
 export class ChartService {
-    public data: Subject<any>  = new Subject();
-    constructor(private searchService: SearchService) {
+    public data: Subject<any> = new Subject();
+
+    constructor(private searchService: SearchService, private http: Http) {
         this.searchService.queriedItems
             .asObservable()
-            .subscribe(d => {
-                this.data.next(multi)
-            });
-
+            .concatMap(vk =>
+                    vk.length > 0 ? this.getSearchResult(vk[vk.length-1]) : []
+            ).subscribe(console.log)
     }
+
+    public getSearchResult(d: ValueKey): Observable<SearchResults> {
+        const request = BASE_URL.BASE_URL_BACKEND + '/stats/' + d.key;
+        return this.http.get(request)
+            .map(response => response.json())
+            .concatMap(resultList => {
+                return Observable.from(resultList)
+                    .map(result => new SearchResults(result))
+            });
+    }
+}
+
+export class SearchResults {
+    public key: string;
+    public sum: number;
+
+    constructor(searchResult: any) {
+        this.key = searchResult.key;
+        this.sum = searchResult.sum.value;
+    }
+
 }

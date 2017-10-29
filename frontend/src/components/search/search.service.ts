@@ -6,8 +6,8 @@ import { BASE_URL } from '../../constants';
 @Injectable()
 export class SearchService {
     private allItems: Observable<string>;
-    private queriedItemsList: string[] = [];
-    public queriedItems: Subject<string[]> = new Subject();
+    private queriedItemsList: ValueKey[] = [];
+    public queriedItems: Subject<ValueKey[]> = new Subject();
 
     constructor(private http:Http) {
         this.allItems = Observable.from(['hi', 'foo', 'baa', 'auto']);
@@ -30,13 +30,13 @@ export class SearchService {
             .do(console.log);
     }
 
-    addQueriedItem(item:string) {
+    addQueriedItem(item: ValueKey) {
         this.queriedItemsList.push(item);
         this.queriedItems.next(this.queriedItemsList)
     }
 
 
-    removeQueriedItem(item: string) {
+    removeQueriedItem(item: ValueKey) {
         let idx = this.queriedItemsList.indexOf(item)
         if (idx > -1) {
             this.queriedItemsList.splice(idx, 1);
