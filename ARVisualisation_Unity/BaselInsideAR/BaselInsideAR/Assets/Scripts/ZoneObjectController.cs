@@ -8,7 +8,7 @@ public class ZoneObjectController : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-        zone = new Zone("firstZone");
+        
 	}
 	
 	// Update is called once per frame

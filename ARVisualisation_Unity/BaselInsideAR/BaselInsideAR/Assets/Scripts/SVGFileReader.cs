@@ -14,10 +14,11 @@ using MiniJSON;
 
 public class SVGFileReader
     {
-
+ 
     public static List<Zone> readZones(string path)
     {
-        List<Zone> zoneList = new List<Zone>();
+    float pointNormalizationFactor = 50f;
+    List<Zone> zoneList = new List<Zone>();
 
         var streamReader = new StreamReader(path);
         string data = streamReader.ReadToEnd();
@@ -25,8 +26,23 @@ public class SVGFileReader
 
 
         RootObject rootObject = JsonReader.Deserialize<RootObject>(data);
-        Debug.Log("stuff");
-        Debug.Log(rootObject.features[0].geometry.coordinates);
+        rootObject.features.ForEach(delegate (Feature feature)
+        {
+            Zone zone = new Zone(feature.properties.BEZ_ID, feature.properties.BEZ_NAME);
+            zoneList.Add(zone);
+            List<Vector3> pointList = new List<Vector3>();
+            feature.geometry.coordinates.ForEach(delegate (List<List<float>> list1)
+
+            {
+                list1.ForEach(delegate (List<float> coordinatePair){
+                    Vector3 vec = new Vector3();
+                    vec.Set(coordinatePair[0]/pointNormalizationFactor - 52212f, 0, coordinatePair[1]/pointNormalizationFactor - 15350f);
+                    pointList.Add(vec);
+            });
+
+            });
+            zone.setPointList(pointList);
+        });
         return zoneList;
     }
 }
@@ -34,15 +50,17 @@ public class SVGFileReader
 public class Geometry
 {
     public string type { get; set; }
-    public List<List<List<double>>> coordinates { get; set; }
+    public List<List<List<float>>> coordinates { get; set; }
 }
 
 public class Properties
 {
-    public string BEZ_ID { get; set; }
+    public int BEZ_ID { get; set; }
     public string BEZ_NAME { get; set; }
     public string BEZ_LABEL { get; set; }
     public string WOV_ID { get; set; }
+    public string WOV_NAME { get; set; }
+    public string WOV_LABEL { get; set; }
     public double Area { get; set; }
 }
 
