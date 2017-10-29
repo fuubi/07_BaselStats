@@ -8,7 +8,7 @@ import { single, multi } from './data';
 })
 export class LineChartAComponent {
     single: any[] = single;
-    multi: any[] = multi;
+    multi: any[] = [];
 
     view: any[] = [700, 400];
 
@@ -36,7 +36,7 @@ export class LineChartAComponent {
             .subscribe(a => {
 
                 this.multi.push(a);
-                this.multi = [...multi];
+                this.multi = [...this.multi];
 
             });
 

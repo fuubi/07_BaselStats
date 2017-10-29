@@ -15,23 +15,12 @@ export class ChartService {
             .concatMap(vk =>
                 vk.length > 0 ? this.getSearchResult(vk[vk.length - 1]) : []
             )
-            .do(console.log)
 
             .subscribe(d => {
                 console.log(d)
-                this.data.next({
-                    "name": "Gey",
-                    "series": [
-                        {
-                            "name": "2010",
-                            "value": 700000
-                        },
-                        {
-                            "name": "2011",
-                            "value": 8940000
-                        }
-                    ]
-                })
+                this.data.next(
+                    d
+                )
             })
     }
 
@@ -65,9 +54,9 @@ export class LineChartModel {
 
     constructor(resultList: any[],value:string) {
         this.name = value;
-        Observable.from(resultList)
-            .map(result => new SearchResults(result))
-            .subscribe(resultList => this.series.push(resultList))
+        resultList.forEach(result  => {
+            this.series.push(new ValueName(result))
+        })
 
     }
 
@@ -79,8 +68,8 @@ export class ValueName {
     public name: string;
 
     constructor(searchResult: any) {
-        this.value = searchResult.key;
-        this.name = searchResult.sum.value;
+        this.name = searchResult.key;
+        this.value = searchResult.sum.value;
     }
 
 }
