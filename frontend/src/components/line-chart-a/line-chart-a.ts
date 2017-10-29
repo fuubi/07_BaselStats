@@ -1,8 +1,6 @@
 import { Component, ViewChild, ChangeDetectorRef } from '@angular/core';
 import { ChartService } from './chart.service';
 import { single, multi } from './data';
-import { BaseChartDirective } from 'ng2-charts';
-import { LineChartComponent } from '@swimlane/ngx-charts';
 
 @Component({
     selector: 'line-chart-a',
@@ -39,7 +37,7 @@ export class LineChartAComponent {
 
                 this.multi.push(a);
                 this.multi = [...multi];
-                this.ref.detectChanges();
+
             });
 
 

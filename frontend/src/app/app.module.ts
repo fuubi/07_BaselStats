@@ -12,12 +12,17 @@ import { ComponentsModule } from '../components/components.module';
 import { ChartsModule } from 'ng2-charts';
 import { NgxChartsModule } from '@swimlane/ngx-charts';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+import { AboutPage } from '../pages/about/about';
+import { HoloLensPage } from '../pages/holo-lens/holo-lens';
+import { ContactAndLinksPage } from '../pages/contact-and-links/contact-and-links';
 
 @NgModule({
     declarations: [
         MyApp,
         HomePage,
-        ListPage
+        AboutPage,
+        ContactAndLinksPage,
+        HoloLensPage
     ],
     imports: [
         BrowserModule,
@@ -31,7 +36,9 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
     entryComponents: [
         MyApp,
         HomePage,
-        ListPage
+        AboutPage,
+        HoloLensPage,
+        ContactAndLinksPage
     ],
     providers: [
         StatusBar,

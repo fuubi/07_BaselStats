@@ -13,7 +13,7 @@ import { SearchService } from '../search/search.service';
     templateUrl: 'queries-box.html'
 })
 export class QueriesBoxComponent {
-    queries: string[];
+    queries: any[];
 
     constructor(private searchService: SearchService) {
         console.log('Hello QueriesBoxComponent Component');
