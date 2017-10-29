@@ -1,16 +1,37 @@
 <ion-header>
-  <ion-navbar>
-    <button ion-button menuToggle>
-      <ion-icon name="menu"></ion-icon>
-    </button>
-    <ion-title>BaselStats</ion-title>
+    <ion-navbar>
+        <button ion-button menuToggle>
+            <ion-icon name="menu"></ion-icon>
+        </button>
+        <ion-title>BaselStats</ion-title>
 
-  </ion-navbar>
+    </ion-navbar>
 </ion-header>
 
 <ion-content padding>
-  <h3>Start exploring your local area</h3>
+    <h3>Start exploring your local area</h3>
 
-  <search style="height: 5vh;width: 80vw"></search>
-  <line-chart-a></line-chart-a>
+    <search style="height: 5vh;width: 80vw"></search>
+    <div style="display:flex;flex-direction: column; width:90vw; height: 90vw">
+        <div
+                style="display: flex; flex: 0.05"
+        ></div>
+
+        <div
+                style="display: flex; flex: 1; flex-direction: row"
+        >
+            <queries-box style="display: flex;flex: 0.2;"
+
+            >
+
+            </queries-box>
+            <line-chart-a
+                    style="display: flex; flex: 1"
+            ></line-chart-a>
+
+
+        </div>
+        </div>
+
+
 </ion-content>
