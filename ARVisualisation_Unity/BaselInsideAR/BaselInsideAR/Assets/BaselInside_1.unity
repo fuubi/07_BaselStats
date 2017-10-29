@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.45011294, g: 0.50015485, b: 0.57545805, a: 1}
+  m_IndirectSpecularColor: {r: 0.45011288, g: 0.50015485, b: 0.57545817, a: 1}
 --- !u!157 &3
 LightmapSettings:
   m_ObjectHideFlags: 0
@@ -175,7 +175,6 @@ Camera:
   m_TargetEye: 3
   m_HDR: 1
   m_AllowMSAA: 1
-  m_AllowDynamicResolution: 0
   m_ForceIntoRT: 0
   m_OcclusionCulling: 1
   m_StereoConvergence: 10
@@ -234,6 +233,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   zonePrefab: {fileID: 1964325657765246, guid: 9d518928b6339304581eff5ce6e38577, type: 2}
+  MeshPrefab: {fileID: 1121803219650672, guid: 1fae28a7da1d2124789dec66450c0ac4, type: 2}
 --- !u!1 &339996102
 GameObject:
   m_ObjectHideFlags: 0
@@ -392,6 +392,52 @@ Prefab:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: b3d0fa1645b2b1a4398aca020e52925e, type: 2}
+  m_IsPrefabParent: 0
+--- !u!1001 &1397793109
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4413801568655210, guid: 1fae28a7da1d2124789dec66450c0ac4, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: -0.9685061
+      objectReference: {fileID: 0}
+    - target: {fileID: 4413801568655210, guid: 1fae28a7da1d2124789dec66450c0ac4, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 0.055087328
+      objectReference: {fileID: 0}
+    - target: {fileID: 4413801568655210, guid: 1fae28a7da1d2124789dec66450c0ac4, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 1.3617938
+      objectReference: {fileID: 0}
+    - target: {fileID: 4413801568655210, guid: 1fae28a7da1d2124789dec66450c0ac4, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4413801568655210, guid: 1fae28a7da1d2124789dec66450c0ac4, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4413801568655210, guid: 1fae28a7da1d2124789dec66450c0ac4, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4413801568655210, guid: 1fae28a7da1d2124789dec66450c0ac4, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4413801568655210, guid: 1fae28a7da1d2124789dec66450c0ac4, type: 2}
+      propertyPath: m_RootOrder
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 1121803219650672, guid: 1fae28a7da1d2124789dec66450c0ac4, type: 2}
+      propertyPath: m_Name
+      value: MeshObject
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 1fae28a7da1d2124789dec66450c0ac4, type: 2}
   m_IsPrefabParent: 0
 --- !u!1001 &1551661904
 Prefab:

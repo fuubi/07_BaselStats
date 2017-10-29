@@ -37,6 +37,7 @@ public class SVGFileReader
                 list1.ForEach(delegate (List<float> coordinatePair){
                     Vector3 vec = new Vector3();
                     vec.Set(coordinatePair[0]/pointNormalizationFactor - 52212f, 0, coordinatePair[1]/pointNormalizationFactor - 15350f);
+                    //vec.Set(coordinatePair[0], 0, coordinatePair[1]);
                     pointList.Add(vec);
             });
 
