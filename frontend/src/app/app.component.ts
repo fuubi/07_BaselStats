@@ -7,7 +7,9 @@ import { HomePage } from '../pages/home/home';
 import { AboutPage } from '../pages/about/about';
 import { ContactAndLinksPage } from '../pages/contact-and-links/contact-and-links';
 import { HoloLensPage } from '../pages/holo-lens/holo-lens';
+import { MapPage } from '../pages/map/map';
 import { ApiPage } from '../pages/api/api';
+
 
 @Component({
     templateUrl: 'app.html'
@@ -22,15 +24,14 @@ export class MyApp {
     constructor(public platform: Platform, public statusBar: StatusBar, public splashScreen: SplashScreen) {
         this.initializeApp();
 
-        // used for an example of ngFor and navigation
-        this.pages = [
+            // used for an example of ngFor and navigation
+            this.pages = [
             {title: 'Home', component: HomePage},
             {title: 'About', component: AboutPage},
             {title: 'Contacts and Links', component: ContactAndLinksPage},
             {title: 'Holo Lens', component: HoloLensPage},
             {title: 'Api', component: ApiPage},
-
-
+            {title: 'Map', component: MapPage}
         ];
 
     }

@@ -2,12 +2,14 @@ from flask import Flask, redirect, session, jsonify, request, render_template, u
 from flask_cors import CORS
 import sys
 import json
+import os
 from elasticsearch import Elasticsearch
 
 app = Flask(__name__, static_folder='frontend', static_url_path='')
 CORS(app)
-es = Elasticsearch([{'host': 'localhost', 'port': 9200}])
+es = Elasticsearch([{'host': os.environ.get('ELASTIC_HOST', 'localhost'), 'port': 9200}])
 data_model = json.load(open('datamodel.json', 'r'))
+bezirke = json.load(open('Bezirke.json', 'r'))
 
 # test purpose
 @app.route('/')
@@ -131,6 +133,9 @@ def auto_completion():
     #return jsonify([data_model[elem['key']]['title'] for elem in complete])
     return jsonify([[key, value] for key, value in found_sug.items()])
 
+@app.route('/bezirke')
+def getBezirke():
+    return jsonify(bezirke)
 
 @app.route('/compare/<key>')
 def compare(key):
@@ -203,7 +208,7 @@ def compare(key):
             result.append({})
     return jsonify(result)
 def main():
-    app.run(debug=True)
+    app.run(debug=True, host='0.0.0.0')
 
 if __name__ == '__main__':
     main()
