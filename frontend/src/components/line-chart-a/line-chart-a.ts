@@ -57,6 +57,7 @@ export class LineChartAComponent {
                 this.ref.detectChanges();
             });
 
+
     }
 
     onSelect(event) {
