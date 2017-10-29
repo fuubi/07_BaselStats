@@ -24,7 +24,7 @@ export class ChartService {
             })
     }
 
-    public getSearchResult(d: ValueKey): Observable<SearchResults> {
+    public getSearchResult(d: ValueKey): Observable<LineChartModel> {
         const request = BASE_URL.BASE_URL_BACKEND + 'stats/' + d.key;
         return this.http.get(request)
             .map(response => response.json())
