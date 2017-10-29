@@ -13,11 +13,11 @@ import {SearchService, ValueKey} from '../search/search.service';
     templateUrl: 'queries-box.html'
 })
 export class QueriesBoxComponent {
-<<<<<<< HEAD
-    queries: any[];
-=======
+
+
+
     queries: ValueKey[];
->>>>>>> 36a41db0127e2f342d64914348ca2f5a6e1941d7
+
 
     constructor(private searchService: SearchService) {
         console.log('Hello QueriesBoxComponent Component');
