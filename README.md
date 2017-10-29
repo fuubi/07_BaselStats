@@ -37,11 +37,21 @@ For the database run an Elasticsearch database and setup the schema. For that ru
 
 ### Ionic App
 Install the dependencies
-````
+```
 cd frontend
 npm install
 npm run ionic:serve
 ```
+
+## Structure
+* data Information about the structure 
+* database Files for get the Data from Basel Stadt, convert it to json file and import to Elasticsearch
+* docker Build all containers
+* frontend Coce for the frontend
+* scripts Some useful scripts to extract data from svg graphics
+* server the backend to run the flask server
+* setup_schema Build the schema for the Elasticsearch database
+
 ---
 
 Team:
