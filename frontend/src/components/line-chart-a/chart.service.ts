@@ -43,7 +43,7 @@ export class ChartService {
             .map(resultList => {
                 console.log(resultList)
 
-                return new LineChartModel(resultList)
+                return new LineChartModel(resultList,d.value)
             });
     }
 }
@@ -63,8 +63,8 @@ export class LineChartModel {
     public name: string;
     public series: ValueName[] = [];
 
-    constructor(resultList: any[]) {
-        this.name = "hi";
+    constructor(resultList: any[],value:string) {
+        this.name = value;
         Observable.from(resultList)
             .map(result => new SearchResults(result))
             .subscribe(resultList => this.series.push(resultList))
