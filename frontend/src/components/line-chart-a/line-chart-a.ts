@@ -11,13 +11,15 @@ export class LineChartAComponent {
     single: any[] = single;
     multi: any[] = [];
 
-    view: any[] = [700, 400];
+    view: any[] = [
+        window.innerWidth - 0.2 * window.innerWidth,
+        window.innerHeight - 0.2 * window.innerHeight];
 
     // options
     showXAxis = true;
     showYAxis = true;
     gradient = false;
-    showLegend = true;
+    showLegend = false;
     showXAxisLabel = true;
     xAxisLabel = 'Years';
     showYAxisLabel = true;
