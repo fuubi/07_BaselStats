@@ -14,8 +14,6 @@ import {SearchService, ValueKey} from '../search/search.service';
 })
 export class QueriesBoxComponent {
 
-
-
     queries: ValueKey[];
 
 
