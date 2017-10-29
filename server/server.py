@@ -63,9 +63,10 @@ def stats(key):
                         }  
                     })
     stats = stats_es.get('aggregations', {}).get('years', {}).get('buckets', [])
-    years = [year['key'] for year in stats]
-    sum = [year['sum']['value'] for year in stats]
-    return jsonify({'years': years, 'sum': sum})
+    #years = [year['key'] for year in stats]
+    #sum = [year['sum']['value'] for year in stats]
+    #return jsonify({'years': years, 'sum': sum})
+    return jsonify(stats)
 
 
 @app.route('/mapStats/<key>')
@@ -128,7 +129,7 @@ def auto_completion():
     for sug in suggests:
         found_sug[sug['_source']['indicator']['id']] = sug['_source']['indicator']['title']
     #return jsonify([data_model[elem['key']]['title'] for elem in complete])
-    return jsonify(found_sug)
+    return jsonify([[key, value] for key, value in found_sug.items()])
 
 
 @app.route('/compare/<key>')
