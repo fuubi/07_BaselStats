@@ -14,23 +14,20 @@ public class SVGFileReader
 
 
 
-    // public static List<Zone> readZones(string path)
-    public static List<Zone> readZones(string data)
+     public static List<Zone> readZones(string path)
+    //public static List<Zone> readZones(string data)
     {
-        float pointNormalizationFactor = 50f;
+       // float pointNormalizationFactor = 50f;
         List<Zone> zoneList = new List<Zone>();
 
-        /* var streamReader = new StreamReader(new FileStream(path, FileMode.Open));
+         var streamReader = new StreamReader(new FileStream(path, FileMode.Open));
          string data = streamReader.ReadToEnd();
          streamReader.Dispose();
-         */
+         
 
           /*     TextAsset dataAsset = Resources.Load(path) as TextAsset;
         string data = dataAsset.text;
         */
-
-   
-        
 
         object dict = Json.Deserialize(data);
         
