@@ -16,10 +16,7 @@ export class SearchComponent implements OnInit{
     autocompleteItems;
     autocomplete;
     queriedItems;
-   text: string;
-
-
-
+    text: string;
 
     constructor(private searchService:SearchService) {
 
