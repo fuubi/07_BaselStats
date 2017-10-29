@@ -8,12 +8,9 @@ export class SearchService {
     private allItems: Observable<string>;
     private queriedItemsList: ValueKey[] = [];
     public queriedItems: Subject<ValueKey[]> = new Subject();
+    public removeItemWithIndex: Subject<number> = new Subject();
 
     constructor(private http:Http) {
-        this.allItems = Observable.from(['hi', 'foo', 'baa', 'auto']);
-
-        // this.allitems = this.getPredictions();
-
 
     }
 
@@ -41,8 +38,9 @@ export class SearchService {
         let idx = this.queriedItemsList.indexOf(item)
         if (idx > -1) {
             this.queriedItemsList.splice(idx, 1);
+            this.removeItemWithIndex.next(1);
         }
-        this.queriedItems.next(this.queriedItemsList)
+
     }
 }
 
