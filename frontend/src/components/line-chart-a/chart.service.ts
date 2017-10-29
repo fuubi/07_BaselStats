@@ -13,11 +13,26 @@ export class ChartService {
             .asObservable()
             .concatMap(vk =>
                     vk.length > 0 ? this.getSearchResult(vk[vk.length-1]) : []
-            ).subscribe(console.log)
+            )
+            .do(console.log)
+
+            .subscribe(d => this.data.next({
+                "name": "Gey",
+                "series": [
+                    {
+                        "name": "2010",
+                        "value": 700000
+                    },
+                    {
+                        "name": "2011",
+                        "value": 8940000
+                    }
+                ]
+            }))
     }
 
     public getSearchResult(d: ValueKey): Observable<SearchResults> {
-        const request = BASE_URL.BASE_URL_BACKEND + '/stats/' + d.key;
+        const request = BASE_URL.BASE_URL_BACKEND + 'stats/' + d.key;
         return this.http.get(request)
             .map(response => response.json())
 

@@ -37,19 +37,7 @@ export class LineChartAComponent {
         this.chartService.data.asObservable()
             .subscribe(a => {
 
-                this.multi.push({
-                    "name": "Gey",
-                    "series": [
-                        {
-                            "name": "2010",
-                            "value": 700000
-                        },
-                        {
-                            "name": "2011",
-                            "value": 8940000
-                        }
-                    ]
-                });
+                this.multi.push(a);
                 this.multi = [...multi];
                 this.ref.detectChanges();
             });
