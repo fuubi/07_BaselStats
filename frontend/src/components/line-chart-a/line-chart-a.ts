@@ -18,11 +18,11 @@ export class LineChartAComponent {
     gradient = false;
     showLegend = true;
     showXAxisLabel = true;
-    xAxisLabel = 'Years';
+    xAxisLabel = 'Jahr';
     showYAxisLabel = true;
     xAxisTickFormatting = (data) =>  data;
     yAxisTickFormatting = (data) => data;
-    yAxisLabel = 'Population';
+    yAxisLabel = 'Anzahl oder Anteil';
 
     colorScheme = {
         domain: ['#5AA454', '#A10A28', '#C7B42C', '#AAAAAA']
