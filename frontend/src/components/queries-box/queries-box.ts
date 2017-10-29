@@ -13,7 +13,9 @@ import {SearchService, ValueKey} from '../search/search.service';
     templateUrl: 'queries-box.html'
 })
 export class QueriesBoxComponent {
+
     queries: ValueKey[];
+
 
     constructor(private searchService: SearchService) {
         console.log('Hello QueriesBoxComponent Component');

@@ -19,9 +19,10 @@ export class SearchService {
 
     getPredictions(query: string): Observable<ValueKey> {
         console.log("Searching for " + query );
-        return this.http.get(BASE_URL.BASE_URL_BACKEND+'/auto?term='+query)
+        return this.http.get(BASE_URL.BASE_URL_BACKEND+'auto?term='+query)
             .map(response => response.json())
             .concatMap(vk => {
+                console.log(BASE_URL.BASE_URL_BACKEND+'auto?term='+query)
                 console.log(vk)
                 return Observable.from(vk)
                     .map(vk => new ValueKey(vk))
