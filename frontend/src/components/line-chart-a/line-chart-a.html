@@ -1,5 +1,5 @@
 
-    <ngx-charts-line-chart
+    <ngx-charts-line-chart *ngIf="showedDiagram==0"
             [view]="view"
             [scheme]="colorScheme"
             [results]="multi"
@@ -16,3 +16,55 @@
             [autoScale]="autoScale"
             (select)="onSelect($event)">
     </ngx-charts-line-chart>
+
+
+    <ngx-charts-area-chart *ngIf="showedDiagram==1"
+            [view]="view"
+            [scheme]="colorScheme"
+            [results]="multi"
+            [gradient]="gradient"
+            [xAxis]="showXAxis"
+            [yAxis]="showYAxis"
+            [showXAxisLabel]="showXAxisLabel"
+            [showYAxisLabel]="showYAxisLabel"
+            [xAxisTickFormatting]="xAxisTickFormatting"
+            [yAxisTickFormatting]="yAxisTickFormatting"
+            [xAxisLabel]="xAxisLabel"
+            [yAxisLabel]="yAxisLabel"
+            [autoScale]="autoScale"
+            (select)="onSelect($event)">
+    </ngx-charts-area-chart>
+
+    <ngx-charts-area-chart-stacked *ngIf="showedDiagram==2"
+                           [view]="view"
+                           [scheme]="colorScheme"
+                           [results]="multi"
+                           [gradient]="gradient"
+                           [xAxis]="showXAxis"
+                           [yAxis]="showYAxis"
+                           [showXAxisLabel]="showXAxisLabel"
+                           [showYAxisLabel]="showYAxisLabel"
+                           [xAxisTickFormatting]="xAxisTickFormatting"
+                           [yAxisTickFormatting]="yAxisTickFormatting"
+                           [xAxisLabel]="xAxisLabel"
+                           [yAxisLabel]="yAxisLabel"
+                           (select)="onSelect($event)">
+    </ngx-charts-area-chart-stacked>
+
+    <ngx-charts-area-chart-normalized *ngIf="showedDiagram==3"
+                                   [view]="view"
+                                   [scheme]="colorScheme"
+                                   [results]="multi"
+                                   [gradient]="gradient"
+                                   [xAxis]="showXAxis"
+                                   [yAxis]="showYAxis"
+                                   [showXAxisLabel]="showXAxisLabel"
+                                   [showYAxisLabel]="showYAxisLabel"
+                                   [xAxisTickFormatting]="xAxisTickFormatting"
+                                   [yAxisTickFormatting]="yAxisTickFormatting"
+                                   [xAxisLabel]="xAxisLabel"
+                                   [yAxisLabel]="yAxisLabel"
+                                   (select)="onSelect($event)">
+    </ngx-charts-area-chart-normalized>
+
+    <button (click)="switchMultiChart()">Switch Line Diargram</button>
