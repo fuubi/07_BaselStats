@@ -1,5 +1,6 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using System.IO;
 using UnityEngine;
 
 
@@ -11,18 +12,34 @@ public class SceneController : MonoBehaviour {
 
 
     // Read the svg file
-    public string url = "http://127.0.0.1:8080/svg/Bezirke.json";
+    private string url = "http://baselhack.nicolasmauchle.ch/bezirke";
 
-    //IEnumerator Start()
-    void Start()
+    IEnumerator Start()
+    //void Start()
     {
+        string data = "";
 
-       /* WWW www = new WWW(url);
-        yield return www;
-        string data = www.text;*/
+        WWW www = new WWW(url);
+        while (!www.isDone)
+        {
+            yield return null;
+        }
+        if (string.IsNullOrEmpty(www.error))
+        {
+            //www.
+            //MemoryStream stream = new MemoryStream(www.bytes);
+           // stream.
+            data = www.text;
+        }
+        else
+        {
+            yield return null;
+        }
+        www.Dispose();
 
-        List<Zone> zoneList = SVGFileReader.readZones(Application.dataPath + "/Resources/Json/" + "Bezirke.json");
-        //List<Zone> zoneList = SVGFileReader.readZones(data);
+        // List<Zone> zoneList = SVGFileReader.readZones(Application.dataPath + "/Resources/Json/" + "Bezirke.json");
+        if (data.Length > 5) { }
+        List<Zone> zoneList = SVGFileReader.readZones(data);
 
         zoneList.ForEach(delegate (Zone zone)
         {
@@ -34,8 +51,8 @@ public class SceneController : MonoBehaviour {
             lineRenderer.SetPositions(zone.getPointList().ToArray());
 
         });
-       
-	}
+    }
+
 	
 	// Update is called once per frame
 	void Update () {

@@ -7,7 +7,7 @@
 # Default behavior is to never overwrite files
 BaselInside.sln: modified
 BaselInside\App.cs: 13A6CEBEB4E087DB702DA396490107FF
-BaselInside\BaselInside.csproj: 960CAECA5D7B7B3D3C8724ACCC5DC502
+BaselInside\BaselInside.csproj: 8E4E569EDFAB6057BD38A2951632BB8B
 BaselInside\BaselInside.csproj.user: modified
 BaselInside\Package.appxmanifest: D1E386029DA5ACA6804F7AA772A39D7D
 BaselInside\project.json: 1D02BC64BAC0D041019673A1C4C51737

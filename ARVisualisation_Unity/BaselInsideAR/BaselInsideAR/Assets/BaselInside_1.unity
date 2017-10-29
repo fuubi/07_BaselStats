@@ -235,6 +235,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   zonePrefab: {fileID: 1964325657765246, guid: 9d518928b6339304581eff5ce6e38577, type: 2}
   textField: {fileID: 1897890935}
+  url: ' http://ip-api.com/json/'
 --- !u!1001 &174307323
 Prefab:
   m_ObjectHideFlags: 0
@@ -257,7 +258,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4936084597911686, guid: 9d518928b6339304581eff5ce6e38577, type: 2}
       propertyPath: m_LocalPosition.z
-      value: 10000
+      value: 10005.81
       objectReference: {fileID: 0}
     - target: {fileID: 4936084597911686, guid: 9d518928b6339304581eff5ce6e38577, type: 2}
       propertyPath: m_LocalRotation.x
@@ -303,6 +304,41 @@ Prefab:
         type: 2}
       propertyPath: m_Positions.Array.data[3].y
       value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 120916200750444948, guid: 9d518928b6339304581eff5ce6e38577,
+        type: 2}
+      propertyPath: m_Positions.Array.data[0].y
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 120916200750444948, guid: 9d518928b6339304581eff5ce6e38577,
+        type: 2}
+      propertyPath: m_Positions.Array.data[1].x
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 120916200750444948, guid: 9d518928b6339304581eff5ce6e38577,
+        type: 2}
+      propertyPath: m_Positions.Array.data[0].z
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 120916200750444948, guid: 9d518928b6339304581eff5ce6e38577,
+        type: 2}
+      propertyPath: m_Positions.Array.data[1].z
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 120916200750444948, guid: 9d518928b6339304581eff5ce6e38577,
+        type: 2}
+      propertyPath: m_Positions.Array.data[2].z
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 120916200750444948, guid: 9d518928b6339304581eff5ce6e38577,
+        type: 2}
+      propertyPath: m_Positions.Array.data[3].z
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 120916200750444948, guid: 9d518928b6339304581eff5ce6e38577,
+        type: 2}
+      propertyPath: m_Positions.Array.data[4].z
+      value: 4
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 9d518928b6339304581eff5ce6e38577, type: 2}
