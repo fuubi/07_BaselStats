@@ -65,7 +65,7 @@ export class LineChartAComponent {
             .subscribe(index => {
 
                 let next = [];
-                for(let i = 0; i<this.multi.length;i++){
+                for(let i = 0; i<this.multi.length; i++){
                     console.log(this.multi[i])
                     if (index != i){
                         next.push(this.multi[i])
