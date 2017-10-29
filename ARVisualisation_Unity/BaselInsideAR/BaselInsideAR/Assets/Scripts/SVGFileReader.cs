@@ -9,23 +9,73 @@ using MiniJSON;
 
 
 public class SVGFileReader
-    {
- 
+{
+
     public static List<Zone> readZones(string path)
     {
-    float pointNormalizationFactor = 50f;
-    List<Zone> zoneList = new List<Zone>();
+        float pointNormalizationFactor = 50f;
+        List<Zone> zoneList = new List<Zone>();
 
         var streamReader = new StreamReader(new FileStream(path, FileMode.Open));
         string data = streamReader.ReadToEnd();
         streamReader.Dispose();
 
-        
+        object dict = Json.Deserialize(data);
 
-        Dictionary<string, object> dict = (Dictionary<string, object>)Json.Deserialize(data);
+        foreach (object listItem in (List<object>)dict)
+        {
+            object id;
+            object name;
+            object coordinates;
+            Debug.Log(listItem.GetType());
 
-        List<object> list = (List<object>)dict["features"];
-        foreach (object ob in list)
+            int idInt;
+            string nameString;
+            List<Vector3> pointList = new List<Vector3>();
+
+            Dictionary<string, object> a = (Dictionary<string, object>)listItem;
+            Zone newZone;
+
+            if (a.TryGetValue("id", out id))
+            {
+                int.TryParse((string)id, out idInt);
+
+                if (a.TryGetValue("name", out name))
+                {
+                    nameString = (string)name;
+                    newZone = new Zone(idInt, nameString);
+                    if (a.TryGetValue("coordinates", out coordinates))
+                    {
+                        string c = (string)coordinates;
+                        string[] values = c.Split(' ');
+                        for (int i = 0; i < values.Length; i++)
+                        {
+                            string[] pointCoord = values[i].Split(',');
+                            if (pointCoord.Length > 1)
+                            {
+                                float pointCoordFloat1;
+                                float pointCoordFloat2;
+                                if (float.TryParse(pointCoord[0], out pointCoordFloat1) && float.TryParse(pointCoord[1], out pointCoordFloat2))
+                                {
+                                    Vector3 vec = new Vector3();
+                                    vec.Set(pointCoordFloat1, 0, pointCoordFloat2);
+                                    pointList.Add(vec);
+                                }
+                            }
+                        }
+                        newZone.setPointList(pointList);
+
+                    }
+                    zoneList.Add(newZone);
+                }
+            }
+        }
+
+
+        return zoneList;
+    }
+     //   string list = dict["features"];
+       /* foreach (object string in list)
         {
             //Zone newZone = new Zone("test");
             Dictionary<string, object> subList = (Dictionary<string, object>)ob;
@@ -55,7 +105,7 @@ public class SVGFileReader
                 }
             }
         }
-
+        */
         /*  rootObject.features.ForEach(delegate (Feature feature)
           {
               Zone zone = new Zone(feature.properties.BEZ_ID, feature.properties.BEZ_NAME);
@@ -73,8 +123,10 @@ public class SVGFileReader
               });
               zone.setPointList(pointList);
           });*/
-        return zoneList;
-    }
+        
+        
+
+    
 }
 
 public class Geometry
