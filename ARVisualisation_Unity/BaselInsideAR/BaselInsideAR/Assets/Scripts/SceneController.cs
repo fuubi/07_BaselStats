@@ -27,9 +27,6 @@ public class SceneController : MonoBehaviour {
         }
         if (string.IsNullOrEmpty(www.error))
         {
-            //www.
-            //MemoryStream stream = new MemoryStream(www.bytes);
-           // stream.
             data = www.text;
         }
         else
