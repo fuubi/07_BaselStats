@@ -1,7 +1,7 @@
 import { Injectable } from '@angular/core';
 import { Observable, Subject } from 'rxjs';
 import { Http } from '@angular/http';
-import constants from '../../constants';
+import { BASE_URL } from '../../constants';
 
 @Injectable()
 export class SearchService {
@@ -19,7 +19,7 @@ export class SearchService {
 
     getPredictions(query: string): Observable<ValueKey> {
         console.log("Searching for " + query );
-        return this.http.get("http://localhost:5000"+'/auto?term='+query)
+        return this.http.get(BASE_URL.BASE_URL_BACKEND+'/auto?term='+query)
             .map(response => response.json())
             .concatMap(vk => {
                 console.log(vk)

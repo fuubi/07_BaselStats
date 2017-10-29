@@ -58,7 +58,7 @@ export class LineChartAComponent {
             });
 
 
-        console.log(this.chart)
+        //console.log(this.chart)
 
     }
 
