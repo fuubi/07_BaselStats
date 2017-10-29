@@ -13,6 +13,25 @@ export var single = [
     }
 ];
 
+export var singleUpdate = [
+    {
+        "name": "Germany",
+        "value": 8940000
+    },
+    {
+        "name": "Schweiz",
+        "value": 2324222,
+    },
+    {
+        "name": "USA",
+        "value": 5000000
+    },
+    {
+        "name": "France",
+        "value": 7200000
+    }
+];
+
 export var multi = [
     {
         "name": "Germany",

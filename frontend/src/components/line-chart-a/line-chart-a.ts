@@ -22,6 +22,8 @@ export class LineChartAComponent {
     showXAxisLabel = true;
     xAxisLabel = 'Years';
     showYAxisLabel = true;
+    xAxisTickFormatting = (data) => data.value;
+    yAxisTickFormatting = (data) => data.value;
     yAxisLabel = 'Population';
 
     colorScheme = {
